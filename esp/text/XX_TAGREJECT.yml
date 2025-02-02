@@ -1,0 +1,38 @@
+# -----------------------------------------------
+# - IF OMORI
+# -----------------------------------------------
+message_0:
+    text: No eres la persona indicada para esta tarea.
+
+message_9:
+    text: ¡Esto parece un trabajo para OMORI!
+
+message_10:
+    text: ¡Esto parece un trabajo para AUBREY!
+
+message_11:
+    text: ¡Esto parece un trabajo para KEL!
+
+message_12:
+    text: ¡Esto parece un trabajo para HERO!
+
+message_13:
+    text: ¡Esto parece un trabajo para \n[8]!
+
+# -----------------------------------------------
+# - IF AUBREY
+# -----------------------------------------------
+message_1:
+    text: AUBREY no es de ayuda aquí.
+
+# -----------------------------------------------
+# - IF KEL
+# -----------------------------------------------
+message_2:
+    text: KEL no es de ayuda aquí.
+
+# -----------------------------------------------
+# - IF HERO
+# -----------------------------------------------
+message_3:
+    text: HERO no es de ayuda aquí.

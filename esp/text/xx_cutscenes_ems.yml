@@ -1,0 +1,126 @@
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill
+# =========================================================================================
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text:  Esto no es bueno... ¡Ni siquiera puedo abollar esta cosa!\aub
+
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hmmm...\! Espera un momento...\her
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Esto es queso, ¿no?\her
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: ¡Hey, tienes razón!\! ¡Es queso!\kel
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Vale chavales, escúchadme.\!<br>¿Qué tal si...\| nos comemos el queso?\kel
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Si todos empezamos ahora...\!<br>Probablemente podamos terminarnoslo en un par de horas más o menos.\kel
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Solo una advertencia. El queso me produce gases...\kel
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{\Com[2]¡EWWWWW, KEL!\aub\}
+
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Espera, KEL. No hay necesidad de eso.\her
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Creo que tengo la solución perfecta.\her
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Lidérame OMORI.\!<br>Sé cómo manejar esto.\her
+
+
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill (Cont.)
+# =========================================================================================
+
+#Trigger: Tag HERO and examine Cheese.
+
+# EMS spirals down from the sky
+
+message_50:
+      text: \}Hola, amigos!\! Soy yo... ¡EMS, la humilde hámster hambrienta!\ems
+
+#EMS looks around.
+
+message_51:
+      text: \}Vaya, ¿todo esto es para mí? ¡Que placer!\!<br>¿Cómo sabíais que el queso es mi comida favorita?\ems
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: No lo tengo que adivinar, EMS.\!<br>¡Toda la comida es tu favorita!\her
+
+#HERO turns to party.
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: ¡Esta es EMS!\! Una buena amiga mía.\her
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: ¡Ya sabes qué hacer, EMS!\her
+
+message_55:
+      text: \}¡Claro que sí!\! \Com[2]¡Un momentín!\ems
+
+#EMS begins to devour the cheese.
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Whoa...\kel
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: ¿Cómo cabe todo eso en su cuerpo?\aub
+
+message_58:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Lo mejor es no pensar en ello.\her
+
+message_59:
+      text: Se ha comido el queso y se ha despejado el camino.
+
+message_60:
+      text: \}¡Bueno, eso fue increíblemente satisfactorio!\ems
+
+message_61:
+      text: \}Si alguna vez volveis a necesitar mi ayuda con comida, ¡llamadme!\ems
+
+message_62:
+      text: \}¡Adiós, amigos!\ems
+
+#EMS spirals into the sky.

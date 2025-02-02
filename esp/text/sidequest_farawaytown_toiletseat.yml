@@ -1,0 +1,17 @@
+
+# =========================================================================================
+# Sidequest: Toilet Seat
+# =========================================================================================
+
+#Examine toilet seat
+message_0:
+      text: La taza del vater está subida.\! ¿Quieres bajarla?
+
+#yes/no
+
+#if yes
+message_1:
+      text: Bajaste la taza del vater.
+
+message_2:
+      text: ...\! Vomitaste.

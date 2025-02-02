@@ -1,0 +1,157 @@
+
+# =========================================================================================
+# Sidequest: Seashells
+# =========================================================================================
+
+#intro
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel¡Buenas, CRIS! ¿Cómo va eso?
+
+message_1:
+      text: \n<CRIS>¡Hey, KELLY!\! Oh, ¿y estos quienes son?
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel¡Traje a mi hermano y a mis amigos!
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel¡Ella es Aubrey!
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel¡Este es mi hermano HERO!
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel¡Y este es mi viejo amigo \n[8]!
+
+message_2:
+      text: \n<CRIS>¡Oh, espera, yo te conozco!\! ¿Eres \n[8], verdad?\!<br>Perdona, ya ha pasado un tiempo.\! Además, creo que solo hemos coincidido muy pocas veces...
+
+message_3:
+      text: \n<CRIS>Mi familia siempre ha estado viviendo aquí pero me enviaron a un internado por unos cuantos años y volví hace... ¿3 años?
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel¡Hey, \n[8]! ¡Ella es CRIS, mi vecina, además es super guay!\! ¡Es la nadadora más rápida de la escuela!
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel\sinv[1]Cuando está en el agua, la gente le compara con una sirena...\! o un tiburón...\! ¡O hasta un torpedo!\sinv[0]
+
+message_6:
+      text: \n<CRIS>Oh, KELLY... Nunca te faltan los cumplidos, jiji...
+
+message_7:
+      text: \n<CRIS>¿No te ibas a presentar a líder del equipo de baloncesto este año?\! Estoy muy segura de que te van a elegir, jiji...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 14 #insert number here
+      text: \kel¡Bueno, se esta intentando!\! ¡He estado jugando con desconocidos de vez en cuando en el parque!\! ¡Creo que estoy mejorando pero es difícil de decir...\! Heh...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 15 #insert number here
+      text: \kel¡Pero si yo hubiese estado practicando baloncesto lo mismo que tú has estado practicando natación, tendría más posibilidades.
+
+message_10:
+      text: \n<CRIS>Oh, no te creas, no soy tan trabajadora...\! ¡Honestamente me parece divertido!\! Además...\! aunque me encante nadar en piscinas, ¡prefiero mil veces más nadar en el océano!
+
+message_11:
+      text: \n<CRIS>Amo todo sobre el océano,\!la playa...\!<br>El sonido de las olas...\!<br>¡Incluso el olor de las algas! Jiji...\!<br>Perdona, seguramente suene muy obsesionada.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kel¡No hay problema!\! <br>Siempre está bien estar apasionado por algo, ¿no es asi?
+
+message_13:
+      text: \n<CRIS>Jiji...\! Supongo...\! Realmente, creo que todo esto empezó debido a que mi internado estaba en una isla ¡y me lo super bien!
+
+message_14:
+      text: \n<CRIS>El océano me recuerda a todos los amigos que hice...\!<br>Ojalá pudiera verles otra vez...
+
+message_15:
+      text: \n<CRIS>Pero...\! por ahora me dedicaré a coleccionar \c[4]CONCHAS MARINAS\c[0] y esas cosas.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 17 #insert number here
+      text: \kel¿Sabes? Esa historia me ha hecho recordar que...\!<br>¡\n[8] se va a mudar de aquí muy pronto!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 13 #insert number here
+      text: \kel¡A lo mejor podrías darle algunos consejos para cuando se tenga que ir!
+
+message_18:
+      text: \n<CRIS>Oh, ¿\n[8] se va a ir?\! Mmmh...\! Bueno, estar lejos de casa siempre es duro al principio...\! ¡pero el cambio es solo una realidad!
+
+message_19:
+      text: \n<CRIS>Son las memorias lo que más deberíamos apreciar.
+
+message_20:
+      text: \n<CRIS>¿Sabes qué?\! Vamos a hacer una cosa.<br>\!Si ves alguna \c[4]CONCHA MARINA\c[0], ¿me la podrías traer?
+
+message_21:
+      text: \n<CRIS>Son un poco difíciles de encontrar por aquí, ¡pero haré que valga la pena!
+
+#Talk to Cris with SEASHELLS
+
+message_22:
+      text: \n<CRIS>¡Hey, encontraste una \c[4]CONCHA MARINA\c[0]! ¿Me la das?
+
+message_23:
+      text: Le diste la \c[4]CONCHA MARINA\c[0] a CRIS.
+
+message_24:
+      text: \n<CRIS>Wow... Es muy bonita...\! Jiji... ¡Gracias!
+#Talk to cris after collecting some seashells (before leaving room)
+
+
+message_25:
+      text: CRIS está jugueteando con algo en sus manos.
+
+message_26:
+      text: \n<CRIS>\com[2]¡Hey! ¡No mires!\! Cuando este terminado te avisare, ¿ok?
+
+#Talk to Cris after collecting all SEASHELLS
+
+message_27:
+      text: \n<CRIS>\com[2]Y... ¡ya está!\! ¡Terminado!
+
+message_28:
+      text: \n<CRIS>¡Gracias por traerme las \c[4]CONCHAS MARINAS\c[0]!\!<br>Esto... es para ti.
+
+message_29:
+      text: \n<CRIS>Mis amigos me hicieron uno cuando me fui del internado...\! ¡así que pensé que podría compartir ese mismo sentimiento con alguien más!
+
+message_30:
+      text: Conseguiste un \c[13]COLLAR MARINO\c[0].
+
+message_31:
+      text: \n<CRIS>¡Espero que cada vez que lo veas te acuerdes de nosotros y tus memorias aquí\!<br>¡Mucha suerte con todo! ¡Estoy segura de que estarás bien vayas donde vayas!
+
+message_107:
+      text: \n<CRIS>¡Espero que cada vez que veas ese \c[13]COLLAR MARINO\c[0] te acuerdes de nosotros!\! ¡Mucha suerte con todo! ¡Estoy segura de que estarás bien vayas donde vayas!
+
+message_100:
+      text: ¡Encontraste una \c[4]CONCHA MARINA\c[0]!
+
+
+message_105:
+      text: \n<CRIS>¡Hey \n[8]!\! Si ven alguna \c[4]CONCHA MARINA\c[0], ¿me la podrías traer?
+
+message_106:
+      text: \n<CRIS>Son un poco difíciles de encontrar por aquí, ¡pero haré que valga la pena!

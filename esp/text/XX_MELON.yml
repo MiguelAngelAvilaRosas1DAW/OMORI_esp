@@ -1,0 +1,2765 @@
+# -----------------------------------------------
+# - NEW DIALOGUE: 750+
+# -----------------------------------------------
+
+#SM TOWN Door Guard
+
+message_750:
+    text: \n<BROTE DE TIERRA>Ahem...\! Si me permite tener sus \c[4]BOLETOS DEL SHOW\c[0] por favor.
+
+message_751:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubSí, sí, por supuesto SR. BROTE DE TIERRA.\!<br>Tenemos nuestros boletos aquí.
+
+message_752:
+    text: AUBREY buscó en su BOLSILLO y sacó los \c[4]BOLETOS DEL SHOW\c[0].
+
+message_753:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aubAquí tienes, SR. BROTE DE TIERRA.
+
+message_754:
+    text: \n<BROTE DE TIERRA>Oh...\! \com[2]¡Oh, dios!\! No puedo creer lo que ven mis ojos...\! ¡Estas son entradas de primera fila!\! vosotros...\! Todos deben haber hecho grandes sacrificios para estar hoy aquí...\! Les aplaudo.
+
+message_755:
+    text: \n<BROTE DE TIERRA>Perdónenme por haberles llamado antes de aspecto extraño.\!<br>A simple vista, vosotros cuatro son los BROTES DE TIERRA más normales que he visto.
+
+#SM TOWN Ticket Vendor (Before Show)
+
+message_760:
+    text: \n<BROTE DE TIERRA>Por favor, disfruten de sus asientos en primera fila, compañeros de aspecto normal.
+
+#SM TOWN Ticket Vendor (After Show)
+
+message_761:
+    text: \n<BROTE DE TIERRA>¡Vaya! ¡Qué final tan explosivo!\!<br>¿No es SWEETHEART la mejor?
+
+#Blackletter Video Tape
+
+message_762:
+      text: Conseguiste una cinta sin etiquetar.
+
+#Watering Plants
+
+message_763:
+      text: OMORI ha ganado 1 CORAZÓN.
+
+message_764:
+      text: AUBREY ha ganado 1 CORAZÓN.
+
+message_765:
+      text: KEL ha ganado 1 CORAZÓN.
+
+message_766:
+      text: HERO ha ganado 1 CORAZÓN.
+
+#Molly Entrance Tube
+
+message_767:
+      text: \"FUERA DE SERVICIO\"
+
+message_778:
+      text: \"EN CONSTRUCCIÓN\"
+
+#Molly Password Puzzle (Before)
+
+message_768:
+      text: YO ❤ MOLLY
+
+message_769:
+      text: CONTRASEÑA
+
+message_770:
+      text: HUMPHREY
+
+message_771:
+      text: BOOM
+
+message_772:
+      text: ROBOT
+
+message_773:
+      text: NINGUNO
+
+#Molly Password Puzzle (After)
+
+message_774:
+      text: BOMB
+
+message_775:
+      text: BOMO
+
+message_776:
+      text: MOMB
+
+message_777:
+      text: BOOM
+
+# === Night Scares ===
+
+#Fridge
+message_780:
+      text: No hay nada dentro.
+
+# === Otherworld Ladder Hector ===
+
+message_801:
+      text: Una roca normal
+
+# === SW Garden Statue ===
+
+message_802:
+      text: \n<ESTATUA IMPRESIONANTE>Usted dijo, "NADA."
+
+# === Vast Forest ===
+
+message_803:
+      text: \n<PERROLEGRE CALIENTE>Parece que soy de la longitud perfecta para bloquear este camino.
+
+# === Mustard Sub ===
+
+message_804:
+      text: Los PIRATAS ESPACIALES están fascinados por su CAPITÁN.
+
+# === SW Garden Guards ===
+
+message_805:
+    text: \n<ALEX EL ESTIMADO>Como miembro de la estimada élite, tengo una palabra clave especial para ocultar...\! pero probablemente no sepas nada de eso.
+
+message_806:
+    text: \n<BRIAN EL DISTINGUIDO>Cuidado con lo que pisas...\! Están en presencia de una de las distinguidas élites de SWEETHEART.\! ¡Guardaré la sabiduría de este castillo con mi vida!
+
+message_807:
+    text: \n<CAROL LA ILUSTRE>Proteger la contraseña sagrada es una tarea ardua.<br>\!Quizás algún día vosotros, jóvenes brotes finos, lleven la misma carga de la ilustre élite.
+
+message_808:
+    text: \n<HELEN LA CALAMITOSA>Uhh... Hola?\! Estoy, como... súper ocupada aquí siendo una de la élite calamitosa y todo eso.\! ¿Puedo... ayudarte en algo?
+
+# === BROTE DE TIERRA Village ===
+
+message_809:
+    text: ¿Quieres cortar el árbol de Navidad?
+
+message_810:
+    text: ¿Quieres cortar el cable?
+
+# === Last Resort Elevator ===
+
+message_811:
+    text: Usaste tu \c[4]TARJETA SUPER COOL\c[0].
+
+# === Hidden Library ===
+
+message_812:
+    text: ¿Quiere colocar tu \c[4]PARTITURA\c[0]?
+
+message_813:
+    text: Todas las palabras han sido garabateadas.
+
+message_814:
+    text: OMORI aprendió \c[1]VÉRTIGO\c[0].
+
+message_815:
+    text: OMORI aprendió \c[1]TELARAÑA\c[0].
+
+message_816:
+    text: OMORI aprendió \c[1]SOFOCAR\c[0].
+
+# === Otherworld Ladder ===
+
+message_817:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \herBASIL tiene que estar por aquí.
+
+# === Doom Tomb ===
+
+message_821:
+    text: "1"
+
+message_822:
+    text: "2"
+
+message_823:
+    text: "3"
+
+message_824:
+    text: "4"
+
+message_825:
+    text: "5"
+
+message_826:
+    text: "6"
+
+message_827:
+    text: "7"
+
+message_828:
+    text: "8"
+
+message_829:
+    text: "9"
+
+message_834:
+    text: "0"
+
+# === Slime Girls Lair ===
+
+message_830:
+    text: ¿Quieres dar tu \c[4]TARJETA SLIME\c[0] a HUMPHREY?
+
+message_831:
+    text: \n<HUHMPREY>\sinv[1]Ooooooooh... \sinv[0]¡Una \c[4]TARJETA SLIME\c[0]!
+
+message_832:
+    text: \n<HUHMPREY>\sinv[1]¡Yum, yum!\sinv[0]\! Entonces...\! ¿Quieres bajar ahora?
+
+message_833:
+    text: \n<HUHMPREY>\sinv[1]Genial~\! ¡Ya estoy aquí! \quake[1]Nyak, nyak!\quake[0]
+
+# === BS Clearing ===
+
+message_840:
+    text: E...Espera...\! P-Por favor, \n[8]...\! No me abandones...\! \fn<OMORI_GAME><br>No otra vez...\who
+
+# === Last Resort Construction ===
+
+message_850:
+    text: MARI
+
+message_851:
+    text: BASIL
+
+# === FA HIGH FIVE ===
+
+message_860:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: ¡Pero hey!\! Al menos tenemos el \c[4]ÁLBUM DE FOTOS\c[0] de BASIL.\! ¡y solo nos llevó medio día!\! Yo digo que eso hay que celebrarlo.\! ¡Choca esos cinco, \n[8]!\kel
+
+message_861:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Sabes, \n[8].\! Has sido muy valiente saltando al lago para salvar a BASIL.\kel
+
+message_867:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Y apesar de que sea HERO quien ha salvado el dia...\! ¡Tú también mereces un reconocimiento!\! ¡Choca esos cinco, \n[8]!\kel
+
+message_862:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Oye, \n[8].\! Gracias por dejarnos dormir anoche...\! y por pasar tus últimos días conmigo.\! Eres un verdadero amigo.\! \com[2]¡Choca esos cinco!\kel
+
+message_863:
+    text: ¿Quieres chocar los cinco con KEL?
+
+# === NORTH COAST ===
+
+message_864:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Respira hondo, \n[8]...\!<br>No tengas miedo.\! No es tan aterrador como crees.\mar
+
+# === SUMMONING ROOM ===
+
+message_865:
+    text: Se ha abierto un portal.
+
+# === DINO'S DIG ===
+
+message_866:
+    text: LA MEJOR OPCIÓN
+
+# === MYSTERY POTION ===
+
+message_868:
+    text: Los efectos de la POCIÓN MISTERIOSA desaparecieron...
+
+# === SW Servant Quarters ===
+
+message_869:
+    text: ELIGE AL AZAR
+
+# === UWH TOLL ===
+
+message_870:
+    text: \n<LAGARTO DE PEAJE>Pensaste que serías capaz de escabullirte por aquí si erais tres, ¿eh? \!Esto no es solo un carril para coches...\! ¡Es un carril doble para coches!
+
+# === STATIC VOID ===
+
+message_871:
+    text: \n<VIEJO BROTE>Me has matado...
+
+# === LAST RESORT HOTEL ===
+
+message_872:
+    text: Los ojos de la muñeca están ahuecados.\! ¿Quieres mirar dentro?
+
+# === Mystery Potion ===
+
+message_993:
+    text: La POCIÓN MISTERIOSA no funciona en los baños por alguna razón.
+
+message_994:
+    text: La POCIÓN MISTERIOSA no funcionó con AUBREY.
+
+message_995:
+    text: La POCIÓN MISTERIOSA no funcionó con KEL.
+
+message_996:
+    text: La POCIÓN MISTERIOSA no funcionó en HERO.
+
+message_997:
+    text: La etiqueta dice que la POCIÓN MISTERIOSA solo funciona bajo el agua.
+
+message_998:
+    text: Los efectos de la POCIÓN MISTERIOSA desaparecieron...
+
+# === NEIGHBOR'S ROOM ===
+
+message_1000:
+    text: ¿Quieres unirte a tus amigos?
+
+# -----------------------------------------------
+# - UNSORTED
+# -----------------------------------------------
+
+message_607:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Espera, OMORI.\! Deberíamos ir a ver a BASIL primero...\her
+
+# -----------------------------------------------
+# - PUZZLE ROOMs (4)
+# -----------------------------------------------
+
+#WEBBED PARTY
+
+# message_511:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 4
+#       text: Hey, watch it!\aub
+
+# message_512:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 28
+#       text: Ow.\kel
+
+# message_513:
+#       faceset: MainCharacters_DreamWorld
+#       faceindex: 40
+#       text: T-there's no rush...\her
+
+# -----------------------------------------------
+# - JUNKYARD III (144)
+# -----------------------------------------------
+
+#KEY
+
+message_343:
+    text: Conseguiste la \c[4]Llave del JUNKYARD\c[0]!
+
+# -----------------------------------------------
+# - JUNKYARD IV (145)
+# -----------------------------------------------
+
+#FIRST THROW EVENT
+
+message_200:
+    text: \n<SR. SCARETHROW>Me llaman SCARETHROW.\! Estoy atrapado en el suelo.\!<br>¡Lanza cosas hacia mí...\! y emitiré un sonido extraño!
+
+message_201:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel¡Wow, genial! ¡Suena como mi tipo de juego!
+
+message_202:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel¡Déjame intentarlo, OMORI! ¡Por favor!
+
+message_203:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel¡Vamos, OMORI! ¡lidérame de una vez!
+
+message_204:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \aubEspera OMORI, ¡quiero ver qué hace esto!
+
+#SCARETHROW
+
+message_345:
+    text: \n<SR. SCARETHROW>¿No fue divertido?\! Vuelve otro día e inténtalo de nuevo.
+
+message_346:
+    text: \n<SR. SCARETHROW>Ya puedes parar.
+
+message_347:
+    text: \n<SR. SCARETHROW>Me esta empezando a doler de verdad...
+
+message_348:
+    text: \n<SR. SCARETHROW>Por favor... detente...
+
+message_349:
+    text: \n<SR. SCARETHROW>...
+
+message_350:
+    text: \n<SR. SCARETHROW>Si no paras ahora, voy a tener que denunciarte a las autoridades.
+
+message_351:
+    text: \n<SR. SCARETHROW>Por favor, para...\! Te lo ruego.
+
+message_352:
+    text: \n<SR. SCARETHROW>PARA.\! ¡Dije que pares!
+
+message_353:
+    text: \n<SR. SCARETHROW>Hmph...\! Veo que las palabras no significan nada para ti.
+
+message_354:
+    text: \n<SR. SCARETHROW>Fiuf...\! Recuerdo cuando la gente solía escucharme...\!<br>Sabes... en el instituto, todo el mundo se burlaba de mí por no tener piernas.
+
+message_355:
+    text: \n<SR. SCARETHROW>Decían cosas como...\!<br>"¡Oh, mira! ¡Es SCARETHROW, parado en el mismo lugar como siempre lo hace!\! ¡Usémoslo para practicar el tiro al blanco!"
+
+message_356:
+    text: \n<SR. SCARETHROW>\sinv[1]Ohoooooo...\sinv[0]\! Los niños son tan malos... son realmente horribles...
+
+message_357:
+    text: \n<SR. SCARETHROW>Heh heh...\! ¡Solo me estás tirando pelotas!\!<br>¿De qué tengo que quejarme?\!<br>Esto no es nada comparado con lo que solía pasar.
+
+message_358:
+    text: \n<SR. SCARETHROW>Siempre se empieza por algo pequeño, ¿sabes?\! Primero, fueron \c[5]BANDAS DE GOMA\c[0]... luego \c[13]BOLAS DE GOMA\c[0]...\! Recuerdo que una vez un niño incluso me tiró un pupitre.
+
+message_359:
+    text: \n<SR. SCARETHROW>Seh...\! Así es....\! ¡Me llevé un escritorio entero en la cabeza!\! Solía decirme a mí mismo... si pude sobrevivir a esto, ¡puedo sobrevivir a cualquier cosa!
+
+message_360:
+    text: \n<SR. SCARETHROW>Ahora, veo...\! Si tuviera manos... podríamos jugar a la pelota.
+
+message_361:
+    text: \n<SR. SCARETHROW>Toma, lánzame la pelota.\! Intentaré cogerla.
+
+message_362:
+    text: \n<SR. SCARETHROW>Maldito...\! Supongo que se me escapó de las manos...\! Haha...\! <br>No te preocupes...\! Lo conseguiré a la próxima.
+
+message_363:
+    text: \n<SR. SCARETHROW>¡Oh! ¡Casi tengo!\! Estuve muy cerca... ¿Lo has visto?\!<br>Vamos... Inténtalo de nuevo.
+
+message_364:
+    text: \n<SR. SCARETHROW>Haha...\! Ah, tio... Buenos tiempos...
+
+message_365:
+    text: \n<SR. SCARETHROW>¿Podría ser... que yo tampoco tenga brazos de verdad?\! Me pregunto...
+
+message_366:
+    text: \n<SR. SCARETHROW>Fiuf...\! Me gustaría poder moverme...
+
+message_367:
+    text: \n<SR. SCARETHROW>Podría viajar por el mundo...\! sentar la cabeza con alguien a quien quiero...\! Formar una familia...
+
+message_368:
+    text: \n<SR. SCARETHROW>No...\! Es peligroso soñar tan imprudentemente.\!<br>¿Por qué tengo que quedarme aquí?\!<br>¿No se me permite tener nada bueno?
+
+message_369:
+    text: \n<SR. SCARETHROW>¿Por qué el destino es tan cruel? ¿Qué he hecho mal?\!<br>No es justo...\! Odio esto...
+
+message_370:
+    text: \n<SR. SCARETHROW>Ah... ¿Qué es esta sensación?\! Creo que estoy llorando.\! ¿Estoy llorando?\!<br>No tengo conductos lagrimales así que no puedo decirlo.\!<br>...\! Solo olvida que dije algo de esto, ¿vale?
+
+message_371:
+    text: \n<SR. SCARETHROW>Me llaman SCARETHROW.\! Estoy atrapado en el suelo.\!<br>Lanza cosas hacia mí...\! ¡y escucharás un sonido extraño!
+
+# -----------------------------------------------
+# - JUNKYARD VI (147)
+# -----------------------------------------------
+
+#COUCH
+
+message_154:
+    text: Este parece un buen lugar para relajarse.\!<br>¿Te gustaría tomar un descanso?
+
+message_155:
+    text: ¿Ya es hora de irse?
+
+message_156:
+    text: Solo un poco más...
+
+# -----------------------------------------------
+# - JUNKYARD VIII (149)
+# -----------------------------------------------
+
+#KEY MAGNET, AUBREY SMASH
+
+message_178:
+    text: Un campo eléctrico te impide acercarte.
+
+#ROSA
+
+message_341:
+    text: \n<???>¿Vale...?\! Eso fue raro......
+
+# -----------------------------------------------
+# - JUNKYARD IX (150)
+# -----------------------------------------------
+
+#ROSA
+
+message_506:
+    text: \n<ROSA>¡Nunca me atraparás, piernas de palo!
+
+message_342:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: ¡Rápido, OMORI! ¡Tras ella!<br>Necesitamos ese \c[4]CASETE ESPECIAL\c[0]!\kel
+
+# -----------------------------------------------
+# - PYREFLY FOREST (156, 158, 160)
+# -----------------------------------------------
+
+#EMPTY TRACK SPACES
+
+message_51:
+    text: A la vía férrea le falta un tramo.
+
+message_52:
+    text: ¿Quieres poner un \c[4]RAIL\c[0] aquí?
+
+#ITEM
+
+message_344:
+    text: Conseguiste unas \c[4]CERILLAS\c[0].
+
+message_625:
+    text: Conseguiste un \c[4]RAIL\c[0].
+
+#CANDLE
+
+message_623:
+    text: Necesitas \c[4]CERILLAS\c[0] para encender esta vela.
+
+# -----------------------------------------------
+# - PYREFLY: WILLOW (153)
+# -----------------------------------------------
+
+message_157:
+    text: CHISTE LUNAR
+
+message_158:
+    text: CHISTE DEL ESCARABAJO
+
+message_159:
+    text: CHISTE DE LA BICICLETA
+
+message_160:
+    text: CHISTE DEL PINGUINAL
+
+message_161:
+    text: CHISTE QUESÍL
+
+message_162:
+    text: CHISTE KELAMARESCO
+
+message_163:
+    text: CHISTE DE CONSTRUCCIÓN
+
+# -----------------------------------------------
+
+message_188:
+    text: La superficie del agua brilla.
+
+message_189:
+    text: ¿Quieres tirar 10 ALMEJAS al lago?\$
+
+message_190:
+    text: No tienes ALMEJAS.
+
+message_191:
+    text: ...
+
+message_192:
+    text: Hay un \c[4]LIBRO DE CHISTES\c[0] vacío aquí.\! ¿Recogerlo?
+
+message_193:
+    text: Siempre es bueno tener algunos chistes a mano.\!<br>Si solo tuvieras un \c[4]LIBRO DE CHISTES\c[0] para escribirlos...
+
+message_194:
+    text: Has grabado el chiste en tu \c[4]LIBRO DE CHISTES\c[0].
+
+# -----------------------------------------------
+# - PYREFLY: VIII (160)
+# -----------------------------------------------
+
+#DEAD MOLE CLUSTER
+
+message_507:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: ¿Qué diablos es esta cosa?\!<br>Es... un poco baboso...\! y huele a manzanas podridas.\kel
+
+message_508:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Hay más bosque al otro lado de este grumo.<br>\!¡Vamos, AUBREY! ¡Destruye esta cosa!\kel
+
+message_509:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: ¿Oh? ¿Qué es esto? ¿Me estás pidiendo ayuda, KEL?\! ¡Qué raro!\aub
+
+message_510:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Apártaos. ¡Os mostraré cómo se hace!\aub
+
+message_511:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \Com[2]¡Voy a darle a este extraño grumo todo lo que tengo!\aub
+
+#special charge up AUBREY SMASH + screen shake, but it does not budge
+#pause
+
+message_512:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel...
+
+message_513:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aub...
+
+message_514:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelBueno...\! esto es vergonzoso.\!<br>Supongo que debemos encontrar otra forma de pasar esta cosa.
+
+message_630:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Sí...\! Vamos a ello...\aub
+
+# -----------------------------------------------
+# - PYREFLY: IX (161)
+# -----------------------------------------------
+
+message_800:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 7
+      text: \com[2]¿A dónde vas, OMORI?\! Por favor, no me dejes aquí...\aub
+
+message_515:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Uh... ¿OMORI?\! Creo que te olvidas de alguien...\kel
+
+message_516:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: OMORI...\! Podría... probablemente necesitar un poco de ayuda aquí...\her
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: DUNGEON F1 (182)
+# -----------------------------------------------
+
+#Skeleton
+
+message_380:
+    text: \n<HUESOS>He estado atrapado aquí abajo tanto tiempo, que siento que apenas puedo mover un músculo...
+
+message_381:
+    text: \n<HUESOS>...\! ¿Eh?\! ¿Por qué esa cara?
+
+#Contestant moles
+
+message_395:
+    text: \n<CONCURSANTE>¡Oh, no! ¿Qué vamos a hacer?\!<br>Nadie se escapa de la \c[11]MAZMORRA\C[0]!
+
+#Mole closest to door
+
+message_517:
+    text: \n<BROTE ROSA?>\com[2]\sinv[1]\{\{¡¡AYUDAAAAAAAAAAA!!
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: TORTURE ROOM (184)
+# -----------------------------------------------
+
+message_518:
+    text: \n<BROTE MAYORDOMO>He cometido un grave error y ahora sufriré las consecuencias.
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: FOYER (172)
+# -----------------------------------------------
+
+#Gathered moles
+
+message_519:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kelAww, tio...\! ¡Mira el tamaño de esta multitud!
+
+message_520:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aub¡A este paso no llegaremos nunca!\! Busquemos otra salida...
+
+message_852:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herHmmm... Tal vez la multitud se termine eventualmente...\! Deberíamos venir aquí más tarde.
+
+#'MÁXIMO'
+
+message_244:
+    text: \n<SIR MÁXIMO>¡Alto, impostores!<br>Sé lo que sois... ¡y no sois BROTES DE TIERRA!\!<br>¡Hmhm! Te estarás preguntando cómo soy capaz de saberlo...<br>Verás... Estoy por encima de esos débiles e inexpertos HAROLD y MARSHA.<br><br>Soy SIR MÁXIMO... ¡y con mi impresionante linaje, saldré victorioso y traeré el honor a mi familia!
+
+message_245:
+    text: \n<SIR MÁXIMO II>¡Alto, impostores! Sé lo que sois... ¡y no sois BROTES DE TIERRA!<br><br>¡Hmhm! Te estarás preguntando cómo soy capaz de saberlo...<br>\!Verás... Soy el hijo del legendario guerrero,<br>SIR MÁXIMO...<br>Puede que hayáis vencido a mi padre, ¡pero yo soy más fuerte que él!\! Con mi impresionante linaje y mi padre a mi lado, ¡saldré victorioso!
+
+message_246:
+    text: \n<SIR MÁXIMO III>¡Alto, impostores! Sé lo que sois... ¡y no sois BROTES DE TIERRA!<br><br>¡Hmhm! Te estarás preguntando cómo soy capaz de saberlo...<br>\!Verás... Soy el hijo del legendario guerrero,<br>SIR MÁXIMO II y nieto de SIR MÁXIMO...<br>Puede que hayas derrotado a mi padre y a mi abuelo, ¡pero eso solo ha alimentado mi rabia y mi sed de venganza!<br><br>Con mi padre y mi abuelo a mi lado, saldré victorioso y vengaré a mi familia.
+
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: ART GALLERY (175)
+# -----------------------------------------------
+
+message_522:
+    text: Esta estatua está hecha con las lágrimas cristalizadas de los enemigos de SWEETHEART.
+
+message_391:
+    text: Te has convertido en arte.
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: SERVANT'S QUARTER (180)
+# -----------------------------------------------
+
+#Bottom left room
+
+message_523:
+    text: El BROTE DE TIERRA mira con nostalgia el retrato de SWEETHEART.
+
+message_524:
+    text: \n<BROTE MAYORDOMO>También me gustaría que me colgara en la pared.
+
+#Bottom right room 1
+
+message_525:
+    text: \n<BROTE MAYORDOMO>Sors de ma chambre ou j'appellerai les flics!
+
+message_526:
+    text: \n<BROTE MAID>¡Oh, Francois!\! No puedo entender ni una sola palabra de lo que dices, ¡pero eres tan encantador!
+
+#Bottom right room 2
+
+message_527:
+    text: \n<BROTE DE TIERRA>Demonios...\! ¿Cómo he acabado en este desastre?
+
+message_528:
+    text: \n<BROTE DE TIERRA>Un BROTE DE TIERRA de aspecto aterrador llamado MARSHA me sacó de repente de mi casa y me dijo que iba a sustituir a un personal defectuoso aquí.
+
+message_529:
+    text: \n<BROTE DE TIERRA>Aparentemente el último tipo fue arrojado en la \c[11]MAZMORRA\C[0] por traición...\! La velocidad de rotación aquí debe ser horrible.
+
+#Top left room 1
+
+message_530:
+    text: \n<BROTE MAYORDOMO>\com[2]¡No te engañes, cretino!<br>¡Voy a ser el que se case con SWEETHEART!
+
+message_531:
+    text: \n<BROTE MAYORDOMO>\com[2]¡Descargas delirios, hermano gemelo!\!<br>¡Soy yo quien se va a casar con SWEETHEART!
+
+message_532:
+    text: \n<BROTE MAYORDOMO>¡Oh, por favor! ¡Esto no será un concurso!\! Cuando se trata de nosotros dos, ¡yo soy de lejos el más elegante!
+
+message_533:
+    text: \n<BROTE MAYORDOMO>¡No seas tonto, hermano! ¡Somos exactamente iguales!\! Solo sé que SWEETHEART se va a enamorar de... ¡mi personalidad!
+
+message_534:
+    text: \n<BROTE MAYORDOMO>Tsk, tsk, tsk... ¡Tonterías, hermano!\! Cuando llegue el momento, caerá rendida ante mi nuevo bigote tan a la \sinv[1]moooooooooda.\sinv[0] 
+
+message_535:
+    text: \n<BROTE MAYORDOMO>¡Hmph! ¿!¡Un bigote a la \sinv[1]mooooooda\sinv[0] dices!?<br>\!¿¡Qué bigote!?\! ¡Todo lo que veo son un par de pelos en tu nariz!
+
+message_536:
+    text: \n<BROTE MAYORDOMO>Querido hermano...\! \com[2]¡Realmente estás colmando hasta mi último tallo!\!<br>¡Pero yo sé cómo resolver esto!
+
+message_537:
+    text: \n<BROTES MAYORDOMOS>\{\{HERMANOS BROTES DE TIERRA
+
+message_660:
+    text: \n<BROTES MAYORDOMOS>\{\{¡EXTRAÑAS CRIATURAS!!
+
+message_538:
+    text: \n<BROTES MAYORDOMOS>¿Cuál de los dos crees que es mejor para SWEETHEART?
+
+message_539:
+    text: \n<BROTE MAYORDOMO>¡Ja! ¿Qué te dije?\!<br>¡Voy a pedirle a SWEETHEART que se case conmigo ahora mismo!
+
+message_540:
+    text: \n<BROTE MAYORDOMO>\com[2]¡No me creo esta tontería!
+
+message_541:
+    text: \n<BROTE MAYORDOMO>Ha! Como era de esperar.\!<br>¡Voy a pedirle a SWEETHEART que se case conmigo ahora mismo!
+
+message_542:
+    text: \n<BROTE MAYORDOMO>¡No me creo esta tontería!
+
+message_543:
+    text: \n<BROTE MAYORDOMO>Oh, ¡ay de mí!\!<br>Estoy de luto por mi hermano perdido.
+
+message_544:
+    text: \n<BROTE MAYORDOMO>Con su aspecto...<br>Ya sé que se irá a la \c[11]MAZMORRA\C[0] con él.
+
+message_545:
+    text: \n<BROTE MAYORDOMO>Al igual que nuestro difunto tercer hermano...
+
+message_546:
+    text: \n<BROTE MAYORDOMO>¡No puedo creer que mi plan haya funcionado!\! Ahora por fin puedo tener esta habitación para mí solo...
+
+#Meditating mole
+
+message_547:
+    text: \n<BROTE MAID>\sinv[1]Hum... Despeja tu mente...\!<br>Hum... Armonizar con el universo...\!<br>Hum... Vuelve a tu estado natural...
+
+message_548:
+    text: \n<BROTE MAID>\sinv[1]Hum... Conviértete en...\! \c[3]TOFU\c[0] de nuevo...
+
+message_549:
+    text: \n<BROTE MAID>\com[2]¡Oye! ¿No ves que estoy tratando de meditar aquí?
+
+message_550:
+    text: \n<BROTE MAID>¡Son vosotros tan groseros!
+
+#Table moles
+
+message_551:
+    text: \n<BROTE MAYORDOMO>SWEETHEART es tan genial...\! Me gustaría poder trabajar aquí para siempre.
+
+message_552:
+    text: \n<BROTE MAYORDOMO>¡SWEETHEART da mucho miedo!\! Me gustaría poder ir a casa...
+
+#Top left room 2
+
+message_553:
+    text: \n<BROTE MAYORDOMO>¡Es tan difícil dormir con esos dos en la otra habitación!
+
+message_554:
+    text: \n<BROTE MAYORDOMO>Si tuviéramos techos aquí...
+
+message_555:
+    text: \n<BROTE MAYORDOMO>\sinv[1]Rooooooooooooooooonquido...
+
+#Top right room
+
+message_556:
+    text: \n<BROTE MAID>Querido diario...\! hoy...\! Yo...\! ...\! ...
+
+message_557:
+    text: \n<BROTE MAID>Eeeeh...\! ¿Qué he hecho hoy?
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: BEDROOM (186)
+# -----------------------------------------------
+
+message_558:
+    text: \n<CASTELLA>Huff...\| huff...\| huff...
+
+message_901:
+    text: \n<CASTELLA>¡Cielos! ¿Qué estás haciendo aquí?\! Los BROTES DE TIERRA comunes no están permitidos en las CÁMARAS de SWEETHEART... ¡Ya conoces las reglas!
+
+message_902:
+    text: \n<CASTELLA>Ah...\! Espera un momento...\! Tal vez puedas ayudarme.
+
+message_559:
+    text: \n<CASTELLA>SWEETHEART me ordenó que sacara esta estatua de su dormitorio antes de que volviera, ¡pero no consigo que se mueva en lo absoluto!
+
+message_560:
+    text: \n<CASTELLA>Si esta cosa se rompiera repentina y convenientemente en pedacitos...
+
+message_561:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelBueno, madam...\! Lo que me parece es... que necesitas algo de destrucción...\! y resulta que AUBREY es una especialista en destrucción.
+
+message_903:
+    text: \n<CASTELLA>¿AUBREY?\! Un nombre un poco raro para un BROTE DE TIERRA...\! Por otra parte, últimamente SWEETHEART se ha quedado sin nombres nuevos que dar.
+
+message_562:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubEspera, KEL...\! ¿No es esa una estatua del CAPT. CHICO ESPACIAL?\!<br>Me sentiría mal destruyéndolo.
+
+message_563:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelPsh... ¡No es que se vaya a enterar!\! CAPT. CHICO ESPACIAL y SWEETHEART son cosa del pasado...\! Vive y deja vivir, eso es lo que digo siempre.
+
+message_564:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aub¡Nunca dices eso!\!<br>Pero bueno... Supongo que puedo intentarlo.
+
+message_565:
+    text: \n<CASTELLA>Me quedaré mirando esta estatua y espero que mis poderes psíquicos se despierten mientras tanto.
+
+message_566:
+    text: \n<CASTELLA>Phew... ¡son verdaderos salvavidas!\!<br>Debería haber sabido que debía dejar esta tarea a los especialistas.
+
+#AUBREY READYS
+
+message_635:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubBueno...\! Aquí voy...\! Esta vez...\! ¡No voy a fallar!
+
+#SBF STATUE CRUMBLES
+
+message_636:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub...
+
+message_567:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 26
+    text: \kel...
+
+message_569:
+    text: \n<CASTELLA>¡Genial!\! Lo has conseguido.
+
+message_570:
+    text: \n<CASTELLA>Bueno...\! ¡Es hora de limpiar esto!
+
+message_308:
+    text: \n<CASTELLA>Vaya...\!<br>¡Resulta que todo lo que tenía que hacer era levantarlo desde el fondo!
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: THEATER (168)
+# -----------------------------------------------
+
+message_571:
+    text: \n<BROTE FUGITIVO>\}Shh...\! No estoy aquí...\! ...\!<br>No has visto nada.
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: BALLROOM (178)
+# -----------------------------------------------
+
+message_572:
+    text: \n<BROTE VIRTUOSO>\com[2]¡No, no, no!\! ¡Esto no servirá de nada!\!<br>¡Tú en el centro izquierda! ¿Llamas a eso cantar?\!<br>¡El flamenco de plástico de mi primo canta mejor que tú!
+
+message_573:
+    text: \n<BROTE VIRTUOSO>Y no creas que no te veo en la última fila durmiendo durante el estribillo.\! ¡Controlaos, o de lo contrario SWEETHEART hará que nos metan en la \c[11]MAZMORRA\C[0]!
+
+message_574:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \n<HERO>Huh...\! Estos BROTES DE TIERRA parecen estar en problemas...\! Me pregunto si hay alguna manera de poder ayudar.
+
+message_575:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\com[2]¡Hola, chicos! ¿Necesitáis una mano?\!<br>Somos ayudantes profesionales, ¡a su servicio!
+
+message_576:
+    text: \n<BROTE VIRTUOSO>¡Oh, gracias a Dios! ¡Los profesionales han llegado!
+
+message_577:
+    text: \n<BROTE VIRTUOSO>Debemos tener el coro listo antes del evento principal de SWEETHEART, ¡pero no hay tiempo suficiente!
+
+message_578:
+    text: \n<BROTE VIRTUOSO>Verás... Nosotros, los BROTES DE TIERRA, nos dormimos mucho escuchando música...\! Así que, como puedes imaginar, ¡el coro se sigue durmiendo!
+
+message_579:
+    text: \n<BROTE VIRTUOSO>Beh... Me temo que tendremos que recurrir a otro...\!<br>\quake[1]método...\!\quake[0] alternativo para mantenerlos despiertos...
+
+message_580:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel¡Ya veo!\! ¡No hay que temer, querido amigo BROTE DE TIERRA!<br>\!¡Yo sé...\! \quake[1]EXACTAMENTE...\quake[0]\! de lo que estás hablando!
+
+message_900:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herTú...\! ¿lo sabes?
+
+message_581:
+    text: \n<BROTE VIRTUOSO>Gracias a Dios, ¡estamos salvados!<br>\!Debería haber esperado lo mismo de los profesionales.
+
+message_640:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelYo me encargaré de esto, buen señor. Puede confiar en mí.
+
+message_582:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelSR. BROTE VIRTUOSO, señor...\! Estoy listo.
+
+message_583:
+    text: \n<BROTE VIRTUOSO>¡Gracias, amable profesional!\!<br>Estamos en deuda contigo.
+
+message_584:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelEsto será pan comido.\! ¡Liderame, OMORI!\! Sé \quake[1]EXACTAMENTE...\quake[0]\! lo que hay que hacer.
+
+message_585:
+    text: \n<BROTE VIRTUOSO>\Com[2]¡Sí, sí, sí! ¡Espléndido!\! ¡Con vuestra ayuda el evento principal será glorioso!
+
+message_586:
+    text: \n<BROTE VIRTUOSO>Disculpe, profesional...\! Si me permites... parece que apenas hiciste nada...
+
+message_587:
+    text: \n<BROTE VIRTUOSO>Oh... No está funcionando...\! Esta situación puede ser desesperada...
+
+message_588:
+    text: \n<BROTE VIRTUOSO>Ah, ¡ya estoy notando la mejora!
+
+message_589:
+    text: \n<BROTE VIRTUOSO>Pero... ¡Me pregunto si podemos hacerlo mejor!\!<br>¿Quieres volver a intentarlo, profesional?
+
+message_590:
+    text: \n<BROTE VIRTUOSO>Ah, ¡parece que ya es casi la hora del evento!
+
+message_591:
+    text: \n<BROTE VIRTUOSO>Esto significa que solo tenemos tiempo para una sesión más.\! ¿Quieres darnos una última oportunidad?
+
+message_592:
+    text: \n<BROTE VIRTUOSO>¡Creo en ti, profesional!\! ¡Arriba los brazos!
+
+message_593:
+    text: \n<BROTE VIRTUOSO>Gracias por tu tiempo.\!<br>Intentaremos arreglarnos con lo que tenemos.
+
+#BROTE DANZARINS
+
+message_373:
+    text: \n<BROTE DANZARIN>Yo también quiero bailar, pero quien querría ser mi pareja...
+
+message_374:
+    text: \n<BROTE DANZARIN>...\! ¿Quiere uno de vosotros bailar conmigo?
+
+message_375:
+    text: \n<BROTE DANZARIN>¡Está bien! ¡No te decepcionaré!
+
+message_376:
+    text: \n<BROTE DANZARIN>Eso fue muy divertido...\! Ah...\! ¿Qué es este sentimiento?\!<br>Mi corazón se acelera tanto...
+
+message_377:
+    text: \n<BROTE DANZARIN>Gracias, hehe...
+
+message_378:
+    text: \n<BROTE DANZARIN>¿Quieres bailar conmigo otra vez?
+
+message_379:
+    text: \n<BROTE DANZARIN>Yay...
+
+message_799:
+    text: \n<BROTE DANZARIN>Oh...\! ¿Qué he hecho para merecer esta soledad?
+
+
+
+# -----------------------------------------------
+# - SWEETHEART'S CASTLE: GARDEN (169)
+# -----------------------------------------------
+
+#First Cutscene
+
+message_594:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\sinv[1]¡Woo-hoo! ¡Por fin salimos del castillo de SWEETHEART!\!\sinv[0]<br>Me pregunto qué pasa con ese gran evento que todos están preparando...
+
+message_595:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubExtraño... No veo a los BROTES DE TIERRA de la entrada en ninguna parte.\! ¿A dónde habrán ido?
+
+message_596:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \n<HERO>¡Debe haber una salida oculta en alguna parte!\! Vamos a hurgar en todo lo que parezca sospechoso.
+
+#Second Cutscene (Statue Laser)
+
+message_309:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kel\{\{\quake[1]¡¡OUCH!! ¡¡ESO DUELE!!\}\}
+
+message_310:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aub¿Estáis todos bien?\! ¿Qué ha pasado?
+
+message_650:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kelUgh...\! ¡Esa planta de SWEETHEART acaba de disparar un láser!
+
+message_311:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \n<HERO>Hmm...\! Tiene que haber una manera de deshacerse de estas cosas...
+
+#Third Cutscene (Throw Platform)
+
+message_312:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kelEstá bien, SWEETHEART... ¡Tú lo pediste!
+
+message_313:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kel\com[2]\{\{\sinv[1]¡¡HI-YAHHHH!!
+
+message_314:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 24
+    text: \kel...\! Jo... He fallado.
+
+message_315:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 14
+    text: \aub¡KEL, no vas a derrotar a nadie tirando así!
+
+message_316:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aub¿Por qué no intentas apuntar por una vez?
+
+message_317:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel¿Huh?\! ¿Puedo apuntar?\! ¿En serio?
+
+message_318:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aub¡Pues claro!\! ¡Incluso tú puedes apuntar, KEL!
+
+message_319:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel¡Muy bien! ¡Daré lo mejor de mí!
+
+#Vine Moles
+
+message_597:
+    text: \n<BROTE JARDINERO>¡Estas enredaderas van a ser mi muerte!
+
+message_598:
+    text: \n<BROTE JARDINERO>¡Malditas sean estas enredaderas! ¡No se rinden nunca!
+
+message_599:
+    text: \n<BROTE JARDINERO>Nos pasamos todos los días cortando estas enredaderas, pero parece que nunca conseguimos hacer nada.
+
+message_600:
+    text: \n<BROTE JARDINERO>Casi puedo ver el otro lado... ¿Uhm?
+
+message_601:
+    text: \n<BROTE JARDINERO>¡Estas enredaderas son duras como yo!
+
+message_602:
+    text: \n<BROTE JARDIN>Ya casi está... Creo que...
+
+message_603:
+    text: \n<BROTE JARDINERO>Seguimos cortando estas enredaderas...<br>¡pero siguen creciendo!
+
+message_604:
+    text: \n<BROTE JARDINERO>Chop... Chop... Chop...
+
+message_605:
+    text: \n<BROTE JARDINERO>¡Cuidado con no cortarse! Estas enredaderas son afiladas.
+
+message_606:
+    text: \n<BROTE JARDIN>Huh... Esto es raro....\! No puedo ver nada...
+
+#PUZZLE MOLE 1 (Top Left)
+
+message_0:
+    text: \n<ALEX EL ESTIMADO>Hay cuatro contraseñas que hay que decir a la estatua de SWEETHEART para desvelar el túnel secreto.<br><br>Naturalmente, como parte de la élite elegida, se me ha dado la responsabilidad de vigilar la tercera de las cuatro.
+
+message_1:
+    text: \n<ALEX EL ESTIMADO>¿Huh?\! ¿Quieres saber la contraseña?\!<br>Oh no...\! Lo siento....\! Se supone que no debo decirsela a nadie...
+
+message_2:
+    text: \n<ALEX EL ESTIMADO>¿Huh?\! ¿Realmente la necesitas?
+
+message_3:
+    text: \n<ALEX EL ESTIMADO>Hmmmmmm...\!<br>Supongo que no tengo otra opción entonces...\!<br>Pero tienes que prometer que no se lo dirás a nadie más.<br>\Com[2]\{¡PROMESA DE MEÑIQUE!
+
+message_4:
+    text: \n<ALEX EL ESTIMADO>¡Y listo!\!<br>Phew... ¡Me preocupaba que fueras alguien de poca confianza!<br>Ahora...\! acércate...\!<br>\}La contraseña que se me ha confiado es...\! "RELLENA".\!<br>¿Ok?\! Prometeme que no se lo dirás a nadie, ¿vale?
+
+message_5:
+    text: \n<ALEX EL ESTIMADO>Lo siento, pero tienes que aprender a guardar un secreto antes de que pueda decirte la contraseña secreta.
+
+#PUZZLE MOLE 2 (Bottom Right)
+
+message_400:
+    text: \n<BRIAN EL DISTINGUIDO>Hay cuatro contraseñas que hay que decir a la estatua de SWEETHEART para desvelar el túnel secreto.<br><br>Naturalmente, como parte de la élite elegida, se me ha dado la responsabilidad de vigilar la segunda de las cuatro.
+
+message_6:
+    text: \n<BRIAN EL DISTINGUIDO>¿Quieres saber la contraseña, eh?\!<br>\com[2]No tan rápido, amigo.\!<br>Tengo que decir que... Eres muy alto para ser un BROTE DE TIERRA...
+
+message_7:
+    text: \n<BRIAN EL DISTINGUIDO>\com[2]¿Cómo puedo saber si realmente eres una de las criaturas más inteligentes y majestuosas?\! ¿Crees que revelaría la contraseña a un espía potencial? \!¡Ha!\! ¡No me hagas reír!
+
+message_8:
+    text: \n<BRIAN EL DISTINGUIDO>Si estás tan seguro de que eres un BROTE DE TIERRA, ¿por qué no lo demuestras?\! Te diré la contraseña... ¡si puedes adivinar en qué estoy pensando ahora mismo!
+
+message_9:
+    text: TOFU
+
+message_10:
+    text: SWEETHEART
+
+message_151:
+    text: SOBREVIVENCIA
+
+message_152:
+    text: \n<BRIAN EL DISTINGUIDO>\com[2]A-ha!\! ¡Sabía que había algo sospechoso en ti!
+
+message_153:
+    text: \n<BRIAN EL DISTINGUIDO>Todo el mundo sabe que los BROTES DE TIERRA son inmortales.<br>\!¡Guardias, llevaos a estos farsantes!
+
+#You are transported to THE DUNGEON cell.
+
+message_401:
+    text: \n<BRIAN EL DISTINGUIDO>Hay cuatro contraseñas que hay que decir a la estatua de SWEETHEART para desvelar el túnel secreto.<br><br>Naturalmente, como parte de la élite elegida, se me ha dado la responsabilidad de vigilar la segunda de las cuatro.
+
+message_11:
+    text: \n<BRIAN EL DISTINGUIDO>Oh...\! Mmm...\! Delicioso \c[3]TOFU\c[0]...
+
+message_12:
+    text: \n<BRIAN EL DISTINGUIDO>Oh...\! Hmmm...\! Estaba pensando en \c[3]TOFU\c[0]...\! pero...\!<br>sabes que... ¡tienes razón!
+
+message_13:
+    text: \n<BRIAN EL DISTINGUIDO>¡Debería estar pensando absolutamente en SWEETHEART!<br>Tal vez seas aún más BROTE DE TIERRA que yo.
+
+message_14:
+    text: \n<BRIAN EL DISTINGUIDO>Me disculpo por haber dudado de ti.\! ¡Supongo que hay todo tipo de BROTES DE TIERRA por ahí!<br><br>Ahora...\! acércate más...\!<br>\}La contraseña que se me ha confiado es...\! "DONA".\!<br>¿Lo has entendido?\! Promete que no se lo dirás a nadie, ¿vale?
+
+#PUZZLE MOLE 3 (Bottom Left)
+
+message_402:
+    text: \n<CAROL LA ILUSTRE>Hay cuatro contraseñas que hay que decir a la estatua de SWEETHEART para desvelar el túnel secreto.<br><br>Naturalmente, como parte de la élite elegida, se me ha dado la responsabilidad de vigilar la primera de las cuatro.
+
+message_15:
+    text: \n<CAROL LA ILUSTRE>Es un hermoso día en el jardín, ¿no es así, hermanos y hermanas?
+
+message_16:
+    text: \n<CAROL LA ILUSTRE>¡Ah!\! ¿Dices que te gustaría saber la contraseña?\!<br>Me disculpo.\! Me temo que eso no es de mi incumbencia.
+
+message_17:
+    text: \n<CAROL LA ILUSTRE>Aunque...\! Supongo que algo sabroso, blanquecino y en forma de cubo puede hacerme cambiar de opinión...
+
+#Give puzzle mole a consumable
+
+message_20:
+    text: ¿Dar a CAROL LA ILUSTRE un \c[3]TOFU\c[0]?
+
+#Give mole TOFU
+message_18:
+    text: \n<CAROL LA ILUSTRE>Oh...\! Mmm...\! Delicioso, irresistible \c[3]TOFU\c[0]...<br>\!Supongo que podría dejarlo pasar por esta vez...
+
+#Give mole anything else
+message_19:
+    text: \n<CAROL LA ILUSTRE>Ahora...\! acércate más...\!<br>\}La contraseña que se me ha confiado es...\! "DULCE".\!<br>¿Lo has entendido?\! Promete que no se lo dirás a nadie, ¿vale?
+
+message_624:
+    text: No tienes ningún \c[3]TOFU\c[0].
+
+# message_20:
+#     text: \n<GUARD MOLE>Ugh... Bleh!\! What did you give me!?\!<br>I cannot break my vows over this gruel!
+
+#PUZZLE MOLE 4 (Top Right) MSG 22 - 23
+
+message_403:
+    text: \n<HELEN LA CALAMITOSA>Hay cuatro contraseñas que hay que decir a la estatua de SWEETHEART para desvelar el túnel secreto.<br><br>Naturalmente, como parte de la élite elegida, se me ha dado la responsabilidad de vigilar la última.
+
+message_21:
+    text: \n<HELEN LA CALAMITOSA>¡Pero, ugh!\! Se supone que tengo que guardar esta contraseña súper secreta y todo eso, ¿no? Pero, como se trata de comida, ahora solo pienso en comida todo el tiempo...<br>¡Me da tanta hambre, que he empezado a masticar la hierba para frenar mi apetito! ¿Puedes creerlo? ¡Deberían empezar a dar comida a los guardias de por aquí!
+
+message_22:
+    text: \n<HELEN LA CALAMITOSA>Y además, ¿qué clase de contraseña es "JALEA" de todos modos?\! ¿No es ese el estúpido nombre de cariño que el tipo raro de azul siempre llamaba SWEETHEART o algo así?<br>\com[2]¡Por favor!\! ¡Eso no es ningún secreto! ¡Cualquiera podría adivinarlo! Siempre andaban por aquí y actuaban como pareja, llamándose así de un lado a otro...<br>Diciendo cosas como, "¿Por qué no me pides matrimonio todavía?" y "Lo siento. Mis amigos no aprueban nuestra relación..." todo el tiempo... ¡Uf! Es tan molesto.
+
+message_23:
+    text: \n<HELEN LA CALAMITOSA>Pero, sea como sea...\! Todavía estoy atrapada aquí guardando las contraseñas con esos otros tres guardias...\! ¡Esos tipos no podrían guardar un secreto ni para salvar sus vidas!<br>¡Hmph! ¡Así es! ¡Preocúpate de mí si quieres! ¡A ver si me importa!\! Aquí estoy, atrapada en este solitario rincón del jardín, guardando la palabra "JALEA" de todas las cosas.\! ¡Cielos!
+
+#PASSWORD STATUE PART 1
+
+message_24:
+    text: Se quedó mirando el lado de la estatua.
+
+message_405:
+    text: \n<ESTATUA IMPRESIONANTE>\Com[2]\quake[1]\{\{¡¡HEY!! ¡¡¡AQUI ARRIBA!!!
+
+message_25:
+    text: Una ESTATUA IMPRESIONANTE de SWEETHEART arroja una sombra incómoda sobre el jardín.
+
+message_26:
+    text: \n<ESTATUA IMPRESIONANTE>\quake[1]\{\{¿CUÁL ES LA CONTRASEÑA?
+
+#ADJECTIVE
+
+message_27:
+    text: MÁGICA
+
+message_28:
+    text: FLAMANTE
+
+message_29:
+    text: ROMANTICA
+
+message_30:
+    text: BELLA
+
+#NOUN
+
+message_31:
+    text: PLANETA
+
+message_32:
+    text: FLAMANTE
+
+message_33:
+    text: BROTE
+
+message_34:
+    text: PIÑA
+
+#DESCRIPTOR
+
+message_35:
+    text: COMER
+
+message_36:
+    text: TAMAÑO
+
+message_37:
+    text: INHALACIÓN
+
+message_38:
+    text: CONVOCATORIA
+
+#NOUN
+
+message_39:
+    text: ESTATUA
+
+message_40:
+    text: TOSTADO
+
+message_41:
+    text: BALLENA
+
+message_42:
+    text: ELEVADOR
+
+#ANSWERS
+
+message_43:
+    text: DULCE
+
+message_44:
+    text: DONA
+
+message_45:
+    text: RELLENA 
+
+message_46:
+    text: DE JALEA
+
+#PASSWORD STATUE PART 2
+
+message_47:
+    text: \n<ESTATUA IMPRESIONANTE>... Y?
+
+message_48:
+    text: ...\. ...\. ...\. ...\. ...\.
+
+message_49:
+    text: \n<ESTATUA IMPRESIONANTE>Dijiste, \"\v[101] \v[102] \v[103] \v[104]\"\c[0].
+
+message_50:
+    text: \n<ESTATUA IMPRESIONANTE>\Com[2]\quake[1]\{\{¡¡¡MAL!!!
+
+message_404:
+    text: \n<ESTATUA IMPRESIONANTE>\Com[2]\quake[1]\{\{¡¡¡BIEN!!!
+
+message_411:
+    text: \n<ESTATUA IMPRESIONANTE>Hmph...\. ...\. ...
+
+message_412:
+    text: Te quedaste mirando la parte trasera de la estatua.
+
+
+# -----------------------------------------------
+# - SW CASTLE: DUNGEON (183)
+# -----------------------------------------------
+
+#BLOCKING SWITCH
+
+message_173:
+    text: \n<BROTE PRISIONERO>¡Hurra!\! Después de innumerables fracasos, ¡por fin casi he conseguido escapar!\! ¡Todo lo que tengo que hacer ahora es encontrar la salida!
+
+# -----------------------------------------------
+# - SW CASTLE: SERVANT'S QUARTER (180)
+# -----------------------------------------------
+
+#TOP LEFT ROOM
+
+message_211:
+    text: BROTE DE TIERRA
+
+message_212:
+    text: OTRO BROTE DE TIERRA
+
+# -----------------------------------------------
+# - TRAIN (328)
+# -----------------------------------------------
+
+message_228:
+    text: Esta persona parece estar ocupada.
+
+message_229:
+    text: TOSTADO.
+
+message_230:
+    text: \fn<OMORI_GAME>\who\quake[1]No te...\| acerques...
+
+# -----------------------------------------------
+# - ORANGE OASIS: DINO'S DIG (107 - 110)
+# -----------------------------------------------
+
+#EXCAVATION DINO (107)
+
+message_429:
+    text: CUCHARA DE PATATA (5)
+
+message_430:
+    text: CUCHARA DE PLÁSTICO (10)
+
+message_431:
+    text: CUCHARA DE MADERA (15)
+
+message_432:
+    text: CUCHARA DE PLATA (20)
+
+message_433:
+    text: CUCHARA DE ORO
+
+message_434:
+    text: \n<DINO>Oye, ¿a dónde vas?\! \com[2]¿No quieres ir a una \sinv[1]aventura\c[0]!?
+
+message_435:
+    text: Conseguiste un DINO DOLAR.
+
+message_436:
+    text: Conseguiste \v[1001] DINO DÓLARES.
+
+#EXCAVATION DINO (108)
+
+message_439:
+    text: \n<DINO>¿Quieres comprar una \c[4]CUCHARA\c[0]?\!<br>¡Solo cuesta 1 DINO DÓLAR!
+
+message_441:
+    text: \n<DINO>Cava con tu \c[4]CUCHARA\c[0] ¡y descubre maravillosos tesoros!
+
+message_444:
+    text: Conseguiste \c[4]CUCHARA DE PATATA\c[0].
+
+#EXCAVATION DINO (108 -> Map Teleport: Trying to Leave)
+
+message_442:
+    text: \n<DINO>\com[2]¡¿Qué!?\! ¿Seguro que has terminado de cavar?
+
+message_443:
+    text: \n<DINO>No lo entiendo, pero está bien.
+
+#STEG DINO
+
+message_428:
+    text: \n<CHAD>Ese es mi abuelo.
+
+#SHOP DINO
+
+message_413:
+    text: \n<DINO>¡Hey! ¡Tengo algunos artículos selectos a la venta aquí! ¿Te interesa?
+
+# message_414:
+#     text: Would you like to trade your eggs in for \v[115] DINO DOLLARS?
+
+# message_415:
+#     text: You now have \v[1020] DINO DOLLARS.
+
+message_416:
+    text: \n<BRETT>Ya tienes una \c[4]CUCHARA\c[0], dou!\! Vuelve cuando se rompa y veré qué puedo hacer por ti.
+
+message_417:
+    text: Conseguiste una \c[4]CUCHARA DE PLÁSTICO\c[0].
+
+message_418:
+    text: Conseguiste una \c[4]CUCHARA DE MADERA\c[0].
+
+message_419:
+    text: Conseguiste una \c[4]CUCHARA DE PLATA\c[0].
+
+message_420:
+    text: Conseguiste una \c[4] CUCHARA DE ORO\c[0].
+
+message_421:
+    text: Conseguiste un \c[13]CASCO DE SEGURIDAD\c[0].
+
+message_422:
+    text: Conseguiste un \c[3]BATIDO DINO\c[0].
+
+message_423:
+    text: Conseguiste una \c[3]SODA DE DINO MELON\c[0].
+
+message_424:
+    text: Conseguiste un \c[3]DINO NUGGET\c[0].
+
+message_425:
+    text: Conseguiste una \c[3]DINO PASTA\c[0].
+
+message_426:
+    text: Conseguiste una \c[5]JALEA DINO\c[0].
+
+# message_427:
+#     text: You don't have enough DINO POINTS.
+
+# message_59:
+#     text: Trade DINO EGGS!
+
+message_60:
+    text: ¡COMPRA UNA CUCHARA!
+
+message_61:
+    text: ¡COMPRA DINO COSAS!
+
+message_62:
+    text: ¿Qué te gustaría comprar?
+
+message_63:
+    text: CUCHARA DE PLÁSTICO (1 DD)
+
+message_64:
+    text: CUCHARA DE MADERA (5 DD)
+
+message_65:
+    text: CUCHARA DE PLATA (10 DD)
+
+message_66:
+    text: CUCHARA DE ORO (15 DD)
+
+message_67:
+    text: CASCO DE SEGURIDAD (30 DD)
+
+message_68:
+    text: BATIDO DINO (10 DD)
+
+message_69:
+    text: SODA DE DINO MELON (10 DD)
+
+message_70:
+    text: DINO NUGGET (10 DD)
+
+message_71:
+    text: DINO PASTA (10 DD)
+
+message_72:
+    text: JALEA DINO (10 DD)
+
+message_73:
+    text: NADA
+
+# -----------------------------------------------
+# - DOUGH DUNGEON (343)
+# -----------------------------------------------
+
+#'Summon Placement'
+
+message_76:
+    text: El olor a pan fresco llena el aire.
+
+message_77:
+    text: ¿Quieres sacrificar a \c[3]\v[102]\c[0]?
+
+message_78:
+    text: Has encontrado una \c[4]RECETA DEL DESASTRE\c[0].\! ¿La tomarás?
+
+message_383:
+    text: ¿Quieres volver a poner la \c[4]RECETA DEL DESASTRE\c[0]?
+
+message_407:
+    text: Estás sosteniendo una \c[4]RECETA DEL DESASTRE\c[0].
+
+message_79:
+    text:  ¿Quieres sacrificar al \c[4]BROTE REAL\c[0]?
+
+message_298:
+    text: Dejas al \c[3]\v[102]\c[0]... pero no pasa nada.
+
+message_299:
+    text: Escoges \c[3]\v[102]\c[0] de nuevo.
+
+#SACRIFICE OBJECTS
+
+message_74:
+    text: ¿Quieres recoger \c[3]\v[102]\c[0]?
+
+message_75:
+    text: Estás sosteniendo el \c[3]\v[102]\c[0].
+
+message_88:
+    text: ¿Quieres volver a poner \c[3]\v[102]\c[0]?
+
+message_80:
+    text: \n<PAPA CHIP>PAPA CHIP te ve mirando ese plato de galletas de avena.\! PAPA CHIP te advierte ahora por tu propio bien...\! ¡No lo hagas!
+
+message_81:
+    text: \n<PAPA CHIP>Escuchame...\! PAPA CHIP ha salvado a una gran cantidad de exploradores advirtiéndoles de la plétora de peligros de estas tumbas.
+
+message_82:
+    text: \n<PAPA CHIP>Será mejor que escuches el consejo de PAPA CHIP.
+
+message_83:
+    text: \n<PAPA CHIP>\quake[1]Retro...\! cede...\! de \c[3]GALLETAS DE AVENA\c[0].
+
+message_84:
+    text: \n<PAPA CHIP>Por favor, viajeros...\! PAPA CHIP ¡te lo está suplicando!\! ¡No lo hagas!\!<br>No desperdiciéis vuetsras preciosas vidas jóvenes en algo tan infructuoso.
+
+message_85:
+    text: Tomaste las \c[3]GALLETAS DE AVENA\c[0] a pesar de las advertencias de PAPA CHIP.
+
+message_86:
+    text: \n<PAPA CHIP>¡Oh! ¡Ya lo has hecho!\! Oh pastelito, ¡ya lo has hecho!\!<br>¡PAPA CHIP no puede mirar!
+
+message_87:
+    text: \n<PAPA CHIP>Hmm...\! PAPA CHIP supone que debe advertirte del peligro que supone el NEFARIOUS CHIP...\! pero parece que NEFARIOUS CHIP no fue rival para ti.<br>Supongo que PAPA CHIP no sirve para nada, entonces.
+
+#'PAPA CHIP'
+
+message_179:
+    text: \n<PAPA CHIP>\sinv[1]¡Hoho!\sinv[0]\! ¡PAPA CHIP viene con buenas noticias para ti!
+
+message_180:
+    text: \n<PAPA CHIP>Como señal de buena voluntad, PAPA CHIP te regalará algo que PAPA CHIP sabe que disfrutarás.
+
+message_521:
+    text: ¡PAPA CHIP te da \c[3]PAN\c[0]!
+
+message_181:
+    text: \n<PAPA CHIP>¡Soy PAPA CHIP!
+
+#'NEFARIOUS Chip'
+
+message_406:
+    text: \n<NEFARIOUS CHIP>\com[2]\{\sinv[1]¡HON, HON, HON, HON, HON!
+
+#'BROTE REAL' in DOOM TOMB
+
+message_182:
+    text: \n<BROTE REAL>REEMPLAZAR
+
+message_183:
+    text: \n<BROTE REAL>REEMPLAZAR
+
+message_184:
+    text: \n<BROTE REAL>\quake[1]\{\{¿¡QUÉ DEMONIOS!?
+
+message_185:
+    text: \n<BROTE REAL>REEMPLAZAR
+
+message_186:
+    text: \n<BROTE REAL>REEMPLAZAR
+
+message_187:
+    text: \n<BROTE REAL>REEMPLAZAR
+
+#'DOUGHIE & BISCUIT': Pre-Battle - UNUSED
+
+message_213:
+    text: \n<DOUGHIE>...
+
+message_214:
+    text: \n<DOUGHIE>¿Eres un fantasma?
+
+message_215:
+    text: \n<BISCUIT>Eso parece probable.\! Parece que algunos de nuestros pasteles embrujados han encontrado el camino de vuelta.
+
+message_216:
+    text: \n<DOUGHIE>¿Quizás están aquí para vengarse?\! Eso sería lo más...
+
+message_217:
+    text: \n<BISCUIT>...Desafortunado.
+
+#'DOUGHIE & BISCUIT': Post-Battle - UNUSED
+
+message_218:
+    text: \n<DOUGHIE>Oh, no eran fantasmas después de todo.
+
+message_219:
+    text: \n<BISCUIT>Bueno, esto es incómodo.\! Esta aventura espiritual ha sido divertida y todo, pero creo que ya es hora de seguir adelante.
+
+message_220:
+    text: \n<BISCUIT>Encuéntranos abajo, tendremos una escapada preparada para ti.
+
+message_221:
+    text: \n<DOUGHIE>Disculpad las molestias.
+
+#'DOUGHIE & BISCUIT' - UNUSED
+
+message_222:
+    text: \n<DOUGHIE>Realmente no sé por qué pensé que eran fantasmas.
+
+message_223:
+    text: \n<BISCUIT>Hornear fue divertido, pero también disfruté bastante de nuestra batalla.
+
+#'DOUGHIE & BISCUIT': Escape (Doom Entrance: 114) - UNUSED
+
+message_224:
+    text: \n<DOUGHIE>Hasta luego.
+
+message_225:
+    text: \n<BISCUIT>¿O no te veo nunca?
+
+message_226:
+    text: \n<DOUGHIE>Sea cual sea el caso...
+
+message_227:
+    text: \n<BISCUIT>Hasta la vista.
+
+# -----------------------------------------------
+# - FROZEN FOREST (140)
+# -----------------------------------------------
+
+message_293:
+    text: \n<SEÑAL>"Un corazón congelado puede derretirse, pero uno roto permanece para siempre en pedazos..."
+
+message_294:
+    text: \n<SEÑAL>"No vengas a buscarme...<br>Solo el frío puede hacerme compañía ahora..."
+
+message_295:
+    text: \n<SEÑAL>"No hay nada para ti aquí... ¡Vete!"
+
+message_296:
+    text: \n<SEÑAL>"¡Vete! ¡Déjame con mi miserable existencia!"
+
+message_297:
+    text: \n<SEÑAL>"Veo que has llegado hasta aquí.<br>Espero que te congeles y mueras."
+
+# -----------------------------------------------
+# - UNDERWATER HIGHWAY: CONSTRUCTION (204) - UNUSED
+# -----------------------------------------------
+
+message_249:
+    text: Este puente está en mal estado, pero una \c[4]CAJA DE HERRAMIENTAS\c[0] podría ayudarte a ponerlo de nuevo en funcionamiento.
+
+# -----------------------------------------------
+# - UNDERWATER HIGHWAY (203)
+# -----------------------------------------------
+
+#FIRST TOLL
+
+message_384:
+    text: \n<LAGARTO DE PEAJE>Este carril es de uso compartido, chico.<br>¡Vuelve cuando tengas amigos!
+
+message_385:
+    text: \n<LAGARTO DE PEAJE>\{\{\sinv[1]Keh heh!
+
+message_386:
+    text: \n<LAGARTO DE PEAJE>¿Creías que ibas a poder colarte en este carril para compartir coche si sois dos?\! Esto no es solo un carril coche...\! ¡Es un carril doble para coche!
+
+message_387:
+    text: \n<LAGARTO DE PEAJE>Tienen que ser un grupo de cuatro o más, de lo contrario puedes volver por donde has venido.
+
+message_388:
+    text: \n<LAGARTO DE PEAJE>...\! ¿De verdad tienes tres amigos?\!<br>Hmph... Muy bien, muy bien... Vamos a movernos, gente.
+
+message_389:
+    text: \n<LAGARTO DE PEAJE>Espero que tengas unas cuantas ALMEJAS encima... Keh heh...
+
+#GATE SNAKES
+
+message_390:
+    text: \n<SERPIENTE DE PEAJE>\sinv[1]Sssssssssssssssssssss...<br>\sinv[0] (Así es como roncan las serpientes.)
+
+message_165:
+    text: \n<SERPIENTE DE PEAJE>Phew!\! Por fin puedo relajarme...\! ¡Sosssssssstener mi cuerpo asssssssí esssss un trabajo muy duro!
+
+message_166:
+    text: \n<SERPIENTE DE PEAJE>¡Ssssoy una sssssssserpiente, pero no soy tóxica!\!<br>Al contrario, ¡ssssoy bastante amigable!
+
+message_167:
+    text: \n<SERPIENTE DE PEAJE>Alivia mi sssssufrimiento.
+
+#TOLL GATE 1, PRIZE WHEEL
+
+message_89:
+    text: \n<LAGARTO DE PEAJE>Este peaje te va a costar...\! Veamos aquí...\! \v[1012] ALMEJAS!\! ¿Las tienes o no?
+
+message_90:
+    text: \n<LAGARTO DE PEAJE>¡Hola, buenos amigos!\! Un placer conocerte, je je.
+
+message_91:
+    text: \n<LAGARTO DE PEAJE>¿Así que queréis acceder a la autopista de peaje?\! Bueno... ¡claro!\! Pero ya que estamos, hagamos esto un poco divertido.
+
+message_92:
+    text: \n<LAGARTO DE PEAJE>¿Por qué no giras esta rueda por mí?
+
+message_93:
+    text: \n<LAGARTO DE PEAJE>\{\sinv[1]¡EXCELENTE GIRO, AMIGO!
+
+message_94:
+    text: \n<LAGARTO DE PEAJE>Su peaje es \v[1012] ALMEJAS.\! ¿Te parece bien?
+
+message_95:
+    text: \n<LAGARTO DE PEAJE>¡¿\v[1012] ALMEJAS!?\! ¡Ese es el número de la suerte de alguien!
+
+message_96:
+    text: \n<LAGARTO DE PEAJE>También será el precio de tu peaje.\!<br>¿Vas a pagar?
+
+message_97:
+    text: \n<LAGARTO DE PEAJE>\com[2]\{\{\sinv[1]¡WOEE, TENEMOS UN GANADOR!
+
+message_98:
+    text: \n<LAGARTO DE PEAJE>\v[1012] ALMEJAS, ¡es mi última oferta!<br>¡Vamos! ¡Tienes que cogerlo!\$
+
+message_99:
+    text: \n<LAGARTO DE PEAJE>Eso es lo que me gusta oír.<br>\!Es un placer hacer negocios con vosotros...\! tontos.
+
+message_100:
+    text: \n<LAGARTO DE PEAJE>Hmph...\! Huir no va a cambiar el precio, chico.
+
+message_101:
+    text: \n<LAGARTO DE PEAJE>Ahora espera un momento...\!<br>Los números no cuadran...\!<br>Vas a tener que girar de nuevo.
+
+message_102:
+    text: \n<LAGARTO DE PEAJE>¿Qué tal una vuelta más por si acaso?
+
+message_103:
+    text: \n<LAGARTO DE PEAJE>¡Vamos! ¡Puedes permitírtelo!<br>\!¿Por qué no llamas a tus padres?
+
+message_104:
+    text: \n<LAGARTO DE PEAJE>Aww, es una pena...\! Si no giras, no puedes ganar.
+
+message_105:
+    text: \n<LAGARTO DE PEAJE>Aww, Vamos...\! No seas tan tacaño.
+
+message_106:
+    text: \n<LAGARTO DE PEAJE>Más tarde, el lagarto...
+
+message_107:
+    text: \n<LAGARTO DE PEAJE>¡Whoa, whoa, whoa! ¿A dónde vas, amigo?
+
+message_108:
+    text: \n<LAGARTO DE PEAJE>Retrocede bien y despacio...<br>Esto es una carretera de peaje, ¿ves?\!<br>\com[2]¡Suelta las ALMEJAS o piérdete!
+
+#TOLL GATE 2
+
+message_109:
+    text: \n<LAGARTO DE PEAJE>Así que quieres que abra la puerta, ¿eh?\!<br>Será un placer.\! Solo te costará 2000 ALMEJAS.\$
+
+message_110:
+    text: \n<LAGARTO DE PEAJE>¡Seguro que sois muy listos! \v[1001] ALMEJAS es una ganga!\!<br>\}...\! Heh...\! Como robar un \c[3]CARAMELO\c[0] a un niño...
+
+message_111:
+    text: \n<LAGARTO DE PEAJE>¿Quieres decir que no tienes 2000 ALMEJAS encima?<br>Eso es muy triste...\! Mala suerte, amigo....
+
+message_112:
+    text: \n<LAGARTO DE PEAJE>Pero, ¡eh!\! No hace falta que te agaches.<br>Tengo una forma segura de ayudarte a salir de este calvario, ¿ves?
+
+message_113:
+    text: \n<LAGARTO DE PEAJE>Ahem...\! Solo tienes que RELLENAR estos papeles, estos papeles, estos papeles, y estos papeles...\! Y ¡he aquí! ¡Tendrás \v[979] ALEMJAS así como así!
+
+message_114:
+    text: ¿Quieres RELLENAR los papeles?
+
+#[YES/NO]
+
+message_115:
+    text: \n<LAGARTO DE PEAJE>¡Ya está!\! ¡2000 ALMEJAS!\! Es así de fácil.
+
+message_116:
+    text: \n<LAGARTO DE PEAJE>Hey, por cierto...\! Cuidado con los intereses.\!<br>Vendremos a recogerlos...
+
+message_117:
+    text: \n<LAGARTO DE PEAJE>¡Venga! ¡No seas un cobarde!
+
+message_118:
+    text: \n<LAGARTO DE PEAJE>¿Así que quieres que te abra la puerta?\!<br>Solo te costará 5000 ALMEJAS.\$
+
+message_119:
+    text: \n<LAGARTO DE PEAJE>¡Son los niños que firmaron los papeles del préstamo!\!<br>Confía en mí... ¡Me lo agradecerás después!
+
+message_120:
+    text: \n<LAGARTO DE PEAJE>No tienes suficientes ALMEJAS, ¿verdad?\! No hay problema, hombre...<br>Le pasa a todo el mundo.
+
+message_121:
+    text: \n<LAGARTO DE PEAJE>¿Cuál es el problema?\! ¿Dices que subí el peaje?
+
+message_122:
+    text: \n<LAGARTO DE PEAJE>Sí, seguro que sí.\! ¿Qué pasa con eso?
+
+message_123:
+    text: \n<LAGARTO DE PEAJE>Que tenga un buen día.
+
+message_124:
+    text: \n<LAGARTO DE PEAJE>¡Os veo tratando de escalar la puerta!\!<br>¡Salid de ahí! ¡Eso es propiedad privada!
+
+message_168:
+    text: \n<LAGARTO DE PEAJE>Bien, bien.\!<br>Aquí... ¡3000 ALMEJAS todo para ti!
+
+message_169:
+    text: \n<LAGARTO DE PEAJE>Heh...\! Vuelve cuando tengas más ALMEJAS...
+
+message_170:
+    text: \n<LAGARTO DE PEAJE>¿Así que quieres que te abra la puerta?\!<br>Solo te costará 10000 ALMEJAS.\$
+
+message_171:
+    text: \n<LAGARTO DE PEAJE>Esperaré.
+
+message_172:
+    text: \n<LAGARTO DE PEAJE>...
+
+#TOLL GATE 3
+
+message_125:
+    text: \n<LAGARTO DE PEAJE>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzzz...
+
+message_126:
+    text: \n<LAGARTO DE PEAJE>¿Eh? ¿Dónde estoy?
+
+message_127:
+    text: \n<LAGARTO DE PEAJE>¡Oh, leches!
+
+message_128:
+    text: \n<LAGARTO DE PEAJE>¡Jefe, mire! No estaba durmiendo... Solo estaba...
+
+message_129:
+    text: \n<LAGARTO DE PEAJE>Oh... Solo son un grupo de niños...\!<br>Apuesto a que solo quieres que abra la puerta.
+
+message_130:
+    text: \n<LAGARTO DE PEAJE>Bueno, voy a ser realista contigo... Los precios de los peajes están muy altos. \!Te va a costar 3000 ALMEJAS pero yo en tu lugar encontraría otra forma de hacerlo.<br>¿Aún así, todavía quieres que abra la puerta?\$
+
+message_131:
+    text: \n<LAGARTO DE PEAJE>¿En serio?\! ¿Tienes esa cantidad de dinero por ahí?
+
+message_132:
+    text: \n<LAGARTO DE PEAJE>Debes estar nadando en dinero...
+
+message_133:
+    text: \n<LAGARTO DE PEAJE>Muy bien, la puerta está abierta.
+
+message_134:
+    text: \n<LAGARTO DE PEAJE>¿No tienes dinero?\! Sí, eso pensaba....<br>Date la vuelta, chico. Solo hay tiburones por aquí.
+
+message_135:
+    text: \n<LAGARTO DE PEAJE>Buena elección.\! Guarda tu dinero para una moto chula o algo así.
+
+message_136:
+    text: \n<LAGARTO DE PEAJE>¡Hey, has vuelto!\! El peaje es de 3000 ALMEJAS, como siempre.\$
+
+message_137:
+    text: \n<LAGARTO DE PEAJE>Los niños de hoy en día son realmente algo...
+
+message_138:
+    text: \n<LAGARTO DE PEAJE>¡Oye, no vayas a tocar eso!<br>Si le pasa algo, ¡me cortan la cola!
+
+# -----------------------------------------------
+# - UNDERWATER HIGHWAY: TAXI RIDE (211)
+# -----------------------------------------------
+
+message_139:
+    text: \n<TAXISTA>¡Oye, chico! ¿Quieres ir a algún sitio interesante?
+
+message_140:
+    text: \n<TAXISTA>Lo llaman el \c[11]LAST RESORT\c[0]!\! Es el lugar más caliente y de moda, un verdadero diamante en bruto...\!<br>Tienes que haber oído hablar de él.
+
+message_141:
+    text: \n<TAXISTA>Puedo llevarte allí por un precio simbólico de 3000 ALMEJAS.<br>Vamos... ¡No seas tímido!\! No muerdo...\! mucho...
+
+message_142:
+    text: El viaje en taxi costó una tarifa realmente exorbitante.\! Es una lástima que no tengas amigos con los que repartir los gastos...
+
+message_143:
+    text: \n<TAXISTA>Hmm... Parece que te quedas un poco corto...\!<br>Bueno, está bien... ¡Simplemente tomaré todo lo que tienes! ¡Keh heh!
+
+message_144:
+    text: \n<TAXISTA>Hmm... Parece que te quedas un poco corto...\!<br>Bueno, está bien... Solo tomaré todo lo que tú...
+
+message_145:
+    text: \n<TAXISTA>Vaya... Realmente no tienes nada de nada, ¿eh?\!<br>Te deben haber estafado mucho.\! Me das pena.
+
+message_146:
+    text: \n<TAXISTA>Hey, chico!\! Quieres volver a al \c[11]POZO PROFUNDO\c[0]?<br>Solo te costará 1.500 ALMEJAS.
+
+# -----------------------------------------------
+# - SLIME GIRLS LAIR: WATER SLIDE (230)
+# -----------------------------------------------
+
+### NO LONGER USED ###
+
+# message_53:
+#     text: Which way do you want to go?
+
+# message_54:
+#     text: Left
+
+# message_55:
+#     text: Right
+
+# message_56:
+#     text: Down
+
+message_292:
+    text: ¡Bienvenido al tobogán acuático de MEDUSA!\!<br>Navega por las corrientes manteniendo pulsada la TECLA DE ABAJO.
+
+### NO LONGER USED ###
+
+# -----------------------------------------------
+# - SLIME GIRLS: MARINA (221)
+# -----------------------------------------------
+
+#TUMOR SEÑAL 1
+
+message_231:
+    text: PRESENTAN\! EXTRAÑAS PROPIEDADES\!<br>DE CRECIMIENTO \! SON CAPACES DE REGENERARSE DESPUÉS DE SER APLASTADOS.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MARINA (222)
+# -----------------------------------------------
+
+#CHIMERA SEÑAL
+
+message_626:
+    text: PELIGRO\! NO PINCHAR EL CRISTAL
+
+#TUMOR SEÑAL 2
+
+message_164:
+    text: PRESENTAN\! EXTRAÑAS PROPIEDADES\!<br>DE CRECIMIENTO\! PUEDEN TRANSFORMARSE EN UN PUENTE.
+
+#BUNNY SEÑAL
+
+message_232:
+    text: PRESENTAN\! PROPIEDADES\!<br>CONEJILES\! SUAVE Y FLEXIBLE.
+
+#RECEPTION HUMPHREY
+
+message_233:
+    text: \n<RECEPCIONISTA HUMPHREY>¡Bienvenido!\! MARINA no está viendo a nadie en este momento...\! pero si está disfrutando de la exposición, no dude en meterse en una jaula y esperar al siguiente experimento disponible.
+
+message_234:
+    text: \n<RECEPCIONISTA HUMPHREY>Lo sabrás cuando los gritos cesen.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MARINA (225)
+# -----------------------------------------------
+
+message_372:
+    text: \n<HUMPHREY>¡Me gusta este lugar!
+
+message_621:
+    text: \n<HUMPHREY>Escuché que había un montón de deliciosas SANDÍAS aquí, así que me las comí todas.\ Mmm... dee-liciosas!
+
+# -----------------------------------------------
+# - SLIME GIRLS: MEDUSA (250)
+# -----------------------------------------------
+
+message_235:
+    text: \n<HUMPHREY>¿Quieres salir a nadar?\! ¡Yo también!
+
+message_236:
+    text: \n<HUMPHREY>Oid, mirad esto, humanos.
+
+message_237:
+    text: \n<HUMPHREY>¿Sabías que los HUMPHRIES somos tan fuertes como para soportar la corriente de una cascada?\! ¡Mira esto!
+
+message_238:
+    text: \n<HUMPHREY>¡Caray!\! Excepto por ese tipo, supongo...<br>\!¡Oh, bueno! Eso es solo la selección natural trabajando.
+
+message_239:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelOye, ¿sabes qué?\! ¡Acabo de tener una idea!\!<br>Apuesto a que... si reunimos suficientes HUMPHRIES-
+
+message_905:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 3
+    text: \aub¡podríamos usarlos para formar un puente hacia el otro lado!
+
+message_906:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kel\com[2]¡Oye! ¡Se suponía que yo tenía que decir eso!
+
+message_240:
+    text: \n<HUMPHREY>Yo digo que el experimento de MEDUSA tiene un catorce por siete más cuarenta y cuatro dividido por once menos dos por ciento de posibilidades de éxito.
+
+message_241:
+    text: \n<HUMPHREY>La biología es mi peor asignatura, pero eso nunca me ha detenido.
+
+message_242:
+    text: \n<BIG MOLIO>Soy BIG MOLIO.
+
+message_243:
+    text: \n<BIG MOLIO>A cambio de encontrarme, te bendigo con una gran fortuna.
+
+message_904:
+    text: \n<BIG MOLIO>Mi deber ha sido cumplido.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MEDUSA (231)
+# -----------------------------------------------
+
+message_327:
+    text: \n<HUMPHREY>Todos mis amigos me dejaron atrás para ir a construir un puente...\! Pero les voy a hacer ver que voy a construir un puente aún más grande.
+
+message_328:
+    text: \n<HUMPHREY>Si ves algunos HUMPHRIES flotando por ahí, asegúrate de enviármelos.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MEDUSA (230)
+# -----------------------------------------------
+
+message_397:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Huff...\| huff...\| huff...\her
+
+message_398:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: Apreciaria...\! que pudieramos terminar esto...\! cuanto antes...\!\her
+
+message_399:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: No hay prisa...\! Solo creo que estoy...\! un poco...\! enfermo...\her
+
+# -----------------------------------------------
+# - SLIME GIRLS: MOLLY MAIN ROOM (236)
+# -----------------------------------------------
+
+message_147:
+    text: \n<MOLLY>\com[539]Oh, hola MARINA...\!<br>\com[539]¿Estás aquí para robar mis cosas otra vez?<br><br>\com[539]Bueno, ¡esta vez no!\! \com[539]He preparado algo \com[539]extra especial para ti hoy... \sinv[1]Fufufu~
+
+message_149:
+    text: \n<MOLLY>\com[539]Como sabes, \com[539]soy una persona muy ocupada,\!<br>\com[539]pero por desgracia... eres mi hermana.<br><br>\com[539]Te concederé acceso \com[539]a mi habitación...\!<br>si eres capaz \com[539]de resolver \com[539]mi pequeño acertijo.
+
+message_150:
+    text: \n<MOLLY>\com[539]\com[539]Espero verte pronto, cariño...\!\com[539] ¡Si todavía estás viva! \com[539]Fufufu~
+
+#TERMINAL INTERACTION
+
+message_392:
+    text: \"TIPO... PUZZLE\"<br>\"TEMA... PATRÓN\"<br>\"DIFICULTAD... FÁCIL\"
+
+message_393:
+    text: \"TIPO... PUZZLE\"<br>\"TEMA... MEMORIZACIÓN\"<br>\"DIFICULTAD... DIFICÍL\"
+
+message_394:
+    text: \"TIPO... PUZZLE\"<br>\"TEMA... OPCIÓN MÚLTIPLE\"<br>\"DIFICULTAD... MEDIA\"
+
+message_496:
+    text: ¿Quieres activar este puzzle?\!<br>No puedes elegir otro puzzle hasta que esté resuelto.
+
+message_497:
+    text: \"TIPO... PUZZLE\"<br>\"ESTADO... RESUELTO\"
+
+#PASSWORD PUZZLE (Bomb Collision)
+
+message_498:
+    text: ¿Quiere introducir la contraseña?
+
+message_622:
+    text: \n<ALTAVOZ>Te crees muy listo, ¿eh?
+
+message_907:
+    text: ¿Cuál es la contraseña?
+
+#WIRE PUZZLE (Wire Events)
+
+message_499:
+    text: ¿Quieres cortar el \c[8]cable rojo\c[0]?
+
+message_500:
+    text: ¿Quieres cortar el \c[11]cable azul\c[0]?
+
+message_501:
+    text: ¿Quieres cortar el el cable blanco?
+
+message_502:
+    text: ¿Quieres cortar el \c[3]cable verde\c[0]?
+
+#BUTTON PUZZLE (Bomb Collision)
+
+message_503:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: ¡Adelante!\! ¡Creemos en ti!\aub
+
+message_504:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: ¡Lo tienes! ¡Demuestra a este puzzle quién es el jefe!\kel
+
+message_505:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: ¡Tú puedes hacerlo! Te cubrimos las espaldas.\her
+
+# -----------------------------------------------
+# - SLIME GIRLS: MOLLY ROOM RIGHT 2 (238)
+# -----------------------------------------------
+
+#WELCOME HUMPHRIES
+
+message_445:
+    text: \n<RECEPCIONISTA HUMPHREY>¡Bienvenido!\! ¡Estas apunto de entrar en la zona de testeo de MOLLY! Donde se llevan acabo varios procedimientos y análisis.
+
+message_477:
+    text: \n<OPERADOR HUMPHREY>¡Según nuestras pruebas, parece que los BROTES DE TIERRA crecen a partir de \c[3]TOFU\c[0]!\! ¿Quién lo iba a decir?
+
+message_478:
+    text: \n<OPERADOR HUMPHREY>Ah... Estos resultados son bastante inesperados...\! Con estos conocimientos, quizá pueda encontrar la cura de la mortalidad.
+
+message_479:
+    text: \n<OPERADOR HUMPHREY>¡Oh, Dios! ¡Seguramente, estos números no son correctos!\!<br>...\! Oh... espera...\! Parece que he calculado mal...\!<br>Supongo que no lo son.
+
+message_480:
+    text: \n<OPERADOR HUMPHREY>Entendemos tan poco de este mundo, que lo estudiamos...\! Sin embargo, nuestra investigación solo nos llena de más preguntas.\!<br>Es un ciclo interminable e infructuoso.
+
+message_481:
+    text: \n<OPERADOR HUMPHREY>HUMPHREY a HUMPHREY... ¿Me recibes?
+
+message_482:
+    text: \n<OPERADOR HUMPHREY>Mhmm...\! Sí...\!<br>¿Has probado a apagarlo y volverlo a encender?
+
+message_483:
+    text: \n<OPERADOR HUMPHREY>Es difícil trabajar de verdad por aquí, ya que MOLLY siempre se mete en nuestras investigaciones...<br><br>Me gustaría estar asignado al cuadrante de MEDUSA...\!<br>Ahí es donde se reúnen todos los tipos de trabajo-duro-juego-duro...<br>He oído que incluso tienen un tobogán de agua.
+
+message_484:
+    text: \n<OPERADOR HUMPHREY>Eso es lo que estoy diciendo...\! Según la transmisión en directo, está trabajando duro en algo en su "taller"...\! Sí, de acuerdo....\!<br>Lo vigilaré.
+
+message_485:
+    text: \n<OPERADOR HUMPHREY>Parece que MARINA acaba de tener una gran pelea con un cliente.\! Las cosas no pintan bien...
+
+#Teleport Object
+
+message_396:
+    text: \n<BROTE DE TIERRA>No puedo creer que me haya apuntado a esto.
+
+#FIRST HUMPHREY (Pattern)
+
+message_446:
+    text: \n<HUMPHREY>¡Saludos, visitantes!\! ¿Te gustaría ver algo chulo?\!<br>¡Esta máquina de aquí puede realizar teletransporte a distancia!
+
+message_454:
+    text: \n<HUMPHREY>Con el poder de la tecnología moderna, ¡puedo enviar a este BROTE DE TIERRA al otro lado de la red!\! Echa un vistazo.
+
+message_455:
+    text: \n<HUMPHREY>\com[2]¿Qué? ¿Un error?\! ...\!<br>Alguien debe de haber estropeado el programa.<br><br>Ugh...\! Probablemente fue MOLLY otra vez...\!<br>Ella siempre hace trucos como este...
+
+message_456:
+    text: \n<HUMPHREY>¡Demonios, MOLLY!\! Todo ha funcionado tan perfectamente esta mañana...
+
+#SECOND HUMPHREY (Pattern)
+
+message_447:
+    text: \n<HUMPHREY>Hola, visitantes.\! ¡He estado dirigiendo un experimento sobre el movimiento HUMPHREY-por-HUMPHREY!\! Has llegado justo a tiempo para ver cómo realizamos la prueba final.
+
+message_448:
+    text: \n<HUMPHREY>¿Estáis listos, pandilla?\! ¡Como lo hemos practicado!
+
+message_449:
+    text: \n<HUMPHREY>Esto... Esto no estaba en mis planes...
+
+message_451:
+    text: \n<HUMPHREY>¿A dónde se han ido todos?
+
+message_457:
+    text: \n<HUMPHREY>¡Estamos probando!
+
+message_458:
+    text: \n<HUMPHREY>Estoy impaciente por mostraros los resultados de nuestra investigación.
+
+message_459:
+    text: \n<HUMPHREY>¡Estoy listo para ir!
+
+message_460:
+    text: \n<HUMPHREY>Debería haber revisado mis notas una última vez...
+
+message_476:
+    text: \n<HUMPHREY>¡Preparaos para quedar alucinados!
+
+#FOURTH HUMPHREY (Pattern)
+
+message_452:
+    text: \n<HUMPHREY>¡Ah! ¡Hola, visitantes!\! Tras meses y meses de duro trabajo, he creado con éxito la primera máquina de hologramas de HUMPHREY.<br>¿No se parecen a los de verdad?\!<br>Sniff...\! No podría estar más orgulloso...
+
+message_453:
+    text: \n<HUMPHREY>MOLLY me dijo que me pusiera aquí, ¡pero no sé por qué!
+
+#THIRD HUMPHREY (Pattern)
+
+message_461:
+    text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| ¿Eh?
+
+message_462:
+    text: \n<HUMPHREY>¿Eh? ¿Por qué me miras así?\!<br>¿No ves que estoy ocupado?
+
+message_463:
+    text: \n<HUMPHREY>...
+
+message_700:
+    text: \n<HUMPHREY>En realidad... ¡se me acaba de ocurrir una idea!\! Pensándolo bien, ¿podría uno de vosotros tratar de correr a través de estas placas de metal para mí?\!<br>Solo quiero probar algo.
+
+message_701:
+    text: \n<HUMPHREY>¿Por qué no lo discutís entre vosotros y votais?
+
+message_702:
+    text: ¿Quién debería ayudar a HUMPHREY con su experimento?
+
+message_465:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Bien... si estás seguro, OMORI.\! Pero ten cuidado.\! No tengo un buen presentimiento sobre esto.\aub
+
+message_466:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: ¿Huh?\! ¿Yo?\! Vale... pero no tengo un buen presentimiento sobre esto.\aub
+
+message_467:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: ¿¡Qué!? ¿Por qué tengo que hacerlo?\!<br>Bien... pero no tengo un buen presentimiento sobre esto.\kel
+
+message_468:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Dejadme esto a mí...\! Además, no tengo un buen presentimiento sobre esto.\her
+
+message_469:
+    text: \n<HUMPHREY>¡Deprisa! ¡No tengo todo el día!
+
+message_470:
+    text: \n<HUMPHREY>\com[2]¡A-ha! Sabía que uno de estos picos estaba roto...
+
+message_471:
+    text: \n<HUMPHREY>Si tuviera una taza de café ahora mismo, ¡la bebería!
+
+message_472:
+    text: \n<HUMPHREY>Gracias por arriesgar voluntariamente su vida.
+
+message_473:
+    text: \n<HUMPHREY>Bueno... Supongo que ahora tengo que ir a arreglarlo.
+
+message_474:
+    text: \n<HUMPHREY>Hmm...\| Oof...\| Urg...\| Hrm...\| ¿Eh?
+
+message_475:
+    text: \"TIPO... CONSOLA\"<br>\"ESTADO... ROTA\"
+
+message_174:
+    text: OMORI
+
+message_175:
+    text: AUBREY
+
+message_176:
+    text: KEL
+
+message_177:
+    text: HERO
+
+message_450:
+    text: \n<HUMPHREY>¡Whoa, ahí! No tan rápido, amigo. ¡Todavía no has terminado!\! Asegúrese de revisarlos todos.
+
+# -----------------------------------------------
+# - SLIME GIRLS: LOST ROOM 1 (241) UNUSED
+# -----------------------------------------------
+
+message_486:
+    text: \n<HUMPHREY EXPERTO>Una ballena sabia dijo una vez...<br>"Contar a tus enemigos te mostrará el camino de la victoria."\! o algo así...
+
+message_608:
+    text: \n<HUMPHREY EXPERTO>¿Quieres que te ayude?
+
+message_609:
+    text: \n<HUMPHREY EXPERTO>Si diriges tu atención a este monitor de aquí, verás la posición de cuatro teletransportadores diferentes. Contando el número de enemigos en la sala sabrás qué posición es la correcta.
+
+# -----------------------------------------------
+# - SLIME GIRLS: LOST ROOM 4 (247)
+# -----------------------------------------------
+
+message_487:
+    text: \n<HUMPHREY EXPERTO>Una ballena sabia dijo una vez...<br>"¡El orden de la ruta te llevará a la solución!"\! o algo así...
+
+# -----------------------------------------------
+# - SLIME GIRLS: MOLLY ROOM LEFT 2 (240)
+# -----------------------------------------------
+
+message_329:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel¡Hey, son estos tipos otra vez!\! ¡Haz tu magia, HERO!
+
+message_330:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \n<HERO>¡Oye, tienes razón!
+
+message_331:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 49
+    text: \n<HERO>Ahem...\! Muy buenas, Señor CONVEYOR-BOT...\! Mis compañeros y<br>yo requerimos su ayuda para cambiar las direcciones de sus transportadores...\! ¿Podría ayudarnos?
+
+message_332:
+    text: \n<SR. CONVEYOR-BOT>\quake[1]Bzzt...\! Hmph...\! Buena persona...\quake[0]
+
+message_333:
+      text: \n<SR. CONVEYOR-BOT>\quake[1]Piérdete...\quake[0]
+
+message_334:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \n<HERO>¿Eh? Que extraño...\! No ha funcionado...
+
+message_335:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 29
+    text: \kel¡No te deprimas, HERO!\! ¡Seguramente tiene los engranajes fundidos o algo así!
+
+message_336:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub¿Podrías decirlo más alto?\! ¡Ahora se va a enfadar aún más con nosotros!
+
+message_337:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel¡Hey, montón de chatarra!<Br>¡¿Le das la vuelta a los transportadores o qué?!
+
+message_338:
+      text: \n<CONVEYOR-BOT>\quake[1]¡Bzzzzzt!\! Ahh...\! Hmm...\! Mala persona...\!<br>Hehe...\! Igual que MOLLY...\quake[0]
+
+message_339:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub...\! No puedo creer que haya funcionado.
+
+message_340:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelBueno, ¿quién sabe?<br>Parece que yo también tengo algo de CARISMA.
+
+message_382:
+    text: \n<HERO>¡LIDÉRAME! Ya sé lo que hay que hacer.
+
+message_999:
+    text: Todos los CONVEYOR-BOTS cambiarán ahora de dirección por ti.
+
+# -----------------------------------------------
+# - SLIME GIRLS: MOLLY ROOM LEFT 1 (239)
+# -----------------------------------------------
+
+message_488:
+    text: \n<HUMPHREY>MOLLY nos dijo que escribiéramos letras en la espalda y nos pusiéramos en este orden.
+
+message_489:
+    text: \n<HUMPHREY>Al menos, creo recordar que era este orden...
+
+message_490:
+    text: \n<HUMPHREY>Estoy bastante seguro de que debo cambiar de lugar con el que está a tu derecha...
+
+message_491:
+    text: \n<HUMPHREY>Y cuando digo "a tu derecha", Me refiero a ti, a la persona que está frente a mí... no al hipotético observador que nos observa desde detrás de una pantalla.
+
+message_492:
+    text: \n<HUMPHREY>Esto debe ser para uno de los locos puzzles de MOLLY...
+
+message_493:
+    text: \n<HUMPHREY>A esa chica le gusta demasiado jugar. Si se concentrara, probablemente podría hacer mucho bien al mundo.
+
+message_494:
+    text: \n<HUMPHREY>Menos mal que lo he comprobado antes de escribir esta "M", si no, casi habría escrito otra "B"...
+
+message_495:
+    text: \n<HUMPHREY>Eso hubiera sido desafortunado, ¿no crees?
+
+# -----------------------------------------------
+# - SLIME GIRLS LAIR: MEDUSA (231, 250)
+# -----------------------------------------------
+
+#FLOATIE HUMPHRIES 1
+
+message_57:
+    text: \n<HUMPHREY>¡Claro que sí! ¡Pensé que nunca lo pedirías!
+
+message_58:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel¡Hey, HUMPHREY! ¿Quieres unirte a tu amigo HUMPHREY en la cascada?
+
+message_610:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+
+message_611:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+
+message_612:
+    text: \n<PUENTE HUMPHREY\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+
+message_613:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+
+#FLOATIE HUMPHRIES 2
+
+message_614:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]\i[13]
+
+message_615:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]\i[13]
+
+message_616:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]\i[13]
+
+message_617:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]\i[13]
+
+message_618:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]\i[13]
+
+message_619:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[13]
+
+message_620:
+    text: \n<PUENTE HUMPHREY>\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]\i[14]
+
+# -----------------------------------------------
+# - RECYCULTIST: RANDOM DIALOGUE (341)
+# -----------------------------------------------
+
+message_250:
+    text: \n<RECICULTISTA>La papelera es mi salvadora, no la desperdiciaré.
+
+message_251:
+    text: \n<RECICULTISTA>Recoger la basura en los pastos verdes.<br>Me guía a aguas limpias.
+
+message_252:
+    text: \n<RECICULTISTA>Reciclar mi alma.<br>Me conduce hacia el camino de la limpieza.
+
+message_253:
+    text: \n<RECICULTISTA>Que el tenedor biodegradable le entregue nuestros pecados para que podamos ser limpiados.
+
+message_254:
+    text: \n<RECICULTISTA>Que un día seamos reciclados a ella para que podamos ser entregados al mundo sin basura.
+
+message_255:
+    text: \n<RECICULTISTA>¡Oh, gran cubo de basura en el cielo, por favor límpianos de nuestra basura!
+
+message_256:
+    text: \n<RECICULTISTA>Que el espíritu del guante de goma actúe a través de mí,<br>para que pueda estar más cerca del cubo de la basura en el cielo y del mundo sin basura.
+
+message_257:
+    text: \n<RECICULTISTA>Porque el santo contenedor amó tanto al mundo que dio su único tenedor limpio y biodegradable, para que quien crea en él no tire basura, sino que tenga una vida sin basura...
+
+message_258:
+    text: \n<RECICULTISTA>Hermanos y hermanas, todos debemos aceptar que somos basura.
+
+message_259:
+    text: \n<RECICULTISTA>Aunque seamos basura, mientras sigamos siendo biodegradables aún podremos salvarnos.
+
+# -----------------------------------------------
+# - RECYCULTIST: END PRAYER (341)
+# -----------------------------------------------
+
+message_260:
+    text: \n<RECICULTISTA>En nombre del tenedor biodegradable...\!<br>Reducir, reutilizar y reciclar.
+
+# -----------------------------------------------
+# - RECYCULTIST: DEFEATED (341)
+# -----------------------------------------------
+
+message_261:
+    text: \n<RECICULTISTA>Perdoname cubo de la basura...\! porque he ensuciado...
+
+message_262:
+    text: \n<RECICULTISTA>¡He sido golpeado por basura!\! ¡Perdóname, santo contenedor! ¡Soy impuro e indigno del mundo sin basura!
+
+message_263:
+    text: \n<RECICULTISTA>¡Oh, no! ¡Me he dejado el desinfectante de manos en casa!
+
+message_264:
+    text: \n<RECICULTISTA>Sé que es nuestro líder y todo eso, pero construir una torre de basura gigante parece un poco sacrílego, ¿no crees?
+
+message_265:
+    text: \n<RECICULTISTA>Sniff... Sniff...\| Ewww...\!<br>Estoy un poco sucio. Necesito ir a casa y ducharme.
+
+message_266:
+    text: \n<RECICULTISTA>Bue...\! Probablemente no te importe, pero...<br>En realidad no me creo estas cosas.
+
+message_267:
+    text: \n<RECICULTISTA>Mi novia me arrastró...\! Puede dejarse llevar por estas cosas del reciclaje...
+
+message_268:
+    text: \n<RECICULTISTA>Demonios... He perdido...
+
+message_269:
+    text: \n<RECICULTISTA>Oye, no me juzgues, ¿vale?<br>Solo estoy haciendo esto para obtener créditos universitarios...
+
+# -----------------------------------------------
+# - RECYCULTIST: MISC (341)
+# -----------------------------------------------
+
+#Group of RECYCULTISTS
+
+message_281:
+    text: \n<RECICULTISTA>¡Mira el tamaño de nuestro ejército y tiembla!\! Sin sus propios seguidores leales, ¡nunca podrán derrotarnos!
+
+message_247:
+    text: \n<RECICULTISTA>Incluso si eres...\! bastante encantador.
+
+message_248:
+    text: \n<RECICULTISTA>¡Vuelve cuando tus números superen los nuestros!\! Tendremos nuestro enfrentamiento entonces.
+
+message_282:
+    text: \n<RECICULTISTA>Oh-oh...\! parece que ahora nos superas en número.
+
+message_283:
+    text: \n<RECICULTISTA>Parece que no tenemos opción de rendirnos...\! Muy bien, vamos.\! ¿Alguien se apunta a una barbacoa esta noche?
+
+message_284:
+    text: \n<RECICULTISTA ¿CONVERTIDO?>Bueno, creo que......\! deberíamos ponernos en marcha también.
+
+#Block guy
+
+message_285:
+    text: \n<RECICULTISTA>Pasé ocho horas construyendo este bloque irrompible.\! Me gustaría ver cómo lo superais.
+
+message_286:
+    text: \n<RECICULTISTA>Oh...
+
+#HERO charm
+
+message_287:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: Este sitio no te pega nada...\! ¿Por qué no nos ocupamos de este lío antes de que se nos vaya de las manos?\her
+
+message_288:
+    text: \n<RECICULTISTA>Sí, probablemente tengas razón.
+
+message_289:
+    text: \n<RECICULTISTA>Me encantaría ir con vosotros, pero parece que no hay lugar para mí...
+
+message_290:
+    text: \n<RECICULTISTA>¿Un asqueroso portador de plástico exige mi lealtad?\! ¡Nunca!\!<br>...\! Pero...\! Quizás si fueras alguien más encantador.
+
+message_291:
+    text: \n<RECICULTISTA>Debería reflexionar sobre mi vida...
+
+# -----------------------------------------------
+# - RECYCULTIST: BILLY CHALLENGED (341)
+# -----------------------------------------------
+
+message_270:
+    text: \n<RECICLÓPATA>Hola...\! Bienvenido a la cima de la torre de escombros.
+
+message_271:
+    text: \n<RECICLÓPATA>Soy yo...
+
+message_272:
+    text: \n<RECICLÓPATA>El RECICLÓPATA...
+
+message_273:
+    text: \n<RECICLÓPATA>¡El único elegido para hablar en nombre del santo contenedor!
+
+message_274:
+    text: \n<RECICLÓPATA>Anoche tuve un sueño.
+
+message_275:
+    text: \n<RECICLÓPATA>El espíritu del guante de goma me dijo que este mundo ya no es apto para nosotros.\! Debemos construir, como el recipiente sagrado en el cielo nos ordena...
+
+message_276:
+    text: \n<RECICLÓPATA>Llegar al mundo sin basura, donde el ser humano y los materiales biodegradables puedan convivir en armonía.
+
+message_277:
+    text: \n<RECICLÓPATA>Habéis llegado muy lejos en esta torre...\! pero me temo que aquí es donde termina vuestro viaje.
+
+message_278:
+    text: \n<RECICLÓPATA>Al fin y al cabo, ¡no sois más que basura mugrienta...\!<br>y sin sentido que maneja el plástico!
+
+message_279:
+    text: \n<RECICLÓPATA>¡Que la gracia del tenedor biodegradable actúe a través de mí!
+
+message_280:
+    text: \n<RECICLÓPATA>Prepárate para ser...\| \com[2]¡RECICLADO!
+
+# -----------------------------------------------
+# - RECYCULTIST: BILLY RECYCLED (341)
+# -----------------------------------------------
+
+message_300:
+    text: \n<RECICLÓPATA>No...\! ¿Cómo es posible?\! Pero...\! Sois solo basura...
+
+message_301:
+    text: \n<RECICLÓPATA>Estamos destinados a llegar al mundo sin basura...\! ¿Nos ha abandonado el contenedor sagrado?
+
+message_302:
+    text: \n<RECICLÓPATA>No...\! Debo haber malinterpretado su mensaje.\! Al fin y al cabo, el contenedor sagrado no comete errores.
+
+message_303:
+    text: \n<RECICLÓPATA>Soy yo quien debe haberse equivocado...
+
+message_304:
+    text: \n<RECICLÓPATA>Espera...\! ¡Ahora lo entiendo!
+
+message_305:
+    text: \n<RECICLÓPATA>El contenedor sagrado debe estar diciéndome que no hay un mundo sin basura.\! Solo podemos aprovechar el mundo en el que vivimos...
+
+message_306:
+    text: \n<RECICLÓPATA>Sí...\! ¡Vengan hermanos y hermanas!\! El mundo sin basura no está en el cielo, sino en el suelo que pisamos.
+
+message_307:
+    text: \n<RECICLÓPATA>Debemos hacer juntos nuestro mundo sin basura.
+
+# -----------------------------------------------
+# - RECYCULTIST: CLEANED TRASH (341)
+# -----------------------------------------------
+
+message_320:
+    text: \n<RECICLÓPATA>Recemos...
+
+message_321:
+    text: \n<RECICULTISTA>Santa basura\|, que estás en el cielo|, santificado y limpio de suciedad sea tu nombre.
+
+message_322:
+    text: \n<RECICULTISTA>Venga a nosotros tu limpieza\|, hágase tu voluntad|, en la tierra como en el mundo sin basura.
+
+message_323:
+    text: \n<RECICULTISTA>Danos hoy nuestros guantes de cada día\|, perdóna nuestras ofensas\|, mientras limpiamos la basura hecha por los que nos transgreden.
+
+message_324:
+    text: \n<RECICULTISTA>No nos dejes caer en la tentación\|, y líbranos de los que ensucian.
+
+message_325:
+    text: \n<RECICULTISTA>En nombre del tenedor biodegradable...
+
+message_326:
+    text: \n<RECICULTISTA>REDUCIR\|, REUTILIZAR\| y RECICLAR.
