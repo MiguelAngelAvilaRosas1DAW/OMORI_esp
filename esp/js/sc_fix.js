@@ -1,0 +1,1 @@
+Olivia.SkipCutscene.message = "PRESIONA \\DII[escape] PARA SALTAR"
