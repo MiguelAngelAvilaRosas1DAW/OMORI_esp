@@ -1,0 +1,21 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============WHITE SPACE / Neighbors Room ========================================
+                        #====NIGHT 1-1====
+
+#Black Cat
+#Location: White Space, asleep
+message_0:
+      text: El gato negro está profundamente dormido.
+
+#EYE in the shelf
+#Location: Neighbors room, inthe shelf
+message_1:
+      text: Te sientes como si te estuvieran observando.
+
+#SNAKE
+#Location: Neighbor's Room, on the staircase
+message_2:
+      text: \n<SERPIENTE>\sinv[1]¿Sssssssssssss...?\!\sinv[0] (¿Esperando a que ocurra algo?)

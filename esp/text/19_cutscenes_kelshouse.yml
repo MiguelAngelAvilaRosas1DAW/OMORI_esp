@@ -1,0 +1,314 @@
+# =========================================================================================
+# Cutscene: MAMÁ DE KEL
+# =========================================================================================
+
+#Trigger: Enter KEL's House.
+
+message_0:
+      text: ¡KEL!\! ¡HERO!\! ¿Dónde estabais?\!<br>¡Estaba muy preocupada!\n<MAMÁ DE KEL>
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Lo siento, mamá... Nos hemos retrasado...\!<br>Pero la buena noticia es que encontramos a BASIL y está a salvo.\her
+
+message_2:
+      text: \Com[2]¡Hmph!\! Sabes... Pasé toda la semana preparando el pollo asado para la cena de esta noche...\n<MAMÁ DE KEL>
+
+#MAMÁ DE KEL looks in direction of dining room.
+
+message_3:
+      text: Y...\! sniff...\! Se ha enfriado.\n<MAMÁ DE KEL>
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Oh, Mamá...\! Por favor, no llores...\her
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: No te preocupes, mamá. Para eso están los microondas.\kel
+
+message_6:
+      text: \com[2]\sinv[1]¡Ohhhh\{hhh!\! ¡¡MI POBRE CENA!!\n<MAMÁ DE KEL>
+
+#PAPÁ DE KEL walks up to MAMÁ DE KEL.
+
+message_7:
+      text: Ay, ay, cariño... Anímate...\n<PAPÁ DE KEL>
+
+message_8:
+      text: Hoy es un día especial... No hay necesidad de estar triste.\n<PAPÁ DE KEL>
+
+#PAPÁ DE KEL looks at HERO.
+
+message_9:
+      text: ¡Mira! ¡HERO ha vuelto de la universidad!\n<PAPÁ DE KEL>
+
+#PAPÁ DE KEL walks up to HERO.
+
+message_10:
+      text: Es bueno verte de vuelta, campeón.\n<PAPÁ DE KEL>
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Gracias, Papá.\her
+
+message_12:
+      text: Sniff...\n<MAMÁ DE KEL>
+
+message_13:
+      text: Oh, tu padre tiene razón. No es momento de lloriquear...\n<MAMÁ DE KEL>
+
+#MAMÁ DE KEL walks up to HERO.
+
+message_14:
+      text: ¡Es bueno verte de nuevo, HERO! <br>¡Te hemos echado mucho de menos!\n<MAMÁ DE KEL>
+
+#Screen shakes. Everyone is surprised.
+
+message_15:
+      text: \sinv[1]\Com[2]¡¡WAAA\{AAA\{AAAA\{AAH\{HHHHHH!!\who
+
+message_16:
+      text: ¡Ah, parece que SALLY está despierta!\! Iré a traerla.\n<MAMÁ DE KEL>
+
+#MAMÁ DE KEL walks toward the staircase entrance and walks O.S.
+#PAPÁ DE KEL walks to Dining Room then turns back.
+
+message_17:
+      text: Vamos, chicos. Debéis tener hambre.\! <br>¡Servios la cena!\n<PAPÁ DE KEL>
+
+#PAPÁ DE KEL walks O.S.
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: ¡Genial! ¡Vamos a por algo de comida y a calentarla!\kel
+
+# =========================================================================================
+# Cutscene: Sleepover at Player's
+# =========================================================================================
+
+#Trigger: Examine Microwave with food.
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Phew...\! Ahora que todo se ha calmado... <br>Por fin podemos relajarnos un poco.\her
+
+#HERO turns to PLAYER.
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: ¡Estoy feliz de volver a verte, \n[8]!\! <br>Ha pasado mucho tiempo, ¿eh?\her
+
+#HERO turns to KEL.
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Ah, y también es bueno verte de nuevo, KEL.\her
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Así que \n[8], me enteré por mamá de que te vas a mudar pronto. ¡Suena emocionante!\her
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Sí, lo es.\! Mañana será su último día con nosotros.\kel
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: La mudanza puede parecer un poco nerviosa ahora, pero realmente no es tan mala una vez que te acostumbras a ella.\! <br>Creo que sería bueno para ti, \n[8].\her
+
+message_46:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Se aprende mucho al mudarse a un nuevo lugar, y es bueno tener<br>un nuevo comienzo. Estoy un poco triste de verte ir, pero <br>estará bien siempre que nos mantengamos en contacto.\her
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Tio...\! aun recuerdo cuando nos veiamos todos los dias.\! A veces lo echo de menos...\!<br>Vagueando...\! Comiendo...\! Bebiendo zumo...\kel
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Sí, lo haciamos todo juntos.\!<br>Fuimos al parque, al lago, a la playa...\! Pero sinceramente, ¡lo que más echo de menos es pasar el rato en tu casa, \n[8]!\her
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Teniais de todo...\!<br>Un gran televisor, los juguetes más nuevos, un piano de cola...\!<br>y, por supuesto, ¡nuestra propia casa del árbol!\her
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: ¡Oh, sí! ¡La casa del árbol era impresionante!\! <br>Me pregunto si aún está allí...\! ¿Lo esta, \n[8]?\kel
+
+#Microwaved food is done.
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: ¡Parece que la comida está hecha!\! Comamos en la sala de estar.\!<br>¡Podemos seguir charlando allí!\her
+
+# =========================================================================================
+# Cutscene: Convincing MAMÁ DE KEL
+# =========================================================================================
+
+#Enter KEL'S Living Room.
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Por cierto, HERO...\!<br>¡BASIL le dio a \n[8] su \c[4]ÁLBUM DE FOTOS\c[0] ayer!\!<br>¿Quieres verlo? \kel
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: ¿Tienen el \c[4]ÁLBUM DE FOTOS\c[0] de BASIL?\!<br>Claro, ¡podemos mirarlo mientras cenamos!\her
+
+#Slide: Basil's PHOTO ALBUM (Faraway - Missing Photos)
+
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Es una pena que falten algunas fotos...\! AUBREY robó el álbum de BASIL, pero lo recuperamos.\! Tal vez tenga el resto de las fotos.\kel
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: ... ... ...\her
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hey HERO, ¿pasa algo?\kel
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: Sí... es solo que...\! Bueno...\! <br>MARI no está en ninguna de estas fotos.\her
+
+#KEL is surprised.
+
+message_76:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Oh, tienes razón...\kel
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Hum...\! Aún así, este álbum me trae muy buenos recuerdos.\! Las cosas eran mucho más sencillas cuando todos éramos niños, ¿eh? Haha...\her
+
+#HERO turns to PLAYER.
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \n[8], tengo que pedirte un favor.\her
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: ¿Crees que podrías dejarnos ver tu casa una vez más antes de irte?\her
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: ¡Oh, buena idea!\!<br>Pero tendras que convencer a mamá primero.\kel
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: Probablemente se enfade porque no estes pasando <br>suficiente tiempo con ella y demás.\! Ya sabes cómo es...\kel
+
+#MAMÁ DE KEL comes in with SALLY.
+
+message_82:
+      text: \Com[2]¡Phew! ¡Qué desastre!\!<br>SALLY se hizo caca, ¡pero ya está limpia!\n<MAMÁ DE KEL>
+
+message_83:
+      text: \sinv[1]¡Pwe\{ee!\!\} ¿Ubuu\}uuu...?\n<SALLY>
+
+#KEL gets up and goes to SALLY.
+
+message_84:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Hola, SALLY. Onta bebé...\!<br>\{\sinv[1]¡AQUÍ TA!\kel
+
+message_85:
+      text: \sinv[1]\Com[2]¡¡¡WAAA\{AAA\{AAAA\{AAH\{HHH!!!\n<SALLY>
+
+message_86:
+      text: ¡Para KEL! ¡La estás asustando!\n<MAMÁ DE KEL>
+
+#HERO is sweating and looks at MAMÁ DE KEL.
+
+message_87:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: Ahem...\! Así qué...\| Uh...\| Oye mamá...\! Nos preguntamos si podríamos ir a pasar el rato en la casa de \n[8] hoy, ya que se muda pronto....\her
+
+#MAMÁ DE KEL is surprised.
+
+message_88:
+      text: ¿Qué?\! ¡Pero si acabas de volver!\! Y ya es de noche.\! <br>¿Qué hay de pasar tiempo con tu madre?\n<MAMÁ DE KEL>
+
+message_89:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: ¡Voy a estar aquí por el resto del verano, y \n[8] se va pasado mañana!\!<br>Tenemos poco tiempo para ponernos al día...\her
+
+#PAPÁ DE KEL walks up to MAMÁ DE KEL.
+
+message_90:
+      text: Creo que está bien que HERO pase algo de tiempo con KEL y \n[8].\n<PAPÁ DE KEL>
+
+message_91:
+      text: Hacía tiempo que los chicos no tenían la oportunidad de pasar el rato.\! Yo digo que deberíamos dejarlos.\n<PAPÁ DE KEL>
+
+#MAMÁ DE KEL turns around.
+
+message_92:
+      text: \sinv[1]Ugh...\sinv[0]\! Vale.\! Os podeis ir a divertiros\n<MAMÁ DE KEL>
+
+message_93:
+      text: ¡Pero HERO tiene que lavar los platos conmigo durante la próxima semana!\n<MAMÁ DE KEL>
+
+#HERO is surprised.
+
+message_94:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: C-Claro...\! Supongo que... Puedo hacerlo.\her
+
+message_95:
+      text: \Com[2]¡Hmph!\! Muy bien... ¡Eres libre de irte!\n<MAMÁ DE KEL>
+
+#MAMÁ DE KEL turns to the side.
+
+message_96:
+      text: Vamos, SALLY. Dejemos a tus hermanos los mayorcitos en paz...\! <br>No queréis tener nada que ver con nosotras, ¿a qué no?\n<MAMÁ DE KEL>
+
+#MAMÁ DE KEL walks O.S.
+
+message_97:
+      faceset: MainCharacters_Faraway
+      faceindex: 35
+      text: Mamá...\her
+
+message_98:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel¡Primero tengo que prepararme!\! ¡Vamos a mi habitación antes de irnos!

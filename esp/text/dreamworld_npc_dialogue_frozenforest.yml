@@ -1,0 +1,114 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============FROZEN FOREST====================================
+
+
+                        #====NIGHT 1-2 and Night 2====
+
+#FISHING BEAR
+#Location: Frozen Lake
+message_0:
+      text: \n<PESCADOROSO>¡Solo aquí esperando mi siguiente gran pesca!
+
+#SNOW CONE JASH
+#FROZEN Lake
+#DREAMWORLD Shop yaml
+
+                        #====NIGHT 3 and 4====
+#FISHING BEAR
+#Location: Frozen Lake
+#Same as NIGHT 1-2.
+
+#SNOW CONE JASH
+#Location: Frozen Lake
+#Same as NIGHT 1-2.
+
+#GLOBO DE NIEVE 1
+#Location: Frozen Forest
+message_1:
+      text: Miraste dentro del GLOBO DE NIEVE.\! Ves un coche atascado en la nieve. \! Unos niños están dibujando en el vidrio trasero nublado.
+
+#GLOBO DE NIEVE 2
+#Location: Frozen Forest
+message_2:
+      text: Miraste dentro del GLOBO DE NIEVE.\! Ves una pequeña casa en la cima de una colina nevada.\! Se ve cálido adentro.
+
+#GLOBO DE NIEVE 3
+#Location: Frozen Forest
+message_3:
+      text: Miraste dentro del GLOBO DE NIEVE.\! Ves unos niños bajando la colina en trineo.\! Parece que se están diviertiendo.
+
+#MOUNTAIN
+message_10:
+      text: Te encuentras frente a los pies de una montaña.
+
+message_11:
+      text: Te encuentras donde empezaste.
+
+#====
+
+#FISHING
+
+message_20:
+      text: ¡Has atrapado un BROTE DE TIERRA!<br>\!Y luego lo devolviste al lago.
+
+message_21:
+      text: Has atrapado una bota vieja...<br>\!Y luego la devolviste al lago.
+
+message_23:
+      text: ¡Has atrapado un cangrejo!<br>\!Y luego lo devolviste al lago.
+
+message_24:
+      text: ¡Has atrapado un pulpo!<br>\!Y luego lo devolviste al lago.
+
+message_25:
+      text: Has atrapado desecho nuclear...<br>\!Y luego lo devolviste al lago.
+
+message_26:
+      text: ¡Has atrapado una máquina vendedora!
+
+message_27:
+      text: Has atrapado una \"O\".<br>\!Y luego la devolviste al lago.
+
+message_29:
+      text: Has atrapado una naranja.<br>\!Y luego la devolviste al lago.
+
+message_30:
+      text: Has atrapado un MENSAJE EN UNA BOTELLA!
+
+message_31:
+      text: \n<MENSAJE EN UNA BOTELLA>\"When the Moon hits your eye like a big pizza pie, that's _____.\"
+
+#Show Choices OMORI, AUBREY, KEL, HERO
+
+message_32:
+      text: Has atrapado un pez de plástico...<br>\!Y luego lo devolviste al lago.
+
+message_33:
+      text: ¡Has atrapado un pez real!<br>\!Y luego lo devolviste al lago.
+
+message_34:
+      text: ¡Has atrapado \c[3]TOFU\c[0]!
+
+message_35:
+      text: ¡Has atrapado \c[3]MERMELADA VITAL\c[0]!
+
+message_36:
+      text: Hoy no hay suerte...
+
+message_40:
+      text: OMORI
+
+message_41:
+      text: AUBREY
+
+message_42:
+      text: KEL
+
+message_43:
+      text: HERO
+
+message_44:
+      text: Lanzaste la botella de vuelta al lago.

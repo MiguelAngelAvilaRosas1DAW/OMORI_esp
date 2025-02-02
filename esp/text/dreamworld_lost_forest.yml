@@ -1,0 +1,160 @@
+# =========================================================================================
+# PAPI PIERNAS LARGAS
+# ========================================================================================
+
+#He always says this first. The rest, he says based on how many times you entered any map in the lost forest.
+
+message_0:
+    text: \n<PAPI PIERNAS LARGAS>Bienvenido al \c[11]BOSQUE PERDIDO\c[0], lugar en donde encuentras cosas que nunca supiste que estaban perdidas en primer lugar...\! O tal vez estén olvidados por una razón.
+
+#He always says this stuff, left as is so the player could know how hot or cold they are:
+
+message_1:
+    text:  \n<PAPI PIERNAS LARGAS>Supongo que todos tenemos secretos...\! No importa cuán perdidos o cuán profundo los enterremos, encontrais el camino de regreso al otro lado...
+
+message_2:
+    text:  \n<PAPI PIERNAS LARGAS>¿Tratando de perderte? ¿O ya lo has logrado?\! De cualquier manera, este es el lugar adecuado para ti.\! Quizás por eso has venido aquí... para terminar el trabajo.
+
+#Alternate
+
+message_3:
+    text:  \n<PAPI PIERNAS LARGAS>Por lo general, tendemos a hacer las cosas que queremos.... a diferencia de las cosas que decimos que hacemos.\! Nunca he sido uno de ellos.\! Soy más un tipo de persona "necesitada".
+
+message_4:
+    text:  \n<PAPI PIERNAS LARGAS>Te sugiero que busques la salida antes de que tus "necesidades" se vuelvan más evidentes.
+
+message_5:
+    text:  \n<PAPI PIERNAS LARGAS>Has vagado por mi  \v[109] varias veces.
+
+#If：Lost Forest Entrances  8
+
+message_6:
+    text:  \n<PAPI PIERNAS LARGAS>¿Sigues aquí?\! Debes haberte rendido o has abrazado completamente tu destino.\! Tal vez una confesión, pero no soy yo el que debe decirlo.
+
+message_7:
+    text:  \n<PAPI PIERNAS LARGAS>Has pasado por mi \v[109] varias veces.
+
+#  If：Lost Forest Entrances = 9
+
+message_8:
+    text:  \n<PAPI PIERNAS LARGAS>Antes había un chico deambulando por aquí, muy parecido a ti.\! Entró a la oscuridad y nunca salió.
+
+message_9:
+    text:  \n<PAPI PIERNAS LARGAS>Qué lamentable debe haber sido no encontrar nunca lo que estaba buscando.\! Ya sea arrepentimiento, derrota o confusión, nadie lo sabrá.
+
+#  If：Lost Forest Entrances = 12
+
+message_10:
+    text:  \n<PAPI PIERNAS LARGAS>He visto personas perdidas y a personas ciegas, pero la combinación es inquietante.\! Tal vez te estés escondiendo del camino correcto. 
+
+#  If：Lost Forest Entrances = 15
+
+message_11:
+    text:  \n<PAPI PIERNAS LARGAS>La moral se pierde en los malvados.\! ¿Cómo se define la malicia sin intención?\! ¿Por qué continúas por este camino cuando ciertamente no es el camino correcto?
+
+#This stuff is unique to the map that you're on. He says it directly after the stuff above.
+
+#MAP 1
+message_12:
+    text:  \n<PAPI PIERNAS LARGAS>Hay un viejo dicho sobre perder el tiempo viviendo una vida que no es la tuya.\! Los sueños pueden sentirse así, como este a bosque.\! Perdidos...
+
+#MAP 2
+message_13:
+    text:  \n<PAPI PIERNAS LARGAS>A veces, cuando nos ocultamos cosas a nosotros mismos, creamos diferentes verdades y, finalmente, olvidamos nuestro camino.\!<br>¿Ya has encontrado el tuyo o todavía estás perdido?
+
+#MAP 5
+message_18:
+    text:  \n<PAPI PIERNAS LARGAS>Olvida todo lo que quieras, o inténtalo.\! La oscuridad se manifiesta tanto si eres consciente como si no.\! Esconde lo inevitable detrás de la ignorancia y mira caer tu mentira.
+
+#Once you complete the forest, his page 2 is always:
+message_19:
+    text:  \n<PAPI PIERNAS LARGAS>La oscuridad te rodea y es algo terrible, pero tu “verdad” te ha guiado.\! ¿Cuánto tiempo más puedes mantenerla?
+
+#END
+
+message_21:
+    text:  \n<PAPI PIERNAS LARGAS>Has llegado al final del \c[11]BOSQUE PERDIDO\c[0]...<br>Pero también al comienzo de la verdad.
+
+message_22:
+    text:  \n<PAPI PIERNAS LARGAS>Te contaré una historia que se ha perdido en el tiempo...\!<br>una historia sobre la creación de esta realidad.
+
+message_23:
+    text:  \n<PAPI PIERNAS LARGAS>Al principio, solo existían dos...\!<br>el SOÑADOR y su habitación.
+
+message_24:
+    text:  \n<PAPI PIERNAS LARGAS>El SOÑADOR se cansó de su habitación y creó una puerta que conducía a muchos mundos diferentes.
+
+message_25:
+    text:  \n<PAPI PIERNAS LARGAS>Caminando por el sendero como visitante de estos mundos, el SOÑADOR iría y vendría cuando quisiera.
+
+message_26:
+    text:  \n<PAPI PIERNAS LARGAS>Se resbala y cae, cae y cae...\! La curiosidad y la torpe exploración del SOÑADOR lo llevaron finalmente a cierto mundo.
+
+message_27:
+    text:  \n<PAPI PIERNAS LARGAS>Un mundo diferente a los demás...\!<br>uno pintado con caos y bañado en oscuridad.
+
+message_28:
+    text:  \n<PAPI PIERNAS LARGAS>El SOÑADOR lentamente se llenó de pavor. \!Por silenciosas que hayan sido, palabras de malicia se deslizaron silenciosamente en su mente.\! Susurrando mentiras, secretos y verdades.
+
+message_29:
+    text:  \n<PAPI PIERNAS LARGAS>Impotente para silenciar el ruido, el SOÑADOR manifestó entidades benevolentes en sus diferentes mundos....
+
+message_30:
+    text: \n<PAPI PIERNAS LARGAS>Luego compuso sus mundos por encima del reino oscuro...\! sellandolo con su poder.
+
+message_31:
+    text:  \n<PAPI PIERNAS LARGAS>Sin embargo, a pesar de sus valientes esfuerzos, la presencia de la oscuridad nunca disminuyó.\! Incluso con nuevos aliados, la oscuridad continuó raspando y raspando la parte posterior de la mente del SOÑADOR.
+
+message_32:
+    text: \n<PAPI PIERNAS LARGAS>El ruido pudo haber disminuido, pero nunca desapareció.
+
+message_33:
+    text: \n<PAPI PIERNAS LARGAS>El SOÑADOR podría correr y enterrar sus miedos, pero uno todavía tiene que enfrentarse a su propio reflejo.
+
+message_34:
+    text:  \n<PAPI PIERNAS LARGAS>Lo que el SOÑADOR había creado era algo de lo que no podía ser parte, algo fuera de sí mismo.
+
+message_35:
+    text:  \n<PAPI PIERNAS LARGAS>El propio poder del SOÑADOR fue su mayor adversario.\!<br>Conocimiento... o la ausencia de él, se convertiría en el mayor regalo del SOÑADOR.
+
+message_36:
+    text:  \n<PAPI PIERNAS LARGAS>Para escapar verdaderamente de los peligros de su propia facultad y ascender a un feliz estado de ignorancia...\! Solo entonces el ruido dejaría de agitar la cordura del SOÑADOR.
+
+message_37:
+    text:  \n<PAPI PIERNAS LARGAS>Entonces...\! El SOÑADOR tomó otro nombre...\!<br>y eligió olvidarse de sí mismo.
+
+message_38:
+    text:  \n<PAPI PIERNAS LARGAS>A partir de ese momento, el soñador ha vivido entre nosotros...<br>\!simplemente como un habitante de este mundo...\!<br>Viajando felizmente, ignorante de su propia fabricación.
+
+#leave
+
+message_39:
+    text:  \n<PAPI PIERNAS LARGAS>Este viaje es demasiado arduo para los débiles de corazón.\! ¿Deseas irte, niño?\! No te culparé.
+
+#message_39:
+#    text:  \n<PAPI PIERNAS LARGAS>¿Entiendes, niño?
+    #YES/NO
+
+#message_40:
+#    text: \n<PAPI PIERNAS LARGAS>Bien.\! Ahora, te dejo con una advertencia.
+
+#message_41:
+#    text: \n<PAPI PIERNAS LARGAS>Lo siento. Tan conflictivo como estoy, este cuento no estaba destinado a repetirse.\! Ahora, te dejo con una advertencia.
+
+message_41:
+    text: \n<PAPI PIERNAS LARGAS>Niño, debo advertirte...
+
+message_42:
+    text:  \n<PAPI PIERNAS LARGAS>Al igual que con todas las cosas que nacen dentro y fuera de este mundo, un final también amenazará a este.\! Aunque el SOÑADOR puede haber sometido a lo inexorable, la oscuridad se calma.
+
+message_43:
+    text:  \n<PAPI PIERNAS LARGAS>Ningún vendaje puede sofocar una herida eterna...\! y habrá un momento en que su influencia se desangrará.<br><br>Olvidado, el SOÑADOR puede hacer de este peligro, un peligro que nunca olvida serlo.
+
+message_44:
+    text:  \n<PAPI PIERNAS LARGAS>Sin embargo, el fin de este mundo puede ser inevitable.\! El SOÑADOR es el único con la habilidad para liberar este mundo.
+
+message_50:
+    text: Esta lámpara se encendió recientemente.
+
+message_51:
+    text: Un viejo tocón.

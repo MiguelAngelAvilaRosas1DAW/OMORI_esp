@@ -1,0 +1,32 @@
+
+
+# =========================================================================================
+# MINI-GAME: Blackjack
+# =========================================================================================
+
+message_0:
+  text: Fin del Juego
+
+message_1:
+  text: No tienes $
+
+message_2:
+  text: Tienes $
+
+message_3:
+  text: <br>¿Cuánto quieres apostar?
+
+message_4:
+  text: Racha ganadora -
+
+message_5:
+  text: Repartidor
+
+message_6:
+  text: Jugador
+
+message_7:
+  text: <br>¿Cuánto quieres apostar?
+
+message_8:
+  text: <br>Dejas la mesa con $

@@ -1,0 +1,679 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============Sproutmole Village / Sweetheart's Castle====================================
+
+
+                        #====NIGHT 2====
+
+#BANDITO MOLE
+#Location: BROTE DE TIERRA village
+
+message_0:
+      text: \who\}Ah, ah, ah...\! Hush, hush, hush...
+
+#HERMOSO BROTE
+#Location: Sproutmole Village
+message_1:
+      text: \n<BROTE HERMOSO>Mírame...\!<br>Soy el BROTE DE TIERRA más hermoso, ¿verdad?
+
+#BROTE CAJA
+#Location: Sproutmole Village
+
+message_221:
+      text: \n<BROTE CAJA>La Navidad es mi época favorita del año, así que ¿por qué no celebrar la Navidad todo el tiempo?
+
+
+message_2:
+      text: \n<BROTE CAJA>La Navidad esta arruinada...
+
+#BROTE SIRVIENTE
+#Location: Check Dream world -dungeon dialogue
+
+#BROTE CHEF
+#Location: BROTE DE TIERRA Village
+#(TOFU TRIVIA copy)
+message_3:
+      text: \n<BROTE CHEF>Ah, sí, ¡bienvenido!\! Debe estar aquí para conocer la mejor hazaña culinaria desde el pan de molde...\! \Com[2]\c[3]¡TOFU\c[0]!
+
+message_4:
+      text: \n<BROTE CHEF>¡C'est magnifique!\!<br>Aquí tienes tu \c[3]TOFU\c[0] trivia del día.
+
+message_5:
+      text: \n<BROTE CHEF>\Com[2]¿Cómo te atreves a desafiar la majestuosidad del \c[3]TOFU\c[0]!?\!<br>Vete.\! ¡Me dan asco!
+
+message_6:
+      text: \n<BROTE CHEF>¡Se necesitan doce mil seiscientos setenta y dos bloques de \c[3]TOFU\c[0] alineados de extremo a extremo a lo largo para igualar una milla!
+
+message_7:
+      text: \n<BROTE CHEF>¡Hay cuatro tipos de \c[3]TOFU\c[0]...\!<br>firme, extra firme, suave y sedoso!
+
+message_8:
+      text: \n<BROTE CHEF>El \c[3]TOFU\c[0] firme puede ser salteado, horneado, cortado en cubos, y casi cualquier otra cosa.\! ¡Esto se debe a que puede conservar su forma y seguir absorbiendo el sabor!
+
+message_9:
+      text: \n<BROTE CHEF>El \c[3]TOFU\c[0] suave es mejor prepararlo crudo o escurrido.\! ¡Es lo mejor para los postres, los batidos, aderezos y las salsas!
+
+message_10:
+      text: \n<BROTE CHEF>¡El \c[3]TOFU\c[0] sedoso es cremoso y se puede utilizar para hornear, aderezos, salsas, batidos y postres!
+
+message_11:
+      text: \n<BROTE CHEF>¡El \c[3]TOFU\c[0] a la parrilla es una gran alternativa para la carne!
+
+message_12:
+      text: \n<BROTE CHEF>Ya que el \c[3]TOFU\c[0] tiene un alto contenido de soja, ¡no es bueno para ti si tienes problemas de higado!
+
+message_13:
+      text: \n<BROTE CHEF>La mejor manera de añadir sabor a el \c[3]TOFU\c[0] es glasearlo hasta que esté dorado, y luego añadir un adobo.\! Absorberá todos los sabores hasta que la salsa se convierta en un jarabe que se pegue a la sartén.
+
+message_14:
+      text: \n<BROTE CHEF>Si desean saber más sobre el increíble y majestuoso \c[3]TOFU\c[0], no dudes en volver a hablar conmigo.\! ¡Ho-ho!
+
+#DOUBLE MOLE
+#Location: BROTE DE TIERRA Village
+message_20:
+      text: \n<BROTE DOBLE>¡Somos dos!\! ¡Somos uno!\! ¿Somos duno?
+
+#DUNCE MOLE
+#Location: BROTE DE TIERRA Village
+message_21:
+      text: \n<BROTE BURRO>¡Esta pared es agradable y fría!
+
+#ELDER MOLE
+#Location: BROTE DE TIERRA Village
+message_22:
+      text: \n<BROTE MAYOR>Estoy trabajando en una tecnología revolucionaria que cambiará toda la vida en la colonia...\! no...\! ¡en el mundo!
+
+#ELDER MOLE JR.
+#Location: BROTE DE TIERRA Village
+message_23:
+      text: \n<BROTE MAYOR JR>¡Últimamente es muy difícil dormir bien!\! Si solo tuviera algo para hacer la experiencia de dormir más cómoda...
+
+#Fall mole: Location BROTE DE TIERRA village Note: Check Season mole yaml
+#BROTE DE FAMILIA 1: Check Delivery for brother yaml
+
+#BROTE DE FAMILIA 2
+#Location: BROTE DE TIERRA Village
+message_24:
+      text: \n<BROTE DE FAMILIA>Odio los lunes.
+
+#BROTE DE FAMILIA 3
+#Location: BROTE DE TIERRA Village
+message_25:
+      text: \n<BROTE DE FAMILIA>Nosostros BROTES DE TIERRA no nos atrevemos a salir de la colonia desde la gran mudanza.\! Fue un tiempo duro...
+
+message_26:
+      text: \n<BROTE DE FAMILIA>Muchos de nosotros no lo logramos...\! BROTES DE TIERRA se perdían a diestro y siniestro...\! ¡Los niños fueron separados de sus familias!\! ¡Oh, el horror!
+
+message_27:
+      text: \n<BROTE DE FAMILIA>Quiero decir, al menos todo está bien ahora...\! en su mayor parte.
+
+#FLAMINGO MOLE
+#Location: BROTE DE TIERRA Village
+
+message_30:
+      text: \n<BROTE DE FAMILIA>Los BROTES DE TIERRA, aunque son inteligentes, también son criaturas muy obsesivas.\! Como puedes ver, carezco de cualquier apariencia de autocontrol.
+
+#BROTE GUARDIA
+#Location: Sweetheart's Castle
+#Check DREAM WORLD - DUNGEON DIALOGUE.
+
+#BROTE MAID
+#Location: Sweetheart's Castle
+#Check DREAM WORLD - DUNGEON DIALOGUE.
+
+#OFICIAL BROTE
+#Location: BROTE DE TIERRA Village
+message_32:
+      text: \n<OFICIAL BROTE>¡Es nuestro deber como oficiales encerrar a esos maleantes aquí para mantener la paz!
+
+#ROSA
+#Location: N/A
+
+#BROTE DEPORTISTA
+#Location: BROTE DE TIERRA Village
+message_33:
+      text: \n<BROTE DEPORTISTA>Uff...\! uff uff...
+
+#SPRING MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+#BROTE DE TIERRA MIKE
+#Location: Sweetheart's Castle
+#[Main Story]
+
+#BROTE ESTUDIANTE 1
+#Location: BROTE DE TIERRA Village
+message_40:
+      text: \n<BROTE ESTUDIANTE>Oye, ¡mira esta cosa tan genial que he dibujado!
+
+#BROTE ESTUDIANTE 2
+#Location: BROTE DE TIERRA Village
+message_41:
+      text: \n<BROTE ESTUDIANTE>¿C-Crees que seguiremos siendo amigos cuando nos graduemos?
+
+#BROTE ESTUDIANTE 3
+#Location: BROTE DE TIERRA Village
+message_42:
+      text: \n<BROTE ESTUDIANTE>A pesar de toda mi \QUAKE[1]ira\QUAKE[0], sigo siendo solo un brote en una jaula.
+
+#SUE BROTE CHEF 1 & SUE BROTE CHEF 2
+#Location: BROTE DE TIERRA Village
+message_43:
+      text: \n<BROTE SOUS CHEF>¡Cómo te atreves a decir semejante blasfemia!\! ¡Es de dominio público que el \c[3]TOFU\c[0] es mejor cuando se sirve caliente!
+
+message_44:
+      text: \n<BROTE SOUS CHEF>¿Estás loco?\! ¡Cualquier BROTE DE TIERRA con sentido común sabe que el \c[3]TOFU\c[0] es mejor cuando se sirve frío!
+
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text:  \herHey, no hay necesidad de pelear.\! ¿Por qué no llegan a un acuerdo?
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \her¿Quién sabe?\! Tal vez ambos tengan razón.\! O quizás puedan cocinar \c[3]TOFU\c[0] de una manera que aún no se ha hecho...\! En algún lugar entre el frío y el calor, como...
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herNo lo sé....\! ¿T-Tibio?
+
+message_48:
+      text: \n<BROTE SOUS CHEF>...
+
+message_49:
+      text: \n<BROTE SOUS CHEF>\sinv[1]Eeeeewwwwwwwwwwwwww...
+
+message_50:
+      text: \n<BROTE SOUS CHEF>¿\c[3]TOFU\c[0] tibio?\! Esa es la peor idea que he escuchado.\!<br>Incluso el \c[3]TOFU\c[0] frío es mejor que eso...
+
+message_51:
+      text: \n<BROTE SOUS CHEF>¿\c[3]TOFU\c[0] tibio?\! Quiero vomitar.\!<br>Incluso el \c[3]TOFU\c[0] caliente es mejor que eso...
+
+#SUE BROTE CHEF 3
+#Location: BROTE DE TIERRA Village
+message_60:
+      text: \n<BROTE SOUS CHEF>¡No tengo ni idea de lo que estoy haciendo!
+
+#SUMMER MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+#SWEETHEART
+#Location: N/A
+
+#PROFESOR BROTE
+#Location: BROTE DE TIERRA Village
+message_61:
+      text: \n<PROFESOR BROTE>¡No tengo ni idea de lo que estoy haciendo!
+
+#TOFU JASH
+#Location: BROTE DE TIERRA Village - Tofu Shop (Jash Quest)
+#Check SHOP DIALOGUE GUIDE
+
+#WALL MOLE
+#Location: BROTE DE TIERRA Village
+
+message_62:
+      text: Este BROTE DE TIERRA está pegado a la pared.
+
+#WINTER MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+
+                        #====NIGHT 3====
+
+
+#BANDITO MOLE
+#Location: BROTE DE TIERRA Village - B.E.D Trade Quest 1
+#Refer to SIDEQUEST: B.E.D.
+
+#HERMOSO BROTE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE CAJA
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE SIRVIENTE
+#Location: Sweethearts Castle
+message_80:
+      text: \n<BROTE SIRVIENTE>Fiuf...\! Ahora que SWEETHEART se ha ido, mi vida no tiene sentido...
+
+#BROTE CHEF
+#Location: BROTE DE TIERRA Village - B.E.D. Trade Quest 3
+#Same as NIGHT 2.
+
+#DOUBLE MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#DUNCE MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#ELDER MOLE
+#Location: BROTE DE TIERRA Village- B.E.D. Trade Quest 2
+#Refer to SIDEQUEST: B.E.D.
+
+#ELDER MOLE JR.
+#Location: BROTE DE TIERRA Village- B.E.D. Trade Quest 5
+#Refer to SIDEQUEST: B.E.D.
+
+#FALL MOLE
+#Location: BROTE DE TIERRA Village- Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#BROTE DE FAMILIA 1
+#Location: BROTE DE TIERRA Village- Delivery for Brother Quest
+#Same as NIGHT 2.
+
+#BROTE DE FAMILIA 2
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE DE FAMILIA 3
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#FLAMINGO MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE GUARDIA
+#Location: Sweetheart's Castle
+message_81:
+      text: \n<BROTE GUARDIA>Sin SWEETHEART, mi vida no tiene sentido.
+
+#BROTE MAID
+#Location: Sweetheart's Castle
+message_82:
+      text: \n<BROTE MAID>Sin SWEETHEART, mi vida no tiene sentido.
+
+#OFICIAL BROTE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#ROSA
+#Location: BROTE DE TIERRA Village
+message_83:
+      text: \n<ROSA>Después de ese fiasco de boda, SWEETHEART se fue y nunca volvió.\! \Com[2]¡Todo esto es culpa suya!
+
+#BROTE DEPORTISTA
+#Location: BROTE DE TIERRA Village- B.E.D. Trade Quest 4
+#Refer to sidequest_BED
+
+#SPRING MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#BROTE DE TIERRA MIKE
+#Location: Sweetheart's Castle
+message_84:
+      text: \n<BROTE DE TIERRA MIKE>Fiuf...\! No sé qué hacer conmigo mismo ahora que SWEETHEART se ha ido... Ella era mi todo...
+
+#BROTE ESTUDIANTE 1
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE ESTUDIANTE 2
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE ESTUDIANTE 3
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#SUE BROTE CHEF 1
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#SUE BROTE CHEF 2
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#SUE BROTE CHEF 3
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#SUMMER MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SWEETHEART
+#Location: N/A
+
+#PROFESOR BROTE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#TOFU JASH
+#Location: BROTE DE TIERRA Village - Tofu Shop (Jash Quest)
+#Same as NIGHT 2.
+
+#WALL MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#WINTER MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+
+                        #====NIGHT 4====
+
+
+#BANDITO MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 3.
+
+#HERMOSO BROTE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE CAJA
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE SIRVIENTE
+#Location: Last Resort
+message_85:
+      text: \n<BROTE SIRVIENTE> Vine aquí porque dijeron que ofrecían trabajos...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#BROTE CHEF
+#Location: BROTE DE TIERRA Village - B.E.D. Trade Quest 3
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#DOUBLE MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#DUNCE MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#ELDER MOLE
+#Location: BROTE DE TIERRA Village- B.E.D. Trade Quest 2
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#ELDER MOLE JR.
+#Location: BROTE DE TIERRA Village- B.E.D. Trade Quest 5
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#FALL MOLE
+#Location: BROTE DE TIERRA Village- Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#BROTE DE FAMILIA 1
+#Location: BROTE DE TIERRA Village- Delivery for Brother Quest
+#Same as NIGHT 2.
+
+#BROTE DE FAMILIA 2
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE DE FAMILIA 3
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#FLAMINGO MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE GUARDIA
+#Location: LAST RESORT
+message_86:
+      text: \n<BROTE GUARDIA> Vine aquí porque dijeron que ofrecían trabajos...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#BROTE MAID
+#Location: LAST RESORT
+message_87:
+      text: \n<BROTE MAID> Vine aquí porque dijeron que ofrecían trabajos...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#OFICIAL BROTE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#ROSA
+#Location: BROTE DE TIERRA Village
+#[Incomplete]
+
+#BROTE DEPORTISTA
+#Location: BROTE DE TIERRA Village- B.E.D. Trade Quest 4
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#SPRING MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#BROTE DE TIERRA MIKE
+#Location: Sweetheart's Castle
+#Same as NIGHT 2.
+
+#BROTE ESTUDIANTE 1
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE ESTUDIANTE 2
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#BROTE ESTUDIANTE 3
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#SUE BROTE CHEF 1
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#SUE BROTE CHEF 2
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#SUE BROTE CHEF 3
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#SUMMER MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SWEETHEART
+#Location: N/A
+#After Mr.Jawsum leaves Last Resort
+#Location: Slime Girl's Lair
+#Check dreamworld extras slimegirls
+
+#PROFESOR BROTE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#TOFU JASH
+#Location: BROTE DE TIERRA Village - Tofu Shop
+#Same as NIGHT 2.
+
+#WALL MOLE
+#Location: BROTE DE TIERRA Village
+#Same as NIGHT 2.
+
+#WINTER MOLE
+#Location: BROTE DE TIERRA Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#===
+
+#THEATER
+
+message_100:
+      text: \n<BROTE DE TIERRA>¡Como reputado crítico de cine, creo que todas las obras de SWEETHEART están más allá de lo que nuestras débiles mentes pueden comprender!
+
+message_101:
+      text: \n<BROTE DE TIERRA>Chicos...\! Ustedes se ven terriblemente familiares.\!<br>¿Te he visto en la televisión?
+
+message_102:
+      text: \n<BROTE DE TIERRA>¡Silencio! ¡Esta es mi película favorita!
+
+message_103:
+      text: \n<BROTE DE TIERRA>Oh, SWEETHEART...\! Eres demasiado buena para este mundo.
+
+message_104:
+      text: \n<BROTE DE TIERRA>¡He visto todos los episodios de \"LA BÚSQUEDA DE CORAZONES DE SWEETHEART\" al menos seis veces!
+
+message_105:
+      text: \n<BROTE DE TIERRA>¡Llevo a SWEETHEART conmigo dondequiera que vaya!\!<br>¡Di hola, SWEETHEART!
+
+message_106:
+      text: \n<BROTE DE TIERRA>SWEETHEART es la única que me entiende...
+
+message_107:
+      text: \n<BROTE DE TIERRA>SWEETHEART es perfecta en cada sentido.\!<br>Yo haría \quake[1]lo que sea\quake[0] por ella...
+
+message_108:
+      text: \n<BROTE DE TIERRA>Amo tanto a SWEETHEART que ni siquiera puedo recordar una época anterior a ella.\! En serio... ¡No puedo!
+
+message_109:
+      text: \n<BROTE DE TIERRA>\}SWEETHEART...\! Serás mía...\{
+
+#AFTER SW WEDDING
+
+message_110:
+      text: \n<BROTE DE TIERRA>Sniff...\! SWEETHEART lo ha vuelto a hacer.\! Estoy totalmente conmovido.
+
+message_111:
+      text: \n<BROTE DE TIERRA>¿¡Eres HERO, como en \sinv[1]el\sinv[0] HERO de \"LA BÚSQUEDA DE CORAZONES DE SWEETHEART\"!?\! ¡Tu actuación fue magnífica!\! ¡Realmente creí que rechazabas a SWEETHEART!
+
+message_114:
+      text: \n<BROTE DE TIERRA>Ahora que \"LA BÚSQUEDA DE CORAZONES DE SWEETHEART\" ha terminado...\! también lo hará mi vida.
+
+message_120:
+      text: Una muñeca de SWEETHEART incómodamente realista.
+
+#SKELETON
+
+message_121:
+      text: No está viva.
+
+message_122:
+      text: Un surtido de armas letales...\!<br>Uno de ellos ha desaparecido.
+
+
+message_130:
+      text: ¡Oye, JIMZ! ¡Ha pasado mucho tiempo, amigo!<br>\!¿Qué tal tu fin de semana, hombre?\n<BROTE DE TIERRA>
+
+message_131:
+      text: ¿Qué pasa, LINDA? No te he visto por aquí desde hace mucho tiempo.\!<br>¿Cómo está tu viejo?\! Echo de menos a ese tipo.\n<BROTE DE TIERRA>
+
+message_132:
+      text: ¡Hola, SAL! ¡Has perdido peso! ¡Bien por ti!\n<BROTE DE TIERRA>
+
+message_133:
+      text: ¡JEFFREY! ¡Mi hombre!\! Ha pasado demasiado tiempo.\!<br>Tenemos que ponernos al día alguna vez.\n<BROTE DE TIERRA>
+
+
+#SPROUT CROWD
+
+message_200:
+      text: \spr¡He renunciado a todo mi suministro de \c[3]TOFU\c[0] por este asiento!
+
+message_201:
+      text: \spr¡Dejé mis ahorros para la universidad por este asiento!
+
+message_202:
+      text: \spr¡Dejé mi casa por este asiento!
+
+message_203:
+      text: \spr¡Dejé mi alma por este asiento!
+
+#REST OF CROWD
+
+message_204:
+      text: \spr\sinv[1]SWEETHEART... SWEETHEART...<br>¡Es la única para mí!\sinv[0]
+
+message_205:
+      text: \spr¡SWEETHEART es perfecta!\! ¡No comete errores!
+
+message_206:
+      text: \sprMi amor por SWEETHEART no tiene límites.
+
+message_207:
+      text: \sprSWEETHEART...\! Es una diosa que camina entre nosotros...<br>\!Estamos muy bendecidos.
+
+#UNIQUE SPROUT CROWD
+
+message_208:
+      text: \spr¡El programa ni siquiera ha empezado y ya estoy temblando!\! \quake[1]<br>¿¡Por qué no paran los temblores!?\quake[0]
+
+message_209:
+      text: \spr\"S\" es por \"SORPRENDENTE\".\! \"W\" es por...ehm... \"WANTASTICA\".\!<br>\"E\" es por \"EXTRAORDINARIA\".\! \"E\" es por \"EXCEPCIONAL\".\!<br>\"T\" es por...\! \"TOFU\"...\! Mmm...\! Delicioso \c[3]TOFU\c[0]...
+
+message_210:
+      text: \spr\"H\" es por \"HERMOSA\".\! \"E\" es por \"EJEMPLAR\".\!<br>\"A\" es por \"ATRACTIVA\".\! R es por \"RADICAL.\"\!<br>Y \"T\" es por...\! \"TALENTOSA!\", por supuesto!
+
+message_211:
+      text: \spr\}¡Yay! !SWEETHEART!
+
+message_212:
+      text: \sprHe oído que solía haber una biblioteca aquí...\!<br>pero entonces SWEETHEART construyó su escenario sobre él...\!<br>¡¿Quién necesita leer cuando tiene a SWEETHEART?!
+
+message_213:
+      text: \sprUn tomate con cualquier otro nombre sabría igual de jugoso.
+
+message_214:
+      text: \spr¡Solo estoy aquí para pasar un buen rato!
+
+message_215:
+      text: \sprAntes solo me gustaba SWEETHEART de forma irónica...\!<br>y ahora aquí estoy...\! ¿Qué me ha pasado?
+
+message_216:
+      text: \sprAl principio, era escéptico sobre todo este asunto de SWEETHEART, pero creo que estoy empezando a entenderlo...
+
+message_217:
+      text: \sprVine aquí con mi familia, pero nos separamos en el camino...\! Puede que no los vuelva a ver nunca más.
+
+message_218:
+      text: \sprHe oído que SWEETHEART es en realidad una \c[3]DONA\c[0]...\!<br>Me pregunto si los rumores son ciertos...
+
+#Elevator
+message_220:
+      text: Bueno, esto es incómodo.
+
+
+#Doors
+message_225:
+      text: \n<???>¡Esta habitación está ocupada!
+
+message_226:
+      text: \n<???>¡No puedo ser molestado ahora mismo!
+
+message_227:
+      text: \n<???>¡No se permiten humanos!
+
+message_228:
+      text: \n<???>¡Esta habitación es solo para BROTES DE TIERRA!
+
+message_250:
+      text: \sprNunca está de más tener \c[3]TOFU\c[0] en todo momento.\! ¡Sé que he salido de muchas situaciones complicadas con \c[3]TOFU\c[0]!
