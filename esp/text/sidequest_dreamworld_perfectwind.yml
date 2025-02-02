@@ -1,0 +1,36 @@
+
+# =========================================================================================
+# PERFECT WIND
+# ========================================================================================
+
+message_0:
+    text: Un chico está observando su cometa muy atentamente.\!<br>¿Quieres molestarle?
+
+message_1:
+    text: \kitSoy un chico con una cometa.\! <br>No somos nada del otro mundo pero estamos conectados el uno al otro.\!<br>No es algo que cualquiera pudiese entender.
+
+message_2:
+    text: \kit¡Os mostraré como de fuertes somos cuando luchamos juntos!
+
+message_3:
+    text: \kitUf... lo sabía.\! No podemos luchar al máximo sin el tiempo adecuado.
+
+# KITE KID - DEFEAT - IF PINWHEEL ISNT FIXED
+
+message_4:
+    text: \kitEl viento se siente débil hoy...\!<br>A lo mejor algo le pasa a los molinetes de viento.
+
+# KITE KID - DEFEAT - IF PINWHEEL IS FIXED BY CLIMBING IT WITH KEL. WATERMELON FALLS. GET SILLY STRING FROM WATERMELON.
+
+message_5:
+    text: \kitA lo mejor yo y mi pequeña cometa deberíamos volar a otro sitio...
+
+# TAG DIALOGUE
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kel¿Huh?\! ¿Cómo ha llegado eso ahí arriba?
+
+message_7:
+    text: Este molinete parece no estar funcionando.\!<br>Si alguien fuese capaz de lanzarle algo...

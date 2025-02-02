@@ -1,0 +1,146 @@
+
+# =========================================================================================
+# Sidequest: Tutoring Joy
+# =========================================================================================
+
+#Examine and take language Tutor Flyer:
+
+message_0:
+      text: Hay una petición de trabajo en la pared.\! ¿Quieres leerla?
+
+#Yes/No
+
+#Yes
+
+message_1:
+      text: \"¡SE BUSCA TUTOR! ¡Buscando un tutor local <br>de lenguaje para mi hija, JOY! ¡$20.00 por día!\! ¡Por favor trae este volante a mi casa para una entrevista rápida!”
+
+message_2:
+      text: ¿Quieres sacar el \c[4]VOLANTE AZUL\c[0] de la pared?
+
+#Yes/No
+
+#Yes
+message_3:
+      text: Hay un mapa a la casa por detrás del volante.
+#Show map
+
+#Examine Joy's House Door
+
+message_4:
+      text: \n<CEJOTAS>¡Hola!\! ¿En qué puedo ayudarlos?
+
+message_100:
+      text: Le diste el \c[4]VOLANTE AZUL\c[0] a CEJOTAS. 
+
+message_101:
+      text: \n<CEJOTAS>Ah, ¡ustedes deben ser los nuevos tutores de lenguaje de JOY!
+
+message_5:
+      text: \n<CEJOTAS>Hmm...\! ¡Una entrevista es mucho problema!\! <br>Deben saber lenguaje de segundo grado, ¿verdad?
+
+message_7:
+      text: \n<CEJOTAS>¡Apúrense y entren!\! ¡Mi hija JOY está esperándolos en su cuarto!
+
+#Talk to Joy
+
+message_8:
+      text: \n<NIÑA PEQUEÑA>H-Hola... Soy JOY. ¡Encantada de conocerlos!\!<br>Deben ser mis nuevos tutores.\! ¿Deberíamos empezar ahora?
+
+message_9:
+      text: \n<JOY>Esta es la hoja de trabajo en la que estoy atascada...
+
+#Language worksheet
+
+message_10:
+      text: \n<JOY>Esta pregunta me está costando un poco...
+
+message_11:
+      text: Mi lapiz está __ la mesa.
+
+message_12:
+      text: A) por
+
+message_13:
+      text: B) a
+
+message_14:
+      text: C) en
+
+message_15:
+      text: \n<JOY>¿Qué hay de esta?
+
+message_16:
+      text: En la frase, “lee tu libro silenciosamente.”, ¿qué tipo de palabra es “silenciosamente”?
+
+message_17:
+      text: A) Adjetivo
+
+message_18:
+      text: B) Adverbio
+
+message_19:
+      text: C) Preposición
+
+message_20:
+      text: \n<JOY>Esta es la más difícil...
+
+message_21:
+      text: ¿Cuál de estas frases está escrita correctamente?
+
+message_22:
+      text: A) “Las berenjenas saben mejor cuando están cocinadas.”
+
+message_23:
+      text: B) “Es definitivamente más sabroso con tofu.”
+
+message_24:
+      text: C) “Las berenjenas es un vegetal suave que tiene un buen sabor.”
+
+#Correct choice:
+
+message_25:
+      text: \n<JOY>¡Oh, vale!\! Entiendo ahora...
+
+#Incorrect choice:
+
+message_26:
+      text: \n<JOY>Espera...\! ¿Creía que la respuesta correcta era "A"?
+
+message_27:
+      text: \n<JOY>Hmm...\! Pero...\! ¿No es "B" la respuesta correcta?
+
+message_28:
+      text: \n<JOY>Hmm...\! Espera...\! ¿No es "C" la respuesta correcta?
+
+message_29:
+      text: \n<JOY>¡Oh, ya entiendo!\! Deben estar probándome...
+
+message_30:
+      text: \n<JOY>¡Perdón, nunca tuve un tutor antes así que no sé cómo funciona esto!
+
+#After Completing Language Worksheet:
+
+message_31:
+      text: \n<JOY>¡Gracias!\! Creo que entiendo un poquito mejor...\! Jeje...
+
+message_32:
+      text: \n<CEJOTAS>¡Hola! ¡Hola!\! ¡JOY! ¿Cómo estás?\! <br>¿Estos tutores te están ayudando?
+
+message_33:
+      text: \n<CEJOTAS>¡Ah!\! Veo que ya completaste tu hoja de trabajo...
+
+message_34:
+      text: \n<CEJOTAS>¡Increíble trabajo!\! ¡Deberían considerar ser tutores de tiempo completo!\! <br>¡Aquí está su pago!
+
+message_35:
+      text: \n<CEJOTAS>¡Por favor vuelvan mañana!
+
+message_36:
+      text: \n<CEJOTAS>¡Hola! ¿Están aquí por el volante de busca de tutores?\! ¿No? Oh...
+
+message_37:
+      text: \n<CEJOTAS>JOY debería estar en su cuarto ahora mismo.\! ¡Gracias por su ayuda!
+
+message_1000:
+      text: Ugh...\! Lenguaje...
