@@ -1,0 +1,82 @@
+
+# =========================================================================================
+# Lost Son
+# ========================================================================================
+
+#Talk to Mr DUCKIE
+
+message_0:
+      text: \n<SR. DUCKIE>Perdonen que les moleste ¿pero han visto a mi hijo por algún lado?\! ¡Miré a otro lugar por un segundo y ha desaparecido!
+
+message_1:
+      text: \n<SR. DUCKIE>¿Podrían estar un poco pendientes si lo ven?\!<br>Sabrán quien es simplemente con mirarle.\! ¡Es exactamente igual que yo! ¡JA JA JA!
+
+#Talk to DUCKIE Jr
+
+message_2:
+      text: \n<DUCKIE JR>Las estrellas son bonitas. ¿A que sí?\!<br>Me encuentro perdido con simplemente ver el cielo.
+
+message_3:
+      text: \n<DUCKIE JR>Bueno, voy a bajar de las nubes, casi no se pueden ver estrellas...
+
+message_4:
+      text: \n<DUCKIE JR>¡Cuando me haga mayor quiero ser un CAPITÁN ESPACIAL!\!<br>¡Así podre disfrutar de estas vistas siempre!
+
+message_5:
+      text: \n<DUCKIE JR>Oh no...\! ¿Cuánto tiempo llevo aquí?
+
+message_6:
+      text: \n<DUCKIE JR>Mamá y Papá seguramente estén muy preocupados por mí...\!<br>¡Tengo que irme ya a casa!
+
+#DUCKIE JR walks off
+
+message_7:
+      text: \n<SR. DUCKIE>¡Hey, tú de nuevo! Gracias por encontrar a DUCKIE JR.
+
+message_8:
+      text: \n<SR. DUCKIE>¿Puedes dejar de escaparte pequeño renacuajo?<br>¡Se supone que estamos de vacaciones!\!<br>Dale un poco de relax a tu viejo...
+
+message_9:
+      text: \n<DUCKIE JR>Vale...\! Perdón papá...
+
+message_10:
+      text: \n<SR. DUCKIE>Gracias viajeros.\! Mi hijo dijo que quería darles algo como agradecimiento.\! <br>Dale el regalo DUCKIE!
+
+message_11:
+      text: \n<DUCKIE JR>¡Aquí tienes!
+
+message_12:
+      text: Conseguiste un \c[5]DIENTE DE LEÓN\c[0].
+
+message_13:
+      text: \n<SR. DUCKIE>¡Ese es mi chico!\! La próxima vez que te escapes al menos háznoslo saber. ¿Vale?
+
+message_14:
+      text: \n<SR. DUCKIE>¿No querrías preocupar a mamá de nuevo, verdad?
+
+message_15:
+      text: \n<DUCKIE JR>No...
+
+message_16:
+      text: \n<SR. DUCKIE>¡Bien! ¡Eso significa que podemos disfrutar por fin de un rato de familia!\! Ahora, ve con tu madre.
+
+message_21:
+      text: \n<SR. DUCKIE>¡Por fin, un rato de familia!
+
+#DUCKIE JR walks to mom
+
+#QUEST complete
+
+#After-Quest Dialogue: Talk to Mrs. DUCKIE or DUCKIE JR.
+
+message_17:
+      text: \n<DUCKIE JR>¿Mamá puedo ir a ver las estrellas después?
+
+message_18:
+      text: \n<SRA. DUCKIE>Por supuesto cielo.\!<br>Estoy segura de que yo y tu padre estaríamos encantados de acompañarte.
+
+message_19:
+      text: \n<DUCKIE JR>¡Bien!
+
+message_20:
+      text: \n<SRA. DUCKIE>Junior no sabe cómo estarse quieto.\! ¡Lo único que quiere hacer es estar fuera!

@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Lost Rare Bear
+# ========================================================================================
+
+#Talk to Candlie
+
+message_0:
+      text: \n<CANDLIE>Sniff...\! Sniff...\! No puedo encontar mi \c[4]OSO DE PELUCHE\c[0] por ningún lado...
+
+message_1:
+      text: \n<CANDLIE>La última vez que lo ví...\!<br>Creo que estaba dandome una vuelta por un gran castillo rosa...
+
+message_2:
+      text: \n<CANDLIE>¿Si alguna vez lo encontrais me lo podrían devolver?\!<br>Seguro que se siente solo ahora mismo...
+
+#Talk to Candlie after getting Rare Bear:
+message_3:
+      text: \n<CANDLIE>Sniff...\! Sniff...
+
+message_4:
+      text: \n<CANDLIE>Oh, ¡ese es mi \c[4]OSO DE PELUCHE\c[0]!
+
+message_5:
+      text: Diste el \c[4]OSO DE PELUCHE\c[0] a CANDLIE.
+
+message_6:
+      text: \n<CANDLIE>Estoy muy contenta de tenerte de nuevo TEDDY!
+
+message_7:
+      text: \n<CANDLIE>¡Gracias por devolvermelo!\! Tomen, un pequeño regalo...\! No es mucho pero espero que les guste.
+
+message_8:
+      text: Conseguiste un \c[13]PATO DE GOMA\c[0].
+
+message_9:
+      text: \n<CANDLIE>¡Vamos TEDDY! ¿A que deberíamos jugar primero?\!<br>Oh, ¡ya se! ¿Querrías una tacita de té?
+
+message_10:
+      text: CANDLIE y TEDDY están teniendo una fiesta.
+#CANDLIE and TEDDY have a tea party.

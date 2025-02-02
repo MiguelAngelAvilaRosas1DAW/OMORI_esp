@@ -1,0 +1,819 @@
+# =========================================================================================
+# Playing Cards at the Treehouse
+# =========================================================================================
+
+#Play BGM: Hangin' with the boys
+
+message_0:
+      text: \her¡Sí! ¡Justo lo que necesitaba!
+
+message_1:
+      text: \kelOh-oh... Mis cartas no pintan muy bien que digamos.
+
+message_2:
+      text: \mar¡No digas eso en voz alta, KEL!<br>Tienes que mantener tu cara de poker.
+
+message_3:
+      text: \kel\Com[2]¡Ah! ¿Desde cuando estás aquí MARI?
+
+message_4:
+      text: \marSiempre he estado aquí, tonti.\!<br>¡Os he traído galletas para todos! #?
+
+#WHITE FLASH
+
+message_5:
+      text: \marBASIL...\! ¿Estás sacando una foto?
+
+message_6:
+      text: \bas¡Oh! S-Sí...\! Jeje...
+
+message_7:
+      text: \kelAwww, venga ya...\! ¡No saques una foto cuando estamos en mitad de la partida!
+
+message_8:
+      text: \mar¡No seas tan dramático, KEL! Es solo un juego.
+
+#[White Flash]
+
+message_9:
+      text: \basJeje...
+
+message_10:
+      text: \kel¿Huh?\! ¿Otra foto?\! ¿Qué hay de divertido en sacar fotos?
+
+message_11:
+      text: \kel¿Hay algo que no nos estés contando, BASIL?
+
+message_12:
+      text: \basNo te preocupes por eso.\! Pronto lo sabreis.
+
+#=================Talk to Aubrey==================
+
+message_13:
+      text: Miras la mano de AUBREY.\!<br>Es un dos, un cinco y un diez. #?
+
+message_14:
+      text: \aubHmm, ¿qué piensas, \n[8]? ¿Qué debería hacer?
+
+message_15:
+      text: \aubDecisiones, decisiones... #?
+
+#=================Talk to Kel==================
+
+message_16:
+      text: Miras la mano de KEL.\!<br>Es un cuatro, un seis y otro seis.
+
+message_17:
+      text: \kelN-No mires \n[8]...\! Esto...\! Es horrible...
+
+message_18:
+      text: \kelAish...\! Voy a perder, ¿verdad?
+
+#=================Talk to Basil==================
+
+message_19:
+      text: Miras la mano de BASIL\!<br>Es un diez y un as. #?
+
+message_20:
+      text: \bas\sinv[1]Shhhh...\sinv[0]\! No se lo digas a nadie, ¿vale?
+
+#=================Talk to Hero/Mari==================
+
+message_21:
+      text: \herLas galletas de MARI son las mejores... ¿no crees, \n[8]?
+
+message_22:
+      text: \marVenga HERO, no te hagas el humilde.<br>¡Sabes que tus galletas son mejores que las mías!
+
+message_23:
+      text: \her¡Eso es subjetivo!\! Las galletas de MARI...\!<br>Tienen más amor puestas en ellas.<br>\!¡Podría comérmelas todo el dia!
+
+message_24:
+      text: \mar¡Oh! Ya basta, HERO... Me estás avergonzando.
+
+
+#=================Talk to Mari==================
+
+message_25:
+      text: \marMe sienta tan bien pasar juntos estos últimos días de verano.\! Deberíamos hacer esto todos los años.\! ¡Hey, pilla una!
+
+message_26:
+      text: Conseguiste una \c[3]GALLETA DE MARI\c[0]. #?
+
+message_27:
+      text: Estaba perfectamente crujiente por fuera, dulce y blandito por dentro.
+
+
+#=================Talk to HERO=================
+
+message_28:
+      text: Miras la mano de HERO.\!<br>Es un rey, una reina y un as. #?
+
+message_29:
+      text: \herHeh heh...\! Vaya suerte... ¿eh, \n[8]?
+
+#=================Talk to BASIL=================
+
+message_30:
+      text: \bas¿Qué pasa \n[8]?\! ¿Quieres ver mis fotos?
+
+message_31:
+      text: \basOkey, aquí tienes...\! Nada de caras raras, ¿vale? #?
+
+#PHOTO 1 SLIDE
+
+#PHOTO 2 SLIDE
+
+#PLAYER's hand
+
+message_32:
+      text: Miras tu mano.\!<br>Es un as... y otro as.\! Pura suerte, como siempre.
+
+# =========================================================================================
+# Eating Watermelon at the Beach
+# =========================================================================================
+
+#BGM: Hide & Seek
+
+#----CUTSCENE----
+
+message_40:
+      text: \her¡Y... ¡vuala!, la sandía ya está cortada.\!<br>Aquí tenéis. ¡A comer!
+
+message_41:
+      text: \mar¡Yay! ¡Gracias, HERO!
+
+message_42:
+      text: \marMírate... Estás hecho todo un hombretón.
+
+message_43:
+      text: \herAwww... Ahora no, MARI... Jaja...
+
+message_44:
+      text: \kel\sinv[1]\{¡¡¡WOO-HOOOO!!!\!\}\sinv[0]<br>¡SANDIA!
+
+message_45:
+      text: \kel\com[2]¡Ñam! ¡Ñam! ¡Ñam! ¡Ñam! ¡Ñam! ¡Ñam!
+
+message_46:
+      text: \aubÑam...\| ñam...\| ñam...\| ñam...\| ñam...
+
+#*white flash*
+
+message_47:
+      text: \aubHey, ¡no me saques una foto mientras estoy comiendo!
+
+message_48:
+      text: \bas¡Ah! Lo siento AUBREY. ¡Pero es qué estabas muy mona!\! Te la enseñaré cuando esté lista.
+
+message_49:
+      text: \aubBueno...\! Okey, está bien...\! Confío en ti, BASIL.
+
+#-----TALK TO AUBREY/KEL---------------
+
+message_50:
+      text: \kel...\! \sinv[2]¡¡¡P-P-P-P-\{P-PWWWWEHH\{HHHH\{HHH!!!
+
+message_51:
+      text: \aub¡EWW! ¡KEL, qué asco!\! ¡Deja de escupirme pepitas!
+
+message_52:
+      text: \kel¡Jaja, ahora tienes pepitas por toda la cara!
+
+message_53:
+      text: \aubBueno...\! ¿¡Qué te parece esto!?
+
+message_54:
+      text: \aub...\! \sinv[2]¡¡¡P-P-P-P-\{P-PWWWWEHH\{HHHH\{HHH!!!
+
+message_55:
+      text: \kelEWWWW, ¡AUBREY PARA!<br>¡¡O tendre \quake[1]piojos!!\quake[0]
+
+#-------TALK TO BASIL------------
+
+message_56:
+      text: \bas¡Hey, \n[8]! ¿Quieres ver la foto de AUBREY?
+
+#PHOTO SLIDE
+
+message_57:
+      text: \basAUBREY es guapísima, ¿a qué si?
+
+#-------TALK TO HERO------------
+
+message_58:
+      text: \herChicos...\! Vamos... ¡Estamos en la playa!\!<br>Se supone que debemos relajarnos.
+
+
+#-----TALK TO MARI---------------
+
+message_59:
+      text: \marDéjales jugar, HERO. Solo están bromeando entre ellos.\!<br>¿Recuerdas cuando eramos pequeños?
+
+message_60:
+      text: \mar¡Solía esconder insectos debajo de tu mesa solo para ver tu reacción!\! ¡Era graciosísimo!.
+
+message_61:
+      text: \herE-Espera, ¡¿fuiste tú?!
+
+message_62:
+      text: \marOh... ups\! ¿Estoy en un lio HERO? Jeje...
+
+#-----TALK TO MARI---------------
+
+message_63:
+      text: \marHey, \n[8]! ¿Te lo estás pasando bien?\! Ya sé que no te gusta el calor, así que gracias por venir con nosotros.
+
+message_64:
+      text: \mar¡No te preocupes!\! Si quieres refrescarte, te podemos enterrar luego en la arena.
+
+#BALL
+
+message_65:
+      text: ¿Quieres darle una patada al balón?
+
+# =========================================================================================
+# Picnic in the Secret Lake
+# =========================================================================================
+
+#BGM: FARAWAY TOWN Playground
+
+#Screen is Black
+
+message_80:
+      text: \herHmm...\! Parece que todos están dormidos...
+
+message_81:
+      text: \basSupongo que solo quedamos nosotros tres.
+
+message_82:
+      text: \marLes habra entrado el sueño despues de comer todo eso.
+
+message_83:
+      text: \bas¡Gracias por la comida, HERO!
+
+message_84:
+      text: \herAwww, no fue nada...\! Solo estaba practicando.\!<br>Me alegra de que os guste.
+
+message_85:
+      text: \mar¡Algún día serás un chef de primera y harás mucha comida!
+
+message_86:
+      text: \her¿Huh?\! ¡Espera!\! ¡¿En serio!?
+
+message_87:
+      text: \mar¡Pues claro que sí! ¡Cree en ti HERO!
+
+message_88:
+      text: \herBueno...\! Si tú lo dices.
+
+#*WHITE FLASH*
+
+message_89:
+      text: \marMe alegra que estes usando la cámara más a menudo, BASIL.\!<br>Parece que estás disfrutanto de tu nuevo hobby.
+
+message_90:
+      text: \bas¡Sip!\! Supongo que se hace divertido una vez te acostumbras.
+
+message_91:
+      text: \basE-Espera un momento...\! Hay algo raro en esta foto...
+
+message_92:
+      text: \basSniff, sniff...
+
+message_93:
+      text: \bas¡HECTOR!\! ¿¡Cómo has podido!?
+
+#Any button wakes PLAYER Up
+
+#----------Talk to MARI-------------
+
+message_94:
+      text: \marOh hey, ¡hermanito!\! Perdona, ¿te he despertado?
+
+message_95:
+      text: \marEstabas tan tranquilo mientras dormías...\!<br>Me recuerda a cuando eras un bebé.
+
+#----------Talk to HERO-------------
+
+message_96:
+      text: \herHey, \n[8]...\! ¿Puedo hacerte una pregunta?\!<br>Me encanta cocinar y todo eso, MARI siempre dice lo bueno que soy, pero mis padres queréis que estudie para ser médico...
+
+message_97:
+      text: \her¿Crees que debería convertirme en chef?
+
+message_98:
+      text: \herJaja...\! Quizás...
+
+message_99:
+      text: \herJaja...\! Quizás...\! pero...
+
+message_100:
+      text: \her\com[2]¡Seguimos siendo jóvenes! ¡¿Deberíamos soñar a lo grande, verdad!?
+
+message_101:
+      text: \her...\! Hmm... aunque tienes razón...
+
+message_102:
+      text: \herMi madre seguro que tiene algo que decir al respecto.
+
+#After
+
+message_110:
+      text: \herHmm... ¿Qué debería hacer?
+
+#------Talk to KEL-------------
+
+message_103:
+      text: \kel\sinv[1]*Zzz*\| *Zzz*\| *Zzz*\| *Zzz*
+
+
+#------Talk to AUBREY-------------
+
+message_104:
+      text: AUBREY no emite sonido alguno cuando duerme.\!<br>Es tan mona...
+
+#------Talk to BASIL-------------
+
+message_105:
+      text: \bas¡Hey \n[8]!\!<br>Hice una foto de todos nosotros antes.\! <br>¿Quieres verla?
+
+#PHOTO SLIDE
+
+message_106:
+      text: \basPodría haber sido tan buena...
+
+message_107:
+      text: \bas¡Pero HECTOR la arruino con su caca!
+
+message_108:
+      text: \basAish...\! Quizás pueda cubrirla con algo de cinta aislante más tarde.
+
+#------Talk to HECTOR------------
+
+message_109:
+      text: \n<HECTOR>\Com[2]¡Guau, guau!
+
+
+# =========================================================================================
+# RAINY DAY IN STREET
+# =========================================================================================
+
+#BGM: Puddles
+
+#-----Cutscene-----
+
+#AUBREY and KEL are talking outside his house.
+#BASIL and PLAYER walk to them from PLAYER's house direction.
+
+message_130:
+      text: \kel¡\n[8], BASIL! ¡¿Por qué habéis tardado tanto!?.
+
+message_131:
+      text: \basLo sentimos...\! Nos dejamos llevar por este nuevo juego donde peleas con estás cosas llamadas \c[13]ROCAS MASCOTA\c[0]-  #?
+
+message_132:
+      text: \aub\com[2]¡BASIL, BASIL!\! ¡Sácale una foto a mi nueva chaqueta!
+
+message_133:
+      text: \bas¡Oh! ¡Vale!\! Un momentito...
+
+#WHITE Flash
+
+message_134:
+      text: \aub¿Te gusta \n[8]?\! Es mi color favorito... ¡Rosa!
+
+message_135:
+      text: \kelEwww... el rosa es muy feo.
+
+message_136:
+      text: \aub¡No lo es, KEL!\Com[2] ¡Tu eres un color feo!
+
+message_137:
+      text: \kelEso no tiene ningún sentido.
+
+message_138:
+      text: \aub¡Oh, \n[8]! ¡Eso me recuerda!
+
+message_139:
+      text: \aubMARI y yo estuvimos hablando de teñirnos el pelo juntas.
+
+message_140:
+      text: \aubMARI dice que se lo va a teñir de púrpura.
+
+message_141:
+      text: \kel¡¿P-Púrpura!?
+
+message_142:
+      text: \aub¿Quieres saber por qué color me he decantado yo?
+
+message_143:
+      text: \kelEspera...\! ¿¡Te vas a teñir el pelo... de rosa!?
+
+message_144:
+      text: \kelEwww... que cosa más rara...\! ¿Por qué alguien haría algo así?
+
+message_145:
+      text: \aubNo sé.. pienso que me quedaría bien\!<br>¡MARI también lo piensa!
+
+message_146:
+      text: \kelHmph...\! Nunca os comprenderé, ni a vosotras ni a vuestras locas ideas.
+
+message_147:
+      text: \basCreo que el rosa te sentaría muy bien, AUBREY.
+
+message_148:
+      text: \bas¿Tú qué opinas, \n[8]?
+
+#NOD/SHAKE
+
+message_149:
+      text: \basHmm...\! Quizás no deberíamos decírselo a AUBREY.
+
+message_150:
+      text: \bas¡\n[8] dice que el rosa es un color fantástico!
+
+message_151:
+      text: \aubIncluso BASIL y \n[8] me dan la razón...\!<br>¡Tú eres el raro aquí, KEL!
+
+message_152:
+      text: \kelPsh...\! Lo que tú digas...
+
+#------Talk to Aubrey------------
+
+message_153:
+      text: \aub¡Yay! Entonces, decidido.
+
+message_154:
+      text: \aub¡Algún día, me teñiré el pelo de rosa!
+
+message_155:
+      text: \aubAunque...\! de momento tendrá que esperar...\!<br>Mi padre es algo estricto con estas cosas.
+
+#------Talk to Kel------------
+
+message_156:
+      text: \kel¿Dijiste que tú y BASIL estábais jugando a las \c[13]ROCAS MASCOTAS\c[0]?\! Hmmm...\! Quizás debería empezar a jugarlo.
+
+message_157:
+      text: \kel¡Hey, ya sé!\! ¿Por qué no vamos a \c[11]HOBBEEZ\c[0] para ver si han traído algo nuevo?
+
+#------Talk to Basil------------
+
+message_158:
+      text: \bas¿Qué pasa \n[8]? ¿Quieres ver la foto?
+
+# Photo SLIDE
+
+message_159:
+      text: \basSabes... Siempre me pides que te las enseñe cuando saco alguna foto de AUBREY.
+
+message_160:
+      text: \basCreo que...\! noto...\! ¿que estás un poco enamorado?
+
+message_161:
+      text: Tus orejas se ponen rojas de repente...
+
+message_162:
+      text: \basJeje...\! ¡No te preocupes, no diré nada!\!<br>Mis labios están sellados.
+
+# Leave
+
+message_163:
+      text: \kelOh, ¿te vas a adelantar \n[8]?\! ¡No te preocupes por nosotros, te alcanzamos en un momento!
+
+# =========================================================================================
+# Basil's Birthday Party
+# =========================================================================================
+
+#Play BGM: Interior Peaceful (Basil's Theme)
+
+#-----------CUTSCENE--------------
+
+#Hero brings in Birthday cake
+
+message_177:
+      text: \aub¿Seguro que no quieres salir en la foto, \n[8]?
+
+message_178:
+      text: \marA \n[8] le dan un poco de corte las cámaras...\!<br>Al principio todo el mundo lo tiene, ¿no?
+
+#MARI turns to PLAYER
+
+message_179:
+      text: \mar¡Está bien, \n[8]!\! ¡Te acostumbrarás! Jeje...
+
+message_180:
+      text: \aub¡Wow! ¡Esta tarta tiene buena pinta!\!<br>Has dado lo mejor de ti esta vez, HERO.
+
+message_181:
+      text: \basYay... ¡Gracias, HERO!\! Me encantan las fresas.
+
+message_182:
+      text: \aub¡BASIL, BASIL! ¿Qué vas a pedir?
+
+message_183:
+      text: \kelHey, ¡no puedes preguntar eso, AUBREY!
+
+message_184:
+      text: \kelO si no... no se cumplirá.
+
+message_185:
+      text: \aub¿Eing? ¿Es así como funciona?
+
+message_186:
+      text: \aubBueno, en ese caso...\!<br>Deseo...\! ¡Qué KEL saque sobresalientes en clase!
+
+message_187:
+      text: \kelHey, ¡Eso no vale!
+
+message_188:
+      text: \basHmm...\! ¿Un deseo?\! Ahh...\! ¿Qué debería pedir?\!<br>¡Ya tengo todo lo que podría querer!
+
+message_189:
+      text: \bas...
+
+message_190:
+      text: \bas¡Oh, ya sé! Jeje...
+
+message_191:
+      text: \basCreo...\! Ya sé que desearé...
+
+message_192:
+      text: \bas...
+
+message_193:
+      text: \basSolo bromeaba.
+
+message_194:
+      text: \bas¡Es un secreto!
+
+message_195:
+      text: \aubAww...\! Quiero saberlo...
+
+message_196:
+      text: \her¡Chicos, si no nos damos prisa, las velas apagarán!\!<br>¿Todos listos para cantar?
+
+message_197:
+      text: \kel¡Sep!
+
+message_198:
+      text: \her¿Quieres hacer los honores, MARI?
+
+message_199:
+      text: \marPues claro.
+
+message_200:
+      text: \marEjem...\! Y uno, dos, tres, cuatro y...
+
+#BIRTHDAY CAKE SLIDE
+#HAPPY BIRTHDAY SONG
+
+
+message_201:
+      text: \sinv[1]¡Cumpleaños feliz!\! ¡Cumpleaños feliz!\n<TODOS>
+
+message_202:
+      text: \sinv[1]¡Te deseamos todos!\! ¡Cumpleaños feeeeliiiiiiiiz!\n<TODOS>
+
+message_203:
+      text: \kel\sinv[1]\{¡¡WOOOOO-HOOOOOO!!\!\}\sinv[0]<br>¡Sopla las velas, BASIL!
+
+message_204:
+      text: \aubY pide un deseo...
+
+#CAMERA CLICK
+
+# PHOTOSLIDE
+
+# =========================================================================================
+# The Christmas Gift (VIOLIN)
+# =========================================================================================
+
+#BGM: Mari's Theme
+
+#---------CUTSCENE-------------
+
+#Kel opens up his present.
+
+message_220:
+      text: \kelWow...\! ¿¡Otra pelota de baloncesto!?\! ¡Gracias HERO! #?
+
+message_221:
+      text: \herNo es nada, KEL...\!<br>Podrías agradecérmelo sacando mejores notas en el colegio.
+
+message_222:
+      text: \kelEh... si claro lo que sea...
+
+message_223:
+      text: \herOkey \n[8]... Es hora de que abras tu regalo.
+
+message_224:
+      text: \marEste año te hemos hecho solo un regalo...\! de parte de todos nosotros.
+
+message_225:
+      text: \basProbablemente no sea para tanto...<br>aunque tuvimos que sacrificarnos un poco para conseguirlo.
+
+message_226:
+      text: \aub¡Sí!\! BASIL y yo vendimos galletas y limonada en verano.
+
+message_227:
+      text: \herMARI y yo trabajamos en la panadería por un tiempo,<br>creo que aun lo recuerdas.
+
+message_228:
+      text: \kel¿Y yo qué?\! Tuve que llevar periódicos por las mañanas como tres meses o así...
+
+message_229:
+      text: \kel\Com[2]¡Y ya sabes lo poco que me gusta madrugar!
+
+message_230:
+      text: \marSabemos que puedes sentirte presionado, pero...
+
+message_231:
+      text: \herYa llevas un tiempo sin tocar el violín desde que lo dejaste.
+
+message_232:
+      text: \basMARI nos cuenta como te sientas a su lado cada vez que ella practica con su piano.
+
+message_233:
+      text: \kelIncluso recuerdo aquella vez que te vi tocando ese mini violín tuyo tan viejo, aunque ya te quedase pequeño.
+
+message_234:
+      text: \aubDe todos modos...\! Esto fue idea de BASIL...\! Así que intentamos darte el mejor que pudimos encontrar...\! y...\! ¡aquí lo tienes!
+
+message_235:
+      text: \marEsperamos que te guste, \n[8].
+
+message_236:
+      text: \marEs de todos nosotros.
+
+message_237:
+      text: Abres el estuche con el violín
+
+#VIOLIN SLIDE
+
+message_238:
+      text: \kel\{\sinv[1]¡TA-DÁ!
+
+message_239:
+      text: \aub¡Un violín entero para ti!
+
+message_240:
+      text: \basEsperamos que te guste \n[8]...<br>\!¡Adelante, pruebalo!
+
+message_241:
+      text: ...
+
+message_242:
+      text: Sientes un cosquilleo en tus dedos...\!<br>Como si por sí mismo...\! tu cuerpo se preparase para tocar el violín.
+
+#WHITE FADE Out, First Note of Duet plays VIOLIN
+#Photo SLIDE
+
+# =========================================================================================
+# White Screen after Memories
+# =========================================================================================
+
+#After exiting from the memory
+#Screen flashes WHITE
+
+#-----------TREEHOUSE-----------
+
+message_260:
+      text: Recuerdo...
+
+message_261:
+      text: El olor a galletas recién horneadas.
+
+message_262:
+      text: Olía mejor sabiendo que MARI las hizo artesanalmente.
+
+message_263:
+      text: Se ha arreglado una parte del \c[4]VIOLIN\c[0]. #?
+
+#-----------Beach-----------
+
+message_270:
+      text: El sabor a sandía.
+
+message_271:
+      text: Sabía incluso mejor cuando la comia con el resto, en esos veranos de tanto calor.
+
+message_272:
+      text: Se ha arreglado una parte del \c[4]VIOLIN\c[0].
+
+#-----------Secret Lake-----------
+
+message_280:
+      text: La sensación de dormir en la falda de MARI.
+
+message_281:
+      text: Nada me hacía sentir más cómodo, sabiendo que, sin importar lo que pasara... MARI siempre estaría ahí para hacerme sentir seguro.
+
+#-----------Rainy Day-----------
+
+message_290:
+      text: El sonido de la lluvia callendo en mi paraguas.
+
+message_291:
+      text: Sonaba incluso más relajante sabiendo que me acompañaban mis amigos.
+
+#-----------Basil's Birthday party----------
+
+message_300:
+      text: La sonrisa de BASIL mientras soplaba sus velas de cumpleaños.
+
+message_301:
+      text: Y también...
+
+message_302:
+      text: Que cuando BASIL pidió su deseo, yo pedi otro.
+
+message_303:
+      text: Pedi...\! que todos fuéramos felices, por siempre.
+
+#-----------Christmas----------
+
+#add message_260
+
+message_304:
+      text: Ese sentimiento de vértigo en mi corazón mientras tocaba la primera nota...
+
+message_305:
+      text: Me asustaba, y no me importaba lo más mínimo...
+
+message_306:
+      text: Creían en mi.
+
+message_307:
+      text: Y no importaba lo que pasase...
+
+message_308:
+      text: No quería defraudarles.\!<br>Para eso eran mis amigos.
+
+message_309:
+      text: El \c[4]VIOLIN\c[0] se ha arreglado.
+
+message_310:
+      text: Conseguiste un \c[4]VIOLIN\c[0]. #?
+
+message_311:
+      text: Conseguiste unas \c[4]PARTITURAS\c[0]. #?
+
+message_312:
+      text: Mechones de un largo cabello negro se entrelazan con sus cuerdas.
+
+message_313:
+      text: La partitura está rasgada y cubierta en sangre...\!<br>Pero aún se puede leer.
+
+
+#-----------Upon examining the Violin Stand with a fixed VIOLIN----------
+
+#message_310:
+#      text: Your eyes begin to well up.
+
+#message_311:
+#      text: You felt tingling in your fingers...\!<br>And...\! as if on its own...\! your body readied the VIOLIN...\!<br>and began to play.
+
+message_319:
+      text: Un atril vacío.\!<br>¿Quieres poner encima tus \c[4]PARTITURAS\c[0]? #?
+
+message_320:
+      text: Has puesto tus \c[4]PARTITURAS\c[0] en el atril. #?
+
+message_400:
+      text: El escenario está listo para ti.\!<br>¿Quieres tocar el \c[4]VIOLIN\c[0]?
+
+message_420:
+      text: ¿Quieres abrir la caja de juguetes?
+
+#-----------CATTAIL----------
+
+message_600:
+      text: \whoLas galletas de MARI...\| Las galletas de MARI tenían tanto amor puesto en ellas.\| Podría comerlas para siempre.
+
+message_601:
+      text: \whoSandías...\| son mi parte favorita del verano...
+
+message_602:
+      text: \whoTodavía somos jóvenes...\| ¿Deberíamos soñar a lo grande, cierto?
+
+message_603:
+      text: \who¿Un deseo?\| ¿Qué debería pedir? \|¡Ya tengo todo lo que podría querer!
+
+message_604:
+      text: \whoEste año te hemos hecho solo un regalo...\! de parte de todos nosotros.
+
+message_605:
+      text: \whoEstabas tan tranquilo mientras dormías...\!<br>Me recuerda a cuando eras solo un bebé.
+
+message_607:
+      text: \whoOh, ¿te vas a adelantar?\| No te preocupes por nosotros...\| ¡Te alcanzaremos en un rato!
+
+#LAKE COOKIES
+
+message_608:
+      text: Las galletas de MARI.
+
+message_609:
+      text:

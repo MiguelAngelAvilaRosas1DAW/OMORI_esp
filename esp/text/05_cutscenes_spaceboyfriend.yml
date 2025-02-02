@@ -1,0 +1,338 @@
+# =========================================================================================
+# Escena: ¡Deténganse, niños!
+# =========================================================================================
+
+#Disparador: Acércate a la casa del Novio Espacial
+
+message_0:
+      text: \Com[2]¡Detente, niños!\!<br>Estais entrando en las proximidades de...\spg
+
+message_1:
+      text: El capitán de LOS PIRATAS ESPACIALES...\!<br>El dueño del SISTEMA SOLAR...\!<br>El príncipe del universo...\spg
+
+message_2:
+      text: El único e inigualable CAPT. ESPACIA-! Es decir...\! Err...\!<br>Estás entrando en la casa de... \!EL NOVIO...\! ESPACIAL.\spg
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Wow, ¿el capitán de los PIRATAS ESPACIALES vive aquí?\!<br>\{¡¡INCREIBLE!!\}\kel
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: ¡Quiero ser un PIRATA ESPACIAL también!\kel
+
+message_5:
+      text: Sí, bueno...\! Yo una vez...\! también quería.\spg
+
+message_6:
+      text: EL NOVIO ESPACIAL no hace mucho estos días, así que todos los PIRATAS ESPACIALES se cansaron y lo dejaron con la nave principal.\spg
+
+message_7:
+      text: Solo somos nosotros los rezagados aquí haciendo todas las tareas de EL NOVIO ESPACIAL.\spg
+
+message_8:
+      text: Ayer, los muchachos y yo pasamos el día limpiando y sacando toda su basura.\spg
+
+message_9:
+      text: Ugh...\! No dejé mi viejo trabajo por esto...\!<br>¡No soy un niñero!\spg
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Awww... Eso suena horrible.\!<br>Tal vez podriamos hacerle entrar en razón.\aub
+
+message_11:
+      text: Oh, no haría eso si fuera tú.\! CAPT. CHICO ESPACI-<br>Es decir...\! EL NOVIO ESPACIAL tiene dos lados, ¿sabes?\spg
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: ¡Deberíamos intentarlo al menos!\! El viaja por el espacio, ¿no?\!<br>¡Podría saber donde esta BASIL!\her
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: ¡O tal vez sabe cómo encontrar a mi roca mascota, \c[13]HECTOR\c[0]!\kel
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Sí claro, eso también.\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: ¿A qué estamos esperando? ¡Vamos a verle de una vez!\kel
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Lamento lo de su trabajo, señor.\aub
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: ¡Mejorará pronto, lo prometo!\aub
+
+message_18:
+      text: Um...\! Gracias, pequeña dama.\! Eso espero.\spg
+
+# =========================================================================================
+# Escena: Carta negra aquí
+# =========================================================================================
+
+#message_40:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 48
+#      text: \fn<OMORI_GAME>Whoa...\! Anyone feel that?\her
+
+#message_41:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 28
+#      text: Yeah...\! My head was all fuzzy for a second...<br>There must be a MISSING LETTER somewhere in here!\kel
+
+# =========================================================================================
+# Escena: El novio espacial está enfermo
+# =========================================================================================
+
+#Disparador: Habla con el Novio Espacial en la cama
+
+
+message_51:
+      text: Cof...\! Cof, Cof...\sbf
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Oh oh...\! El CAPT. ESPACIAL-\!<br>Es decir, El NOVIO ESPACIAL no se ve muy bien.\her
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: ¡No te preocupes, yo me encargo!\kel
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \{\{¡¡OYE, \Com[2]NOVIO ESPACIAL!!\kel
+
+message_55:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\{\{¡¡¡DESPIÉRTATE!!!\kel
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: ¡KEL!\her
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: ¿Qué?\kel
+
+message_58:
+      text: \}\quake[1]Cof...\| Ughhh...\|<br>Mi... Querida...\| SWEETHEART...\sbf\quake[0]
+
+message_59:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Aww... Suena tan deprimido.\!<br>Debe haber una forma de ayudarle.\aub
+
+message_60:
+      text: \}\quake[1]Cof, Cof...\! Cof...\! Oh, mi SWEETHEART...\!<br>¿A dónde has ido?\sbf\quake[0]
+
+#El PIRATA ESPACIAL entra y se dirige al NOVIO ESPACIAL.
+
+message_61:
+      text: Oh no... No de nuevo...\!<br>EL NOVIO ESPACIAL está sintiéndose gris.\spg
+
+message_62:
+      text: Tenga jefe. Esto te animará.\spg
+
+#El PIRATA ESPACIAL se dirige al REPRODUCTOR DE CASETES.
+#El PIRATA ESPACIAL está sorprendido y confundido.
+
+message_63:
+      text: ¿Huh?\! ¿Por qué no suena?\spg
+
+#El PIRATA ESPACIAL empieza a sudar.
+
+message_64:
+      text: Oh no...\! La casetera...\! ¡Está vacía!\!<br>¡Ahora nunca despertará!\! O peor...\! <br>Va a despertar... enfadado.\spg
+
+message_65:
+      text: Oh, tio... Oh, tio...\!<br>¿Dónde esta el \c[4]CASETE ESPECIAL\c[0]?\spg
+
+#El PIRATA ESPACIAL tiene una idea.
+
+message_66:
+      text: ¡Alguien debió haber tirado su \c[4]CASETE ESPECIAL\c[0] cuando estábamos limpiando!\spg
+
+message_67:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: ¿Y qué pasa? ¿Es solo un casete, no?\kel
+
+message_68:
+      text: Pues verás...\! Cada vez que el NOVIO ESPACIAL está lejos de su SWEETHEART, se pone muy triste y se queda en cama todo el día.\spg
+
+message_69:
+      text: La única forma de sacarlo del trance es reproduciendo su \c[4]CASETE ESPECIAL\c[0].\! Solo existe uno en el universo.\spg
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh, ya veo...\! el NOVIO ESPACIAL no está enfermo...\!<br>Tiene... El corazón roto.\aub
+
+message_71:
+      text: Ugh...\! Si el NOVIO ESPACIAL se queda así, la alguna-vez gran coalición de PIRATAS ESPACIALES se perderá para siempre...\spg
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Jo, tio...\! Eso no mola.\kel
+
+message_73:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Bueno... ¡Lo intentamos!\kel
+
+#KEL intenta salir.
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: ¡Hey! ¿A dónde vas? ¡Tenemos qué ayudarlo!\!<br>Deberías saber lo que duele perder algo que es tuyo, ¿no?\aub
+
+message_75:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: ¡No te atrevas a meter a \c[13]HECTOR\c[0] en esto!\kel
+
+message_76:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: ¡Estoy hablando de cuando robaste mi \c[13]PELUCHE\c[0], KEL!\aub
+
+message_77:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: ¿Huh?\! No recuerdo nada de eso.\kel
+
+message_78:
+      text: ¡Hay un \c[11]JUNKYARD\c[0] no muy lejos de aquí, pero ese lugar es enorme!\! Sera bastante difícil encontrar algo allí.\spg
+
+message_79:
+      text: \Com[2]¡Cof, Cof!\sbf
+
+#Todos se vuelven hacia la cama
+
+message_80:
+      text: \quake[1]\}Oh... SWEETHEART...\! Mi amor...\sbf\quake[0]
+
+message_81:
+      text: \quake[1]\}Mi dulce dona rellena de jalea...\sbf\quake[0]
+
+#AUBREY mira al Novio Espacial.
+
+message_82:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Está empeorando...\aub
+
+#HERO mira a Aubrey.
+
+message_83:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: ¿Qué hacemos, OMORI? ¿Lo ayudamos?\aub
+
+#[Nod (Sí) / Shake (No)]
+
+message_84:
+      text: Gracias, amigos... Apreciamos vuestro esfuerzo.\!<br>Ten, toma esto.\spg
+
+message_85:
+      text: Conseguiste la \c[4]LLAVE DE JUNKYARD\c[0].
+
+message_86:
+      text: Esta llave abre las puertas al \c[11]JUNKYARD\c[0].\!<br>El \c[4]CASETE ESPECIAL\c[0] debería estar por allí.\spg
+
+message_87:
+      text: Puedes llegar allí a través de esta entrada secreta por el patio trasero del NOVIO ESPACIAL.\! ¿Bastante conveniente, no?\spg
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub¡Oh, por favor \n[1]! ¡Realmente necesita nuestra ayuda! \!¿Sí estuvieses enfermo en tu cama, querrías que alguien te ayude también, verdad?
+
+message_89:
+      text: Espero que el CAPITÁN se sienta mejor pronto...\spg
+
+
+# =========================================================================================
+# Escena: Plutón desaparecido
+# =========================================================================================
+
+
+message_110:
+      text: Ugh...\! La hemos liado, tio...\spd
+
+message_111:
+      text: Espero que EL CAPITÁN no se enfade mucho cuando le digamos que su planeta favorito ha desaparecido.\! Ya sabes cómo se pone cuando se enfada.\spd
+
+message_112:
+      text: Compañero, se supone que ya no debemos llamarle CAPITÁN.\!<br>Debes llamarle NOVIO ESPACIAL, ¿recuerdas?\spb
+
+message_113:
+      text: Oh sí, es verdad...\spd
+
+message_114:
+      text: ¡Urg... \!\{\quake[1]AAAA\{ARRRRR\{RRRRG!\spd\}
+
+message_115:
+      text: Sabes, tio...\! A veces me pregunto si seguimos siendo PIRATAS ESPACIALES aún.\spd
+
+message_116:
+      text: ¡Desde que esa SWEETHEART se unió, no hemos hecho nada guay!\! Deberíamos simplemente abandonar y conseguir trabajos de verdad.\spd
+
+message_117:
+      text: ¡No digas tonterías!\!<br>¿Qué es la vida para nosotros si no es la de un PIRATA ESPACIAL?\spb
+
+message_118:
+      text: Estoy seguro de que el CAPITÁN volverá a sus sentidos algún día y todos volaremos de nuevo.\! ¡Debemos creer en él!\spb
+
+message_119:
+      text: Um...\! Gracias, tio.\! Siempre estás ahí cuando te necesito.\spd
+
+# =========================================================================================
+# Cutscene: Pluto Behind a Tree
+# =========================================================================================
+
+#BEFORE BATTLE
+
+message_130:
+    text: Este tipo se ve muy intimidante...\!<br>¿Quieres molestarlo?
+
+#BEFORE BATTLE
+
+message_131:
+    text: \quien...\! Hm.\! Nada mal.
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+message_150:
+      text: \quake[1]\}Cof...\! Cof...\sbf\quake[0]
+
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: ¡Espera, OMORI!\! Deberíamos revisar al CAPT. ESPA-\!<br>Es decir, al NOVIO ESPECIAL primero.\aub
+
+message_161:
+      text: Usasté la \c[4]LLAVE DE JUNKYARD\c[0].

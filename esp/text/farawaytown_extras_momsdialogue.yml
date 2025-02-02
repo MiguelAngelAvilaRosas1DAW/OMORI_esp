@@ -1,0 +1,150 @@
+# =========================================================================================
+# Mom's Dialogue
+# =========================================================================================
+
+#Mom's MENSAJE DE MAMÁ
+
+                  #Examine phone
+message_0:
+      text: \"Hey \n[8], soy MAMI.\"\! \"Todavía estoy en la ciudad arreglando las cosas para nuestro nuevo hogar.\"\! \"¿Ya terminaste de guardar todo?\"\n<MENSAJE DE MAMÁ>
+
+message_1:
+      text: \"Los de la mudanza van a estar en nuestra casa en unos pocos días, así que dejé una lista de cosas para hacer antes de que lleguen.\"\n<MENSAJE DE MAMÁ>
+
+message_2:
+      text: \"Por cierto, lo siento.\"\! \"¡He cometido un errorcillo!\"\n<MENSAJE DE MAMÁ>
+
+message_3:
+      text: \"Se me olvidó decirle a la compañía eléctrica que necesitamos un par de días extra antes de que estemos listos para la mudanza, así que puede que las luces se corten en algún momento de esta noche.\"\n<MENSAJE DE MAMÁ>
+
+message_4:
+      text: \"Pero bueno...\"\! \"Sé que mudarse a otro lugar puede ser un poco estresante ahora mismo, ¡pero creo que un cambio de aires va a ser positivo para nosotros!\"\n<MENSAJE DE MAMÁ>
+
+message_5:
+      text: \"Sé que no has hablado con nadie en un tiempo, pero quizás quieras decirles adiós a tus viejos amigos antes de que nos vayamos.\"\n<MENSAJE DE MAMÁ>
+
+message_6:
+      text: \"KEL ha estado intentando contactarse contigo desde que pusimos nuestra casa a la venta.\"\! \"¡Nos ha estado llamando cada semana durante los últimos meses!\"\n<MENSAJE DE MAMÁ>
+
+message_7:
+      text: \"Se le ve algo solo...\"\! \"Quizás deberías darle una visita.\"\!<br>\"¡Vale, eso es todo!\"\! \"¡Besitos!\"\! \"¡¡MUUUUAH!!\"\! \quake[1]\}Bzzt...\quake[0]\n<MENSAJE DE MAMÁ>
+
+#SFX: Stomach Gurgle
+message_8:
+      text: Tienes hambre.
+
+message_9:
+      text: De repente te sientes muy ASUSTADO.
+
+#Examine Fridge
+
+message_10:
+      text: Miraste la nevera...\! y encontraste \c[4]BISTEC FRÍO\c[0].\! ¿Quieres cogerlo?
+
+#[Yes/No]
+#[Yes]
+message_11:
+      text: Conseguiste un \c[4]BISTEC FRÍO\c[0].\!<br>Quizás deberías calentarlo antes de comertelo.
+#[No]
+#[Exit dialogue]
+
+
+                #Examine Microwave
+message_12:
+      text: Pusiste el \c[4]BISTEC FRÍO\c[0] en el microondas.
+
+                #Examine Steak Knife
+message_13:
+      text: Tomaste el \c[13]CUCHILLO DE FILETE\c[0].
+
+# Auto-equip steak KNIFE
+
+message_14:
+      text: El \c[4]FILETE\c[0] está listo.
+
+                # Examine BED
+
+message_15:
+      text: Una muy, muy cómoda cama.\!<br>¿Te gustaría ir a dormir?
+
+
+# =========================================================================================
+# NOTA DE MAMÁs
+# =========================================================================================
+
+#EXAMINE note
+
+message_20:
+      text: Hay una nota en el espejo.
+
+message_21:
+      text: Hay una nota en la pared.
+
+#First line always
+
+message_22:
+      text: \"¡Hola, \n[8]!\"\n<NOTA DE MAMÁ>
+
+#Bathroom mirror
+
+message_23:
+      text: \"¡Recuerda lavarte los dientes todos los días!\"\n<NOTA DE MAMÁ>
+
+#Living Room
+
+message_24:
+      text: \"Si vas a salir, ¡recuerda mirar a ambos lados antes de cruzar la calle!\"\n<NOTA DE MAMÁ>
+
+#Bedroom
+
+message_25:
+      text: \"Dejé un poco de comida en la nevera para ti.<br>Es \c[4]BISTEC\c[0]... ¡tu favorito!\"\n<NOTA DE MAMÁ>
+
+#last Line always
+
+message_29:
+      text: \"Te amo, besitos y abrazos.\"\n<NOTA DE MAMÁ>
+
+
+#Day 1:
+
+message_50:
+      text: \"Hey \n[8], soy MAMI.\"\!<br>\"¿Cómo te va?\"\! \"¿Estás comiendo bien?\"\n<MENSAJE DE MAMÁ>
+
+message_51:
+      text: \"Tenía esperanza de que podría volver para verte hoy, ¡pero es el último día de una gran subasta de muebles y no puedo resistir una buena ganga!\"<br>\"Puedes cuidarte solo por unos días, ¿verdad?\"\!<br>\"Después de todo, ¡ya eres mayorcito!\"\n<MENSAJE DE MAMÁ>
+
+message_52:
+      text: \"Recuerda terminar tus tareas antes de que vuelva.\"\! \"Dejé una lista en la mesa al lado de tu puerta.\"\! \"Vale, ¡eso es todo!\"\! \"¡Te quiero!\"\! \"¡Adiós, cariño!\"\! \"¡¡MUUUUAH!!\"\! \quake[1]\}Bzzt...\quake[0]\n<MENSAJE DE MAMÁ>
+
+#Day 2:
+
+message_55:
+      text: \"Hey \n[8], soy MAMI.\"\! \"¿Estás bien?\"\! \"¡No has estado respondiendo mis llamadas o mensajes de voz!\"\! \"Si sigues ignorándome, ¡me empezaré a preocupar otra vez!\"\n<MENSAJE DE MAMÁ>
+
+message_56:
+      text: \"Espero que vayas a un buen ritmo con tus tareas...\"\! ¡Creo que ni yo podría terminarlo todo en un día!\"\n<MENSAJE DE MAMÁ>
+
+message_57:
+      text: \"¿Al final visitaste a KEL?\! Si no, está bien... Lo entiendo.\"\! \"Toma las cosas a tu propio ritmo...\"\n<MENSAJE DE MAMÁ>
+
+message_58:
+      text: \"Por cierto, ¿puedes revisar el armario abajo y ver si hay algo que quieres quedarte?\"\! \"Seguramente tiraremos cualquier cosa que ya no quieras tener.\"\n<MENSAJE DE MAMÁ>
+
+message_59:
+      text: \"Solo quedan dos días antes de que vaya a recogerte.\"\!<br>\"Vale, ¡eso es todo!\"\! ¡Te quiero!\! \"¡Adiós, cariño!\"\! \"¡¡MUUUUAH!!\"\! \quake[1]\}Bzzt...\quake[0]\n<MENSAJE DE MAMÁ>
+
+#Day 3:
+
+message_60:
+      text: \"Hey \n[8], soy MAMI.\"\! \"¡Mañana es el gran día!\"\!<br>\"Los hombres de la mudanza van a estar aquí mañana por la mañana.\"\! \"Les di las llaves así que no te asustes si los ves.\"\n<MENSAJE DE MAMÁ>
+
+message_61:
+      text: \"Recuerda terminar de organizar tus cosas hoy.\"\! \"Voy a recogerte en mi coche en frente de la casa.\"\! \"Simplemente ven afuera cuando estés listo.\"\n<MENSAJE DE MAMÁ>
+
+message_62:
+      text: \"¡Vale, eso es todo por ahora!\"\! \"¡Te quiero!\"\! \"¡Adiós, cariño!\"\! \"¡¡MUUUUAH!!\"\! \quake[1]\}Bzzt...\quake[0]\n<MENSAJE DE MAMÁ>
+
+#Day 4:
+message_66:
+      text: \"Hey \n[8], soy MAMI.\"\! \"Te estoy esperando afuera, así que sal cuando estés listo.\"\! \"¡Ahora nos vemos!\"\!\quake[1] \}Bzzt...\quake[0]\n<MENSAJE DE MAMÁ>

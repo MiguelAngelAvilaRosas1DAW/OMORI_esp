@@ -1,0 +1,727 @@
+# =========================================================================================
+# FARAWAY TOWN Extra
+# =========================================================================================
+
+#Interacting with PLAYER house door
+
+message_0:
+      text: No hay nadie en casa.
+
+#KEL at door
+
+message_1:
+      text: \who\Sinv[1]Hooolaaaaa...\! ¿Hoooolaaaaaaaaaaaa?\! ¿Hay alguien ahí?
+
+message_2:
+      text: Escuchas una voz áspera que no reconoces desde la puerta.
+
+#After Polly Cont. Cutscene
+
+message_3:
+      text: BASIL está mirando su \c[4]ÁLBUM DE FOTOS\c[0].\!<br>Sus manos están temblando...
+
+#Exclamation mark on BASIL
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \bas¡Oh!\! Hola, \n[8]...
+
+#Pizza Karaoke
+#!!!THIS SCENE IS NO LONGER APPLICABLE!!!*
+
+message_5:
+      text: Es una máquina de karaoke.\!<br>¿Quién quieres que cante?
+
+message_6:
+      text: Señalaste a KEL.
+
+message_7:
+      text: Señalaste a AUBREY.
+
+message_8:
+      text: Señalaste a HERO.
+#Pick KEL/Aubrey/Hero when applicable
+
+#Flashback to BASIL and PLAYER burying the key at the stump
+#Shoveling noises
+#!!!THIS SCENE IS NO LONGER APPLICABLE!!!*
+
+message_9:
+      text: \basHuff...\! huff...\! Ya...\! está hecho.
+
+message_10:
+      text: \basAhora que lo escondimos todo, nadie se dará cuenta...
+
+message_11:
+      text: \basN-No te asustes, \n[8]...\!<br>Al menos nos tenemos el uno al otro...\!<br>¡Te protegeré! ¡Puedes contar conmigo!
+
+message_12:
+      text: \basTodo va a estar bien...\! ¿Verdad?
+
+#Rai at GINO'S Pizza
+
+message_13:
+      text: \n<RAI>¡Soy RAI! Estoy orgulloso de ser una especie de experto en música.
+
+message_14:
+      text: \n<RAI>Si usas un \c[4]CD\c[0] en el \c[4]TOCADISCOS\c[0] que está ahí, ¡apuesto que puedo decirte quién es el artista que compuso esa canción!
+
+message_15:
+      text: \n<RAI>¡Soy RAI! Estoy orgulloso de ser una especie de experto en música...\! ¡y también estoy orgulloso de ser una especie de experto en juegos de cartas!
+
+# =========================================================================================
+# FARAWAY TOWN Extra content
+# =========================================================================================
+
+#CHECKING CLOSET AFTER GETTING SMALL KEY
+#!!!THIS SCENE IS NO LONGER APPLICABLE!!!*
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel¿Para qué vas al armario, \n[8]?\! Puedes realizar tus tareas más tarde.\! ¡Vamos, hagamos que tu último día valga la pena!
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel¡Ese no es el camino a \c[11]HOBBEEZ\c[0]! ¡Recuerda, \n[8], está en el \c[11]CENTRO DE LA PLAZA\c[0] al norte desde aquí!
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVenga, \n[8], ¡vayamos a \c[11]HOBBEEZ\c[0] primero!
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel¡Ese no es el camino a la \c[11]CASA DE BASIL\c[0]!\! ¿No lo recuerdas, \n[8]? Está en la calle que es diagonal a la nuestra desde el paso de peatones.
+
+# =========================================================================================
+# HOME ALONE
+# =========================================================================================
+
+#If PLAYER chooses not to answer the door for KEL, he will be locked in his house and forced to do a house chore. You can only do one house chore per day.
+
+# Piano room locked while doing chores
+
+# WASHING DISHES
+
+message_30:
+      text: Te arremangas...
+
+message_31:
+      text: ¿Qué vas a lavar primero?
+
+message_32:
+      text: TENEDOR DE METAL
+
+message_33:
+      text: CUCHARA DE METAL
+
+message_34:
+      text: PALILLOS
+
+message_35:
+      text: BANDEJA DE HORNEAR
+
+message_36:
+      text: SARTÉN
+
+message_37:
+      text: ESPÁTULA
+
+message_38:
+      text: PEQUEÑO BOL[S]
+
+message_39:
+      text: BOL BASTANTE GRANDE[S]
+
+message_40:
+      text: BOL LUJOSO[S]
+
+message_41:
+      text: PLATO ADORNADO[S]
+
+message_42:
+      text: COPA DE VINO[S]
+
+message_43:
+      text: COPA DE CRISTAL[S]
+
+message_44:
+      text: TAZÓN DE \"#1 MAMÁ\"[S]
+
+message_45:
+      text: TAZA CON PUNTOS[S]
+
+message_46:
+      text: PLATOS ABURRIDOS[S]
+
+message_60:
+      text: Recogiste \v[806].
+
+message_80:
+      text: ...\! Ups.\! Se te cayó \v[806] y se rompió.
+
+message_90:
+      text: Quizás MAMÁ no se de cuenta...
+
+#After the washing animation is finished:
+
+message_101:
+      text: Terminaste de lavar el \v[806].
+
+message_102:
+      text: ¿Qué quieres lavar ahora?
+
+#Menu will pop up again, with the previously chosen item missing. The menu listings are randomized every time.
+
+message_91:
+      text: Los platos están absolutamente limpios.
+
+message_92:
+      text: Platos sucios.
+
+message_93:
+      text: Un lavabo vacío.
+
+message_110:
+      text: Ya terminaste de lavar los platos.\!<br>La punta de tus dedos se ven como pasas.
+
+message_121:
+      text: ¿Quieres dejar de lavar los platos?
+
+message_122:
+      text: ¿Vas a lavar los platos?
+
+message_123:
+      text: Miras a tu LISTA DE TAREAS.\!<br>Tu tarea de hoy es lavar los platos.
+
+message_124:
+      text: Los platos están todos limpios.\!<br>Deberías darte un baño.
+
+#IF YOU EXAMINE DISHES WITH HERO
+message_125:
+      faceset: MainCharacter_Basil
+      faceindex: 13
+      text: \herParece que todavía tienes que hacer algunas tareas antes de mudarte, \n[8].
+
+message_126:
+      faceset: MainCharacter_Basil
+      faceindex: 14
+      text: \her¡No te preocupes, puedo hacerlo yo!\! Nunca sé qué hacer por la mañana de todas formas.\! ¡Piensa en ello como un regalo de despedida!
+
+message_127:
+      text: Wow...
+
+#  Sweeping
+
+message_130:
+      text: Te equipaste \c[13]ESCOBA DE MAMÁ\c[0].\!<br>La suciedad del suelo ahora es más aparente.
+
+message_131:
+      text: ¿Quieres dejar de barrer?
+
+message_132:
+      text: Dejaste la \c[13]ESCOBA DE MAMÁ\c[0] de lado.\!<br>Ya no estás concentrado en la suciedad del suelo.
+
+message_133:
+      text: El suelo finalmente está limpio.
+
+message_134:
+      text: Miraste a tu LISTA DE TAREAS.\!<br>Hoy tu tarea es barrer la casa.
+
+message_135:
+      text: ¿Quieres empezar ahora?
+
+message_137:
+      text: ...\! Te sientes un poco mareado.
+
+message_138:
+      text: ...\| ...\| ...
+
+#  Sorting Items
+
+message_140:
+      text: FIGURA DE ACCIÓN DE CAPT. CHICO ESPACIAL[TOY]
+
+message_141:
+      text: BLOQUES DE CONSTRUIR[TOY]
+
+message_142:
+      text: BOLSA DE CANICAS[TOY]
+
+message_143:
+      text: YOYO[TOY]
+
+message_144:
+      text: PLASTILINA SECA[TOY]
+
+message_145:
+      text: RESORTE[TOY]
+
+message_146:
+      text: PELUCHE DE BROTE DE TIERRA[TOY]
+
+message_147:
+      text: MUÑECA DE SWEETHEART[TOY]
+
+message_148:
+      text: CONTROL REMOTO DE COCHE DE JUGUETE[TOY]
+
+message_149:
+      text: COCHE DE JUGUETE[TOY]
+
+message_150:
+      text: COMETA ROTA[TOY]
+
+message_151:
+      text: CAJA REGISTRADORA DE PLÁSTICO[TOY]
+
+message_152:
+      text: XILÓFONO ARCOÍRIS[TOY]
+
+message_153:
+      text: MINI PIANO DE JUGUETE[TOY]
+
+message_154:
+      text: MATATENAS Y BOLAS DE METAL[TOY]
+
+message_155:
+      text: PEQUEÑO MOLINILLO[TOY]
+#delete the entry below
+message_156:
+      text: EL COMIC DE \"LAS AVENTURAS DEL CAPT. CHICO ESPACIAL\"[BOOK]
+
+message_157:
+      text: LIBRO DE \"HUMPHREY EL HAMBRIENTO\"[BOOK]
+#delete the entry below
+message_158:
+      text: EL COMIC DE \"LA VENGANZA DE SWEETHEART\"[BOOK]
+#delete the entry below
+message_159:
+      text: LIBRO DE COLOREAR DE \"EXCAVANDO DINOS\"[BOOK]
+
+message_160:
+      text: LIBRO DE \"UNA GUÍA A NUESTRO SISTEMA SOLAR\"[BOOK]
+
+message_161:
+      text: LIBRO DE \"DUETOS PARA PIANO Y VIOLÍN\"[BOOK]
+
+message_162:
+      text: LIBRO DE \"LA PIRÁMIDE ALIMENTICIA\"[BOOK]
+#delete the entry below
+message_163:
+      text: LIBRO DE \"SAUCE LLORÓN\"[BOOK]
+
+message_164:
+      text: LIBRO DE \"NARANJA JOE RASPAR-Y-OLER\"[BOOK]
+
+message_165:
+      text: \"ROCAS MASCOTA\" GUÍA DE ESTRATEGIAS[BOOK]
+#delete the entry below
+message_166:
+      text: LIBRO DE \"EL GRAN GATO AMARILLO\"[BOOK]
+
+message_167:
+      text: LIBRO DE \"EL NIÑO Y SU COMETA\"[BOOK]
+#delete the entry below
+message_168:
+      text: LIBRO DE \"EL PATIO DE JUEGOS EN EL BOSQUE\"[BOOK]
+#delete the entry below
+message_169:
+      text: LIBRO DE \"EL SOLITARIO ESPANTAPÁJAROS\"[BOOK]
+
+message_170:
+      text: LIBRO DE \"LOS BENEFICIOS DEL TOFU\"[BOOK]
+
+message_171:
+      text: UNA VIEJA LATA DE NARANJA JOE[TRASH]
+
+message_172:
+      text: UNA PIEZA DE PUZZLE SOLA[TRASH]
+
+message_173:
+      text: UN VIEJO Y MALOLIENTE CALCETÍN[TRASH]
+
+message_174:
+      text: UNA TAPA DE UN LÁPIZ[TRASH]
+
+message_175:
+      text: UN MONTÓN DE CABLES ENREDADOS[TRASH]
+
+message_180:
+      text: Esta caja es para JUGUETES.
+
+message_181:
+      text: Esta caja es para LIBROS.
+
+message_182:
+      text: Esta caja es para BASURA.
+
+message_183:
+      text: ¿Quieres poner tu viejo \v[810] aquí?
+
+message_184:
+      text: ¿Querías poner \v[810] aquí?
+
+message_186:
+      text: ...y tomaste tu vieja \v[810].
+
+message_187:
+      text: Dejaste \v[810] antes de irte.
+
+message_188:
+      text: Dejaste \v[810] antes de irte.
+
+message_191:
+      text: ¿Quieres continuar ordenando?
+
+message_192:
+      text: ¿Quieres dejar de ordenar?
+
+message_200:
+      text: Metiste la mano en la caja de cartón grande...
+
+message_201:
+      text: ...y tomaste \v[810].
+
+message_202:
+      text: ¿Quires tirar tu viejo \v[810]?
+
+message_203:
+      text: ¿Quieres tirar el \v[810]?
+
+message_204:
+      text: Ordenaste tus viejas pertenencias perfectamente.\! <br>MAMÁ estará feliz.
+
+message_205:
+      text: Ordenaste tus viejas pertenencias bien.\!<br>Todavía hay algunas cosas fuera de lugar, pero debería ser suficiente por ahora.
+
+message_206:
+      text: Ordenaste tus viejas pertenencias.\! Podrías haberlo hecho mejor, pero la verdad no importa tanto.
+
+message_207:
+      text: Ordenaste tus viejas pertenencias, pero de alguna manera es peor que antes...\! puede que MAMÁ te regañe por esto después...
+
+message_136:
+      text: Ya estás sosteniendo \v[810].
+
+message_185:
+      text: Miraste tu LISTA DE TAREAS.\!<br>Hoy tu tarea es organizar tus viejas pertenencias.
+
+message_190:
+      text: No queda nada en la caja de cartón grande.
+#EXAMINE MARI'S GRAVE WITH FLOWERS
+
+message_208:
+      text: ¿Quieres dejar \c[4]FLORES\c[0] en frente de la tumba de MARI?
+
+#YES/NO
+
+message_209:
+      text: Le dejaste \c[4]FLORES\c[0] a MARI.
+
+#IF YES, CEMETARY (WITH MARI'S THEME) STARTS PLAYING (Forever)
+
+message_210:
+      text: No puedes salir ahora.
+
+message_211:
+      text: Sientes ganas de vomitar...
+
+
+message_236:
+      text: Un regalo del papá de KIM y VANCE.
+
+message_237:
+      text: \"Te envío buenos deseos.\"\!<br>\"¡Como el sol, siempre te levantas!\"
+
+message_221:
+      text: Un regalo de la mamá de KIM y VANCE.
+
+message_252:
+      text: \"Mejórate pronto, \n[8].\"\!<br>\"Por favor conoce a KIM y VANCE mejor.\"\!<br>\"¡Les sería de ayuda tener a un buen modelo a seguir como tú!\"
+
+message_222:
+      text: Flores de la FAMILIA DE BRENT.
+
+message_238:
+      text: \"Hey, \n[8]... Espero que te sientas más fuerte cada día.\"\!<br>\"Fuiste una gran ayuda para BRENT en el verano.\"\!<br>\"Le ha estado yendo muy bien en la escuela.\"
+
+message_223:
+      text: Flores de la FAMILIA DE JOY.
+
+message_239:
+      text: \"Hola, \n[8]. Por favor mejórate pronto.\"\!<br>\"Gracias por ayudar a JOY en el verano.\"\!<br>\"Le está yendo muy bien en todas sus clases.\"
+
+message_224:
+      text: Flores de la FAMILIA DE CRIS.
+
+message_240:
+      text: \"Espero que te lo estés tomando con calma, \n[8].\"\!<br>\"La vida de hospital no es tan mala.\"\!<br>\"¡Solo es el universo diciendote que veas más televisión!\"
+
+message_225:
+      text: Flores de la FAMILIA DE BEBE.
+
+message_241:
+      text: \"\n[8], gracias por comprarme esa \c[4]LÁMPARA DE SUELO\c[0]!\"\!<br>\"Nunca más vi a mi hijo BILLY.\"\!<br>\"Espero que esté bien...\"
+
+message_226:
+      text: Flores de SEAN y KAREN.
+
+message_242:
+      text: \"¡Te deseamos lo mejor, \n[8]!.\"\!<br>\"Ya terminamos de mudarnos a nuestra nueva casa, ¡así que por favor ven a visitarnos algún día!\"
+
+message_227:
+      text: Un regalo de la ARTISTA.
+
+message_243:
+      text: \"Hola, \n[8]. Espero que te estés tomando las cosas con calma.\"\!<br>\"Mejórate pronto y ven a visitarme.\"\!<br>\"Necesito tu opinión en algunos dibujos...\"
+
+message_228:
+      text: Flores de la FAMILIA DE SARAH.
+
+message_244:
+      text: \"Hey, \n[8]. Gracias por salvar mi matrimonio.\"\!<br>\"¡Estoy seguro de que te mejorarás en muy poco tiempo!\"
+
+message_229:
+      text: Flores de la FAMILIA DE CHARLENE.
+
+message_245:
+      text: \"Querido, \n[8]...\! Gracias por tu ayuda este verano.\"\!<br>\"¡Deseamos que te mejores pronto!\"
+
+message_230:
+      text: Flores de JESSE y PAPÁ DE JESSE.
+
+message_246:
+      text: \"Espero que te estés cuidando, \n[8].\"\!<br>\"JESSE me ha estado hablando mucho últimamente.\"\!<br>\"¡Debiste haber elegido un buen regalo de cumpleaños!\"
+
+message_231:
+      text: Flores del VENDEDOR.
+
+message_247:
+      text: \"Hey, \n[8]...\"\!<br>\"Te envío buenas vibras.\"\!<br>\"¡Siempre serás bienvenido en HOBBEEZ!\"
+
+message_232:
+      text: Algunos regalos de DAPHNE y BOWEN.
+
+message_248:
+      text: \"Come este pan y recupera tu fuerza.\"\!<br>\"Para poder jugar con nosotros otra vez...\"
+
+message_233:
+      text: Flores de la FAMILIA de KEL y HERO... y AUBREY.
+
+message_249:
+      text: \"Enviando un pequeño rayo de sol en tu camino para que te mejores.\"\!<br>\"Te extrañamos, \n[8].\"
+
+message_234:
+      text: Flores de MINCY.
+
+message_250:
+      text: \"Gracias por motivarme a seguir dibujando.\"\!<br>\"Espero que te sientas mejor pronto.\"\!<br>\"¡Siempre pensando en ti!\"
+
+message_235:
+      text: Un regalo de VANCE, KIM, CHARLIE, ANGEL...<br>y EL MAVERICK.
+
+message_251:
+      text: \"Mejórate pronto, \n[8]!\"\!<br>\"¡Estaremos esperandote para una revancha!\"
+
+message_253:
+      text: Una cama muy, muy cómoda...\!<br>Pero ahora no es momento de dormir.
+
+message_254:
+      text: Una vieja televisión.\! Puedes escuchar un bajo zumbido a través de los altavoces.
+
+message_255:
+      text: Una cama vacía.
+# =========================================================================================
+# FARAWAY TOWN Extra
+# =========================================================================================
+
+#Interacting with KEL house door (night)
+
+message_220:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelSe está haciendo un poco tarde para visitar a mi familia, ¡pero podemos pasar el rato mañana si quieres!<br>\!Vamos, \n[8]... ¡Te llevaré a casa!
+
+# =========================================================================================
+# Neutral Route Sleep Prompt
+# =========================================================================================
+message_404:
+      text: Mañana, te mudarás.\!<br>¿Qué te gustaría hacer?
+message_405:
+      text: VOLVER A ESPACIO BLANCO
+message_406:
+      text: DORMIR HASTA LA MAÑANA
+message_407:
+      text: NADA
+# =========================================================================================
+# Naming Player
+# =========================================================================================
+
+message_400:
+      text: Ves a un chico durmiendo en su cuarto.\! ¿Como se llama?
+message_401:
+      text: No tienes nuevos mensajes.
+message_402:
+      text: Una cama muy cómoda.\! ¿Te gustaría ir a dormir?
+message_403:
+      text: \n<CORREO DE VOZ>Tienes 1 nuevo mensaje.
+
+message_410:
+      text: ¿El nombre del chico es \v[1]?
+
+message_500:
+      text: Ah sí, un encantador filete bien hecho.\! ¿Te gustaría comer un poco?
+
+message_501:
+      text: Uuf...\! Tu estómago no estuvo de acuerdo con eso...
+
+message_502:
+      text: Necesitas equipar tu \c[13]CUCHILLO DE FILETE\c[0].
+
+message_503:
+      text: Sientes ganas de vomitar...
+
+message_504:
+      text: \mar¡Hey, \n[8]! ¡Soy MARI!\!<br>Por fin he vuelto a casa, pero olvidé mis llaves...\!<br>¿Podrías abrirme la puerta?
+
+message_505:
+      text: \mar\n[8]...\! ¿Estás ahí?\! Tengo...\| mucho frío...
+#yes/no choice
+
+message_506:
+      text: Necesitas un \c[13]CUCHILLO DE FILETE\c[0].
+
+message_600:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kel¡Espera, \n[8]!\! No puedes volver a casa todavía, ¡hay muchas cosas que hacer!
+
+message_601:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel¡Anímate! ¡Es un nuevo día!
+
+#CEMETARY
+
+message_610:
+      faceset: MainCharacter_Mari
+      faceindex: 13
+      text: <\n[8]>...
+
+message_612:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelMARI...\! Ya ha pasado mucho tiempo, ¿eh? \!Todavía pienso en ella de vez en cuando.\! Estoy seguro que tú también.
+
+message_613:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelSabes...\! Cuando MARI falleció...\! HERO...\! realmente le dejó de importar todo.<br><br>No quería salir de su cama para ir a la escuela\|, o comer.\! Dejó de preocuparse de sí mismo, dejó de cocinar, de salir...\!<br>Fue así por casi un año.
+
+message_614:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelMamá y Papá tampoco sabían qué hacer.\! Todos intentamos ayudarlo y apoyarle, pero...\! nada funcionaba.
+
+message_615:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelUna noche...\! Me sente en su cama y empecé a hablarle.
+
+message_616:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelHablarle de como todos lo extrañamos y lo mucho que queremos que se mejore...\! Como todos estaban muy preocupados...\! Como MARI no querría verlo así...
+
+message_617:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelPensaba que lo estaba ayudando, pero...
+
+message_618:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelHERO...\| se enfado mucho.
+
+message_619:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelSe puso de pie y empezo a gritarme un montón de cosas.\! Cosas que me dolieron mucho...\| pero que bloqueé con el tiempo.
+
+message_621:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelSus ojos ya estaban rojos...\! y cuanto mas gritaba\|, más fuerte lloraba.
+
+message_622:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelIntenté calmarlo...\! pero todo lo que decía le hacia sentir peor.
+
+message_623:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelNunca vi a HERO hacer nada parecido a eso.\! Me tomó por sorpresa.\!<br>Y estaba tan asustado que...\| bueno...\| empecé a llorar también.
+
+message_624:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEventualmente, mi padre y mi madre corrieron a nuestro cuarto y corrieron a calmarlo y abrazarlo...
+
+message_632:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelPero ellos...\| Me ignoraron completamente...\| Je, je...
+
+message_625:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelCreo que ahí fue cuando HERO recuperó sus sentidos porque corrió hacia mí y me abrazó enseguida.\! Seguía disculpándose una y otra vez...
+
+message_626:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelPero...\| al menos HERO se puso mucho mejor después de eso.\! Empezó a preocuparse por sí mismo otra vez...\! y a concentrarse en la escuela mucho más...\! Uniéndose a un montón de cosas extracurriculares.
+
+message_627:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel¡Él es naturalmente bueno en todo, pero aun así se esfuerza mucho, así que estoy orgulloso de él! 
+
+message_628:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelSupongo que ahora es un poco más cerrado de lo que solía ser, pero...\! Estoy muy feliz de tener a mi hermano de vuelta. 
+
+message_629:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVaya, perdona por la larga historia.\! No creo haberle contado esto nunca a álguien.
+
+message_631:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelNo lo dice, pero...\! Creo que HERO se culpa a sí mismo por la muerte de MARI. 
+
+message_611:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelHERO nunca ha venido a visitarla...\| Ni una vez.\! Sé que duele, pero creo que sería bueno para él.\! No lo sé...
+
+message_620:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herPerdona...\! No sé si estoy listo para esto todavía.
+
+#RECYCULTIST HQ
+
+message_630:
+      text: No puedes irte por una fuerza misteriosa.
+
+message_640:
+      text: Tomaste una siesta corta.\!<br>Deberías empezar a hacer tus tareas.

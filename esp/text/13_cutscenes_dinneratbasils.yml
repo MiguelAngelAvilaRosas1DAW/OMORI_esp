@@ -1,0 +1,534 @@
+# =========================================================================================
+# Cutscene: Aubrey's Trash
+# =========================================================================================
+
+#AUBREY runs out of her house and goes to the trash can.
+#The trash can lid opens and AUBREY dumps something inside.
+#She walks back to her house, but turns around and looks at the trash can.
+#She walks backwards one step toward her house, then turns around and walks inside.
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: ¿Viste eso?<br>¡AUBREY acaba de tirar algo en el basurero!\! <br>Vamos a ver.\kel
+
+# =========================================================================================
+# Cutscene: Album Get
+# =========================================================================================
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \Com[2]¡Hey!\! Es el \c[4]ÁLBUM DE FOTOS\c[0] de BASIL.\kel
+
+#KEL puts hand behind head.
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: No puedo creer que lo tirara así.\!<br>Que bien que revisamos los basureros, ¿no?\kel
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Regresémosle esto a BASIL antes de que anochezca.\! ¡Se pondrá feliz cuando lo vea!\kel
+
+message_23:
+      text: Conseguiste el \c[4]ÁLBUM DE FOTOS\c[0] de BASIL.
+
+message_24:
+      text: Pulsa \DII[pagedown] para abrir el \c[4]ÁLBUM DE FOTOS\c[0].
+
+# =========================================================================================
+# Cutscene: Polly
+# =========================================================================================
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \{\Com[2]\sinv[1]¡¡TOC, TOC!!\! ¡BASIL!\!\}<br>¡Somos KEL y \n[8]!\kel
+
+#POLLY answers and walks one step out. KEL and PLAYER take one step back.
+
+message_41:
+      text: ¡Oh, hola chicos! ¿Quiénes sois?\n<???>
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: ¡Hola, BASIL-\! Oh, espera.\! Tú no eres BASIL...\kel
+
+message_43:
+      text: ¡Ah, lo siento! Mi nombre es POLLY.\! <br>Soy la cuidadora de BASIL.\n<POLLY>
+
+#BASIL runs in POLLY's way.
+
+message_44:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Oh, hola KEL.\! ¿Q-Qué pasa?\bas
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: ¡Hola, BASIL!\! Trajimos tu \c[4]ÁLBUM DE FOTOS\c[0] de vuelta!\kel
+
+message_46:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \com[2]¿H-Huh? ¿Lo hicieron?\! Wow...\! Muchas gracias.\bas
+
+message_47:
+      text: Le diste a BASIL su \c[4]ÁLBUM DE FOTOS\c[0].
+
+message_48:
+      text: ¡BASIL! No me dijiste que vendrían tus amigos.\!<br>¿Les gustaría unirse a cenar?\! <br>Siempre suelo cocinar un poco de más.\n<POLLY>
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: ¿Cena?\! ¡Claro, suena delicioso!\kel
+
+message_200:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: ¡Vamos, \n[8]! ¡Cena gratis!\kel
+
+#POLLY and BASIL enter from the front door.
+#KEL and PLAYER follow.
+
+message_50:
+      text: ¡Por favor sentios como en casa!\! <br>Iré a terminar de cocinar.\n<POLLY>
+
+#POLLY walks to the kitchen.
+#KEL turns to BASIL.
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Wow, ha pasado un tiempo desde que estuve aquí.\! <br>¡Definitivamente tienes muchas más plantas de las que solías tener!\kel
+
+message_52:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Ahh...\! Sí. Me gustan mucho.\! En realidad, hay algunas que siguen vivas desde los tiempos en que veniais más seguido.\bas
+
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Wow... ¡Cuanta dedicación!\kel
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: ¡Sin duda pones mucho empeño en tus flores y en las fotos!\kel
+
+#KEL has an idea.
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: ¡Oh, eso me recuerda!\! Ahora que tenemos tu\c[4]ÁLBUM DE FOTOS\c[0]<br>¡Podemos mirar las fotos juntos!\kel
+
+message_56:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: \com[2]¡Ah! Uh...\! N-No se yo...\bas
+
+message_57:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Ha pasado un tiempo desde la última vez que las viste, ¿no es así?\!<br>¡Vamos! ¡Será divertido!\kel
+
+message_58:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: Umm...\! ...\! C-Claro...\! Okay.\bas
+
+#BASIL takes out his PHOTO ALBUM.
+
+message_59:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Aquí está.\bas
+
+#Slide: Basil's PHOTO ALBUM (Faraway - Missing Photos)
+
+message_60:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Um...\! Parece que muchas de las fotos se perdieron...\kel
+
+message_61:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Tal vez AUBREY se las quedó...\!<br>Intentaremos consegirlas otro dia.\kel
+
+#KEL jumps.
+
+message_62:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Jo, mira si era bajito. ¡Haha!\kel
+
+message_63:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Creci bastante desde que HERO se fue a la universidad.\!<br>No puedo esperar a que vuelva...\kel
+
+#KEL looks back.
+
+message_64:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Este año, finalmente seré el hermano más alto. ¡Heh heh!\kel
+
+message_65:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: ... ... ... \kel
+
+#KEL looks at BASIL.
+
+message_66:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: De todas formas, no te preocupes por las fotos perdidas, BASIL.\! <br>Yo y \n[8] nos encargaremos de esto.\kel
+
+message_67:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Tú solo enfócate en relajarte y buscar formas de hacerte feliz.\kel
+
+message_68:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Oh, ok.\! Gracias...\! Lo intentaré.\bas
+
+#POLLY walks to party.
+
+message_69:
+      text: Lo siento por la espera... La cena está tomando más de lo esperado.\! <br>¿Alguno de vosotros quiere ayudarme?\n<POLLY>
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: ¡Sí, claro! ¡Yo ayudaré!\!<br>Tengo algo de experiencía ayudando a cocinar con mi hermano y eso.\kel
+
+message_71:
+      text: Oh, eso seria muy amable de tu parte.\!<br>Por favor, sigueme. La cocina esta por aquí.\n<POLLY>
+
+#POLLY walks O.S. and KEL follows.
+
+message_72:
+      text: KEL dejo el EQUIPO.
+
+# =========================================================================================
+# Cutscene: Grandma's Room
+# =========================================================================================
+
+#TRIGGER: Examine White Egret Orchid.
+
+message_90:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Oh, \n[8]...\! No esperaba verte aquí...\! Haha...\bas
+
+message_91:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: ... ... ... \bas
+
+message_92:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: ¿C-Cómo te va?\! <br>¿Todo bien?\bas
+
+message_93:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: ...\! Em...\! O-Olvídalo, lo siento.\bas
+
+#BASIL walks to GRANDMA.
+
+message_94:
+      faceset: MainCharacter_Basil
+      faceindex: 43
+      text: Sabes, mi abuela no puede oirnos.\! <br>No se encuentra muy bien últimamente...\bas
+
+message_95:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: ... ... ... \bas
+
+#BASIL walks up to PLAYER.
+
+message_96:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: ¿Ya han pasado cuatro años, eh?\bas
+
+message_97:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: ... ... ... \bas
+
+message_98:
+      faceset: MainCharacter_Basil
+      faceindex: 43
+      text: Es bueno ver que aún sigues por aquí...\! <br>Incluso si solo es por un rato.\bas
+
+message_99:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Ten.\! Toma mi \c[4]ÁLBUM DE FOTOS\c[0]...\! Quiero que lo tengas.\bas
+
+message_100:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Te lo estoy confiando, ¿vale?\! Creo que... te resultara mas util que a mi.\bas
+
+message_101:
+      text: BASIL te dio su \c[4]ÁLBUM DE FOTOS\c[0].
+
+message_103:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: Mucho ha pasado desde que estas fotos fueron tomadas.\!<br>A veces, siento que todo fue una pesadilla.\bas
+
+message_106:
+      faceset: MainCharacter_Basil
+      faceindex: 43
+      text: Es difícil de recordar pero...\! Creo que...\!<br>Solia tomar fotos de lo que más temía perder.\bas
+
+message_107:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: Hojeando por este álbum, aún puedes ver los buenos tiempos...\! Tal vez algún día...\! las cosas pueden volver a como eran antes.\bas
+
+message_108:
+      text: \sinv[1]\Com[2]\{¡¡\n[8]!!\! ¡¡BASIL!!\! ¡¡LA CENA ESTÁ LISTA!!\kel
+
+message_109:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: ¡Okay, ya vamos!\bas
+
+
+#BASIL walks out.
+
+# =========================================================================================
+# Cutscene: Awkward Dinner
+# =========================================================================================
+
+#Trigger: Examine Dining Table
+
+message_120:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: ¡Qué bueno está!\! ¡Eres la mejor, POLLY!\kel
+
+message_121:
+      text: Oh, no es nada... Soló sigo las recetas de la abuela.\! <br>Gracias por tu ayuda, KEL.\n<POLLY>
+
+#KEL grabs food and starts to eat.
+
+message_122:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Munch... Munch... Munch... Munch...\! Como te decía <br>antes, POLLY... \!Mañana... Munch... \!<br>Mi hermano HERO vuelve de la universidad.\kel
+
+message_123:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Mi mamá esta como loca preparando la <br>casa y todo...\! Munch...\! <br>No quiero estar cerca de ese lío, honestamente.\kel
+
+message_124:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Aunque...\!  Munch...\! Estoy muy emocionado de verlo...<br>Munch...\! Cada vez que regresa,<br>lo primero que hacemos es comparar alturas...\!  Munch...\kel
+
+message_125:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Este año es el año...\!  Munch...\! Donde seré...  Munch...\! <br>Finalmente el más alto de los dos...\! <br>¡Puedo...  Munch...\! sentirlo en mis huesos!\kel
+
+message_126:
+      text: Hehe...\! Tú y tu hermano pareceis muy unidos.\! <br>Eso es bueno...\! ¡La familia es importante!\n<POLLY>
+
+#KEL looks surprised.
+
+message_127:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: ¡Oh, oye!\!  Munch...\!<br>¿Qué estás haciendo con el \c[4]ÁLBUM DE FOTOS\c[0] de BASIL \n[8]?\kel
+
+#BASIL looks nervous.
+
+message_128:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: O-Oh...\! Yo...\! Se lo di.\! <br>Creo que le dara un mejor uso que yo.\bas
+
+message_129:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: Whoa, ¿en serio?\!  Munch...\! Que guay.\! Tiene sentido...\! <br>Munch...\! especialmente ya que \n[8] se está mudando y eso.\kel
+
+#BASIL drops his fork.
+
+message_130:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: ¿Q-Qué?\! ...\! ¿\n[8] se...\! muda...?\bas
+
+message_131:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: ¡Oh sí!\! Pensé que ya lo había mencionado...\!  Munch...\! <br>Debí olvidarlo.\!  Munch...\! Se está mudando en...\! ¿tres días, <br>creo?\!  Munch...\! Lo siento... Pensé que ya lo sabías.\kel
+
+message_132:
+      faceset: MainCharacter_Basil
+      faceindex: 36
+      text: O-Oh...\! Uh...\! No, supongo que no...\bas
+
+message_133:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: L-Lo siento...\! Umm...\bas
+
+message_134:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: ¿M-Me disculpan?\! Tengo...\! Tengo que ir al baño.\bas
+
+#BASIL gets up leaves the table.
+#KEL is confused.
+
+message_135:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: ¿Qué le pasa?\!  Munch...\! <br> Oh bueno...\! Así son las cosas.\!<br>¡Cuando tienes que ir, tienes que ir!\kel
+
+message_136:
+      text: \n<POLLY>BASIL ha ido mucho al baño últimamente.\!<br>Espero no sea mi comida...
+
+# =========================================================================================
+# Cutscene: There's Something Behind You
+# =========================================================================================
+
+#Trigger: Enter Basil's Bathroom
+
+#BASIL's Something's silhouette is pulsing on the ground.
+
+message_150:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 41
+      text: \fn<OMORI_GAME>Todo estará bien...\| Todo estará bien...\| Todo estará bien...\| Todo estará bien...\bas
+
+#BASIL turns around to see you.
+
+message_151:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 33
+      text: O-oh... Eres tú...\! \n[8]...\! Estás aquí...\! Estoy tan feliz...\bas
+
+message_153:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 33
+      text: Tú...\! Puedes verlo también, ¿verdad?\|<br>Algo...\| Detrás de ti...\bas
+
+#[Trigger: Attempt to leave]
+
+message_152:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 37
+      text: A...Alto...\! P-Por favor, \n[8]...\! No me dejes...\| \fn<OMORI_GAME><br>No otra vez...\bas
+
+
+# =========================================================================================
+# Cutscene: Bye, Polly
+# =========================================================================================
+
+
+message_170:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: ¡Hey, \n[8]!\! Creo que ya va siendo hora de que volvamos a casa.\!<br>Si no mis padres me echaran la bronca.\kel
+
+#KEL turns to POLLY.
+
+message_171:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Bueno...\! <br>POLLY, si alguna vez me necesitas, aquí está mi dirección.\!<br>¡Vivo en la calle de abajo!\kel
+
+message_172:
+      text: Gracias, KEL. Eres muy amable.\n<POLLY>
+
+message_173:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: Heh, heh... Oh, no es nada.\!<br>¡Dile adiós a BASIL por mí!\kel
+
+message_174:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: ¿A dónde vas? ¡Vamos, \n[8]! ¡Cena gratis!\kel
+
+
+# =========================================================================================
+# Cutscene: Good Night, Player
+# =========================================================================================
+
+message_190:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Oye, \n[8].\! Gracias por salir conmigo hoy.\kel
+
+message_191:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 9
+      text: Siento todos los problemas.\! Hemos vivido una gran aventura, ¿eh?\kel
+
+message_192:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 10
+      text: Se nota que no has hablado con nadie en un tiempo...\! ¡pero está bien!\! Solo hay que practicar.\kel
+
+message_193:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: De todas formas, HERO vuelve de la universidad mañana, así que estoy seguro que querrá verte antes de que te vayas.\kel
+
+message_194:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 8
+      text: Así que... Si no te molesta...\!<br>Volveré a por ti mañana por la mañana.\kel
+
+message_195:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 11
+      text: ¡Buenas noches, \n[8]!.\! ¡Dulces sueños!\kel
+
+#BASILS GRANDMA
+
+message_300:
+      text: \n<LA ABUELA DE BASIL>\}BASIL...\| ¿Eres tú?
+
+message_301:
+      text: La ABUELA DE BASIL respira tranquilamente.
+
+
+#=======
+#KEL's HOUSE STOP
+
+message_220:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 7
+      text: \{\Com[2]¡¡ESPERA, \n[8]!!\}\kel
+
+message_221:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 10
+      text: Sé que ha pasado un tiempo desde que estuviste en mi casa, pero ahora puede que no sea un buen momento, heh heh...\!\kel

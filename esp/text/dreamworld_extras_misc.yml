@@ -1,0 +1,466 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Waking up in White Space on Night 1:
+
+message_0:
+      text: Revisaste tu bolsillo en busca de una LLAVE NEGRA...\!<br>pero no estaba ahí.
+
+#After completing all 3 slime girls routes:
+
+message_1:
+      text: \swh\Com[2]\{¿¡NADIE AQUÍ PUEDE HACER NADA!?!?
+
+#Before putting together Basil's photo album:
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basHmm... maldita sea...\!<br>No creo recordar el orden de todas estas fotos...
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herNo te preocupes por nada, BASIL.\! OMORI tiene buena memoria, ¡así que estoy seguro de que lo resolveremos en poco tiempo!
+
+# Examining Mirror when Alone
+
+message_4:
+      text: Ves que estás solo en el espejo.\!<br>No te gusta.
+
+# Picking up knife in white space:
+
+message_5:
+      text:Miras fijamente el reflejo del cuchillo.\!<br>Te conoce bien.
+
+#When checking out a telescope
+message_6:
+      text: Un telescopio brillante.\! ¿Quieres ver la vista?
+
+# =========================================================================================
+# Rain town
+# =========================================================================================
+
+message_20:
+      text: ¡Los habitantes de \c[11]RAIN TOWN\c[0] están en peligro!\! ¡Hay demasiada lluvia esparciéndose en sus tierras, y eso los hace sentir incómodos!
+
+message_21:
+      text: Encuentra la boquilla en la parte superior izquierda del mapa y examínala.
+
+message_22:
+      text: La llovizna y los habitantes de \c[11]RAIN TOWN\c[0] están cómodos de nuevo.
+
+# =========================================================================================
+# LA LLORONA
+# =========================================================================================
+
+#LA LLORONA rises from the lake.
+
+message_40:
+      text: \n<LA LLORONA>Fiuf...\! Hey, soy yo, LA LLORONA, la diosa del lago.\!<br>Gracias por las ALMEJAS, supongo.
+
+message_41:
+      text: \n<LA LLORONA>Ellos dicen que el dinero puede comprar felicidad,<br>pero aparentemente no está funcionando...
+
+message_42:
+      text: \n<LA LLORONA>¿Puedes hacer algo divertido por mí?\!<br>¿Quizás contar un chiste?
+
+#If Player does not have Joke Book or has no Jokes
+
+message_43:
+      text: \n<LA LLORONA>...\! No parece que tengas ningún material contigo.\!<br>Vuelve cuando tengas un chiste o dos.
+
+#[IF PLAYER HAS JOKE BOOK WITH AT LEAST 1 JOKE]
+
+message_44:
+      text: \n<LA LLORONA>Fiuf...\! De acuerdo, ¿qué es?
+
+message_45:
+      text: ¿Quieres leerle a LA LLORONA un chiste del<br>\c[4]LIBRO DE CHISTES\c[0]?
+
+#yes/no
+
+#yes (if Hero)
+message_46:
+      text: ¿Qué chiste te gustaría leer?
+
+#List of jokes appear
+
+#Badumtss! SFX plays. (Party member except HERO will face forward at the same time, or none of them face forward.)
+
+#Depending on the joke that is told, LA LLORONA will cry with an intensity of 1, 2, or 3.
+
+
+
+#yes (if not Hero)
+message_47:
+      text: Abriste el \c[4]LIBRO DE CHISTES\c[0]...
+
+message_48:
+      text: El contenido de este libro es demasiado embarazoso para leerlo en voz alta.\! Quizás alguien mayor pueda hacerlo.
+
+message_49:
+      text: \n<LA LLORONA>¿En serio?\! ¿Me llamaste aquí por nada?
+
+message_50:
+      text: \n<LA LLORONA>Fiuf...\! Qué pérdida de tiempo...
+
+#LA LLORONA sinks back down into the lake.
+
+
+#================================ JOKES ==================================
+
+#Every time a PLAYER finds a joke on a poster, a badumtss! SFX will play and the party members will all face forward at the same time.
+
+#JOKE 1: Location: OTHERWORLD stuck on a storage unit
+
+message_60:
+      text: \"¿Escuchaste sobre el restaurante en la Luna?\"
+
+message_61:
+      text: \"Hay buena comida, pero no hay atmósfera.\"
+
+#JOKE 2: Location: CATTAIL FIELD stuck on the OLD BARN.
+
+message_62:
+      text: \"¿Por qué ganó el espantapájaros un premio?\"
+
+message_63:
+      text: \"Porque fue sobresaliente en su campo.\"
+
+
+#JOKE 3: Location: SPROUT MOLE TOWN next to a bike.
+
+message_64:
+      text: \"¿Qué es un oso en una bici?\"
+
+message_65:
+      text: \"Un bicioso.\"
+
+#JOKE 4: Location: FROZEN FOREST in an igloo.
+
+message_66:
+      text: \"¿Por qué en el Polo Sur los pingüinos no tienen amigos?\"
+
+message_67:
+      text: \"Porque no saben romper el hielo.\"
+
+#JOKE 5: Location: ORANGE OASIS on a cave wall.
+
+message_68:
+      text: \"¿Cómo llamas al queso que no es tuyo?\"
+
+message_69:
+      text: \"Queso de rretido.\"
+
+#JOKE 6: Location: DEEP WELL in UNDERWATER HIGHWAY.
+
+message_70:
+      text: \"¿Qué hay en el fondo del océano y se contrae?\"
+
+message_71:
+      text: \"Un Kelamar.\"
+
+#JOKE 7: Location: DEEP WELL in the CONSTRUCTION SITE.
+
+message_72:
+      text: \"¿Quieres escuchar un chiste sobre la construcción?\"
+
+message_73:
+      text: \"Todavía estoy trabajando en ello.\"
+
+message_74:
+      text: Anotaste el chiste en tu \c[4]LIBRO DE CHISTES\c[0].
+
+message_75:
+      text: ¡Conseguiste un \c[4]LIBRO DE CHISTES\c[0]!
+
+#================================ CRYING RESPONSES ==================================
+
+# Crying level 1
+
+message_90:
+      text: \n<LA LLORONA>Sniff...\! Ese chiste...\! Ese chiste fue tan malo...\!<br>Solo me hace quererlo...
+
+message_91:
+      text: \n<LA LLORONA>Sniff...\! Sniff...\! \SINV[1]Wehhhhhhhhhh...\SINV[0]
+
+#LA LLORONA sinks back down into the lake.
+
+# Crying Level 2
+
+message_92:
+      text: \n<LA LLORONA>\SINV[1]Wehhhh...\SINV[0]\!\Com[2]\SINV[2]Weaa\{aaeeeeaahh\{hhhhhhhhhhhh!!\SINV[0]
+
+#LA LLORONA sinks back down into the lake.
+
+# Crying Level 3
+
+message_93:
+      text: \n<LA LLORONA>\Com[2]\Quake[1]WEE\{\Com[2]AHHHH\{\Com[2]HHHHHH\{HHHHH\{HHHH!!!\Quake[0]
+
+# Tolerable Joke:
+
+message_94:
+      text: \n<LA LLORONA>Sniff... \!Sniff... \!Hehe...
+
+message_95:
+      text: \n<LA LLORONA>H-Hey...\! Ese chiste es muy divertido...
+
+message_96:
+      text: \n<LA LLORONA>\sinv[1]Hehehehe...
+
+#LA LLORONA transforms to happy LA LLORONA
+
+message_97:
+      text: \n<WILLOW>Ah...\! Me siento un poco mejor ahora.
+
+#GOD RAYS appeared
+#A sword floats down in front of Party
+
+message_98:
+      text: \n<WILLOW>Gracias por animarme, viajeros.
+
+message_99:
+      text: \n<WILLOW>Aquí hay una recompensa por sus valientes esfuerzos.
+
+message_100:
+      text: \n<WILLOW>Esta es un arma antigua de indescriptible poder.
+
+message_101:
+      text: \n<WILLOW>Solo un verdadero HÉROE puede manejarla.
+
+#God SFX
+
+message_102:
+      text: \n<WILLOW>Ah... Los dioses me están llamando.\!<br>Me temo que es hora de irme.
+
+message_103:
+      text: \n<WILLOW>Nuestro tiempo juntos fue corto, pero ha sido una...\!<br>experiencia...\! placentera.
+
+message_104:
+      text: \n<WILLOW>Quizás nos volvamos a encontrar en otra vida.\!<br>¡Hasta luego, viajeros! ¡Ha sido divertido!
+
+#God rays disappear
+
+#Examine sword
+
+message_110:
+      text: Tienes la \c[13]ESPADA LOL\c[0].
+
+# =========================================================================================
+# Hide and Seek with yourself
+# =========================================================================================
+
+#Night 3, upon entering FOREST PLAYGROUND, no one will be there.
+#If PLAYER examines the tetherball pole, it will prompt the message:
+
+message_120:
+      text: ¿Quieres jugar a las escondidas?
+
+#yes
+#Screen turns black.
+
+message_121:
+      text: 5...\! 4...\! 3...\! 2...\! 1...
+
+#The mirror will appear on a random location on the map.
+#If you examine the mirror, the mirror slide will show. (Only OMORI is in the mirror)
+
+message_122:
+      text: ¡Te encontré!
+
+#Then the mirror slide will fade out.
+
+message_123:
+      text: ¿Quieres jugar de nuevo?
+
+#no
+#Mirror disappears
+
+# =========================================================================================
+# Deep Well
+# =========================================================================================
+
+#Taxi Ride-
+
+message_140:
+      text: \n<TAXISTA>¡Oye niño! ¿Quieres ir a algún lugar \SINV[1]genial\SINV[0]?\!<br>¡Deberías ir a \c[11]LAST RESORT\c[0]!<br>¡Es el lugar más popular para estar en estos días!
+
+message_141:
+      text: \n<TAXISTA>¡Puedo llevarte allí si quieres, niño!\! Está de moda.
+
+message_142:
+      text: \n<TAXISTA>Vamos...\! ¡No seas tímido!\! No muerdo...\! demasiado.
+
+message_143:
+      text: \n<TAXISTA>¡Oye, niño! ¿Quieres volver a \c[11]POZO PROFUNDO\c[0]?\! ¡Te llevaré a donde quieras!\! No es gran cosa para mí... ¡Me pagan mi salario! ¡Keh heh!
+
+message_144:
+      text: \n<TAXISTA>Hmm...\! Parece que te quedas un poco corto...\!<br>Bueno, está bien.\! Tomaré todo lo que tienes-
+
+message_145:
+      text: \n<TAXISTA>¡Oye, espera un segundo! ¡No tienes nada!\!<br>Te debieron de haber estafado, niño... Te compadezco.
+
+#after Ride
+
+message_150:
+      text: \n<TAXISTA>Algunos baches, pero no estuvo mal.\! Regresa cuando quieras, niño.
+
+message_151:
+      text: \n<TAXISTA>Regresa cuando quieras, niño.
+
+#If HERO is in party
+message_152:
+      text: \n<TAXISTA>¿Necesitas que te lleve de vuelta a \c[11]LAST RESORT\c[0]?\!<br>¡Cualquier cosa por la mano derecha del jefe!
+
+#If HERO is manager
+message_153:
+      text: \n<TAXISTA>¿Necesitas que te lleve de vuelta a \c[11]LAST RESORT\c[0]?\!<br>¡Cualquier cosa por ti, jefe!
+
+#If HERO is in party
+message_154:
+      text: \n<TAXISTA>¿Necesitas que te lleve de vuelta al \c[11]POZO PROFUNDO\c[0]?\!<br>¡Cualquier cosa por la mano derecha del jefe!
+
+#If HERO is manager
+message_155:
+      text: \n<TAXISTA>¿Necesitas que te lleve de vuelta al \c[11]POZO PROFUNDO\c[0]?\!<br>¡Cualquier cosa por ti, jefe!
+
+
+# =========================================================================================
+# First Time In OTHERWORLD
+# =========================================================================================
+
+
+message_200:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\Com[2]\{\{¡¡¡PRIMERO!!!\}\}
+
+message_201:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herHuff... Huff...\! La escalera...
+
+message_202:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herSimplemente...\! Huff... Huff...\! nunca se acaba...
+
+message_203:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\sinv[1]\{\{¡¡¡BAHAHAHAHA!!!\}
+
+message_204:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kel\Com[2]Es un pequeño paso para KEL...\.<br>¡¡Y un gran paso para MUNDOKEL!!
+
+message_205:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub¡No es así!
+
+message_206:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelNo puedes decidir como va...<br>¡No llegaste primero!
+
+message_207:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubOye, espera...\!<br>\Com[2]\{¿¿ES ESE MI \c[4]CERTIFICULO\c[0]??\}\!
+
+message_208:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\{¡TOMA ESA COSA AHORA MISMO!\}
+
+message_209:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub¿Y si alguien lo ve?
+
+message_210:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kel¡De ninguna manera!<br>Mira esta cosa revoloteando en el viento.
+
+message_211:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kel\sinv[1]Tan majestuosa...\| Tan hermosa...
+
+message_212:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 6
+    text: \aub\Com[2]\{¡HERO! ¡HAZ ALGO!\}
+
+message_213:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \her\}Huff... Huff...\!\{ Un... Segundo... \!\}Huff... Huff...\!\{ Solo déjame... \}Huff... Huff...\!\{ Recuperar el aliento... \}Huff... Huff...
+
+message_214:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 48
+    text: \herEn serio...\!\} Huff... Huff...\{\! Dame un minuto...
+
+message_215:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aub... ... ...\! No importa.
+
+message_216:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \herHombre, sé que hay una razón por la que nunca hemos escalado esta cosa, pero no puedo poner mi dedo en eso...
+
+message_217:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \her Está en la punta de mi lengua...
+
+message_218:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 36
+    text: \herOh, bueno...\! ¡Aquí no hay nada!
+
+message_219:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelOye OMORI, ¡ese no es el camino correcto a la casa de BASIL!
+
+
+# =========================================================================================
+# MOONWALK
+# =========================================================================================
+
+message_250:
+      text: ¿Te gustaría hacer un moonwalk?
+
+#YES/NO
+
+#back of sign
+
+message_252:
+      text: Hay un mensaje escrito en la parte de atrás.
+
+message_253:
+      text: \"Por favor... no cometas el mismo error que yo cometí...<br>\!-M\"
+
+# =========================================================================================
+# BATTLE: THE WORLD
+# =========================================================================================
+
+message_300:
+      text: La TIERRA parece pacífica.\!<br>¿Te gustaría perturbarla?
+
+# =========================================================================================
+# PYREFLY IX WEB
+# =========================================================================================
+
+message_400:
+      text: Esta red es demasiado fuerte para cortarla.
