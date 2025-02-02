@@ -1,0 +1,34 @@
+{
+    "id":"esp",
+    "name":"Omori ESP",
+    "description":"Spanish translation",
+    "version":"1.0.0",
+    "files":{
+        "data":[
+            "data/"
+        ],
+        "plugins":[
+            "js/"
+        ],
+        "assets":[
+            "img/animations/",
+            "img/atlases/",
+            "img/battlebacks1/",
+            "img/characters/",
+            "img/enemies/",
+            "img/pictures/",
+            "img/sv_actors/",
+            "img/system/",
+            "img/tilesets/",
+			"img/pictures/Sequence/",
+            "movies/",
+            "fonts/"
+        ],
+        "data_pluto":[
+            "data_pluto/"
+        ],
+        "text":[
+            "text/"
+        ]
+    }
+}
