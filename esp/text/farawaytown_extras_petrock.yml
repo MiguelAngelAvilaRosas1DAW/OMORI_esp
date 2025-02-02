@@ -1,0 +1,462 @@
+
+# =========================================================================================
+# Pet Rock Battles
+# =========================================================================================
+
+
+# =========================================================================================
+#KEL- PLUTO
+# =========================================================================================
+
+#before fight
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel¡Hey, \n[8]!\! <br>¿Acabas de comprar una \c[13]ROCA MASCOTA\c[0]?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kel¡Wow!\! No puedo creerlo...\! No jugamos desde que éramos niños...\! ¡pero casualmente también tengo la mía encima!
+
+#KEL takes something out of his pocket.
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kel¡Justo aquí!
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelQué coincidencia, ¿no?
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel¡Oye, tengo una idea!\! ¿Por qué no luchamos con nuestras \c[13]ROCAS MASCOTA\c[0]?\! Aún recuerdas cómo jugar, ¿no?
+#yes
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel¡Guay!\! Sabía que lo recordarías...
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\sinv[1]Awww, sí...\!\sinv[0] ¡Vamos haya!
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\com[2]\sinv[1]\{\{¡¡A LUCHAR!!
+
+#no
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelJaja...\! No te preocupes.\! Incluso si no te acuerdas, es fácil de aprender...\! ¡Lo entenderás en seguida!
+
+
+#after victory
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelAaah leches, perdí...\! Creo que estoy un poco oxidado...\! <br>Bueno, está bien.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kel¡Siempre has sido bueno en estas cosas!\! ¡Supongo que eres igual de bueno que siempre!
+
+
+#after loss
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelJaja...\! Supongo que estás un poco oxidado, ¿eh?\! <br>Bueno, está bien.\! Estoy seguro que le cogeras el truco.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelSé que ha pasado un tiempo, así que déjame refrescártelo.\! \c[13]ROCAS MASCOTA\c[0] es un juego donde tú y tus mascotas hacen equipo y entran en combate, ¡LUCHAR!
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelSi usas tu \c[13]ROCA MASCOTA\c[0] como un LLAVERO...\! ¡puedes encontrar a otros jugadores con sus \c[13]ROCAS MASCOTA\c[0] y desafiarlos!
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelPor lo que escuché...\! el campeón actual vive en algún lugar de por aquí...\! pero nadie sabe quien es...
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelCurioso, ¿no te parece?\! Quien sabe...\! <br>¡Tal vez lo conozcamos algún día!
+
+
+# =========================================================================================
+#TOMATOGIRL
+# =========================================================================================
+
+#Intro
+
+message_20:
+      text: \n<CHICA COLORIDA>¡Oh!\! ¡Veo que tienes una \c[13]ROCA MASCOTA\c[0]!\! ¿Has venido a LUCHAR?
+
+#yes
+message_21:
+      text: \n<CHICA COLORIDA>¡De acuerdo!\! ¡He estado entrenando a mi CHICATOMATE desde que era una niña!\!<br>¡No perderé ante ti!
+
+#player win
+message_22:
+      text: \n<CHICA COLORIDA>Aww... Cachis...\! Está bien, CHICATOMATE. No es culpa tuya...\! ¡Diste lo mejor podias!
+
+#player loses
+message_23:
+      text: \n<CHICA COLORIDA>¡Sí!\! ¡Lo hicimos!\! ¡Sabía que ganarías, CHICATOMATE!
+
+message_150:
+      text: \n<CHICA COLORIDA>¡Dime si quieres LUCHAR otro día!
+
+
+# =========================================================================================
+      #MUNCHER KING
+# =========================================================================================
+
+#Intro
+#Reference Farawaytown_dialogue_tucker: messages 16,17,18,20,21
+
+#reward
+message_140:
+      text: \n<CHICO RARO>Solo doy este sombrero a alguien que admiro...\! Ahora, ¡vete!
+
+# =========================================================================================
+#ROSE LAD
+# =========================================================================================
+
+#Intro
+message_35:
+      text: \n<CHICO LINDO>Oye, ¿es eso una \c[13]ROCA MASCOTA\c[0]?\! ¡Yo también tengo una!\!<br>¿Quieres LUCHAR?
+#yes
+message_36:
+      text: \n<CHICO LINDO>¿Sí, suena divertido! ¡Demos lo mejor!\! ¡Adelante, ROSALINO! ¡Yo creo en ti!
+#player win
+message_37:
+      text: \n<CHICO LINDO>ROSALINO, ¿estás bien?\! Ya, ya... Descansa.
+
+message_38:
+      text: \n<CHICO LINDO>Jaja... ¡Eso fue divertido!\! Gracias por desafiarme.\! Supongo que necesito entrenar un poco más a ROSALINO...
+#player loses
+message_39:
+      text: \n<CHICO LINDO>¡Lo hicimos, ROSALINO!\! ¡Eres el mejor!
+
+message_40:
+      text: \n<CHICO LINDO>Oye,\| Esa fue una buena batalla, pero tal vez necesites mejorar un poco más...
+
+# =========================================================================================
+      #SAUCY K
+# =========================================================================================
+
+#Intro
+message_42:
+      text: \n<ANGEL>Wow, ¡espera! ¿Tienes una \c[13]ROCA MASCOTA\c[0]?\! ¡TE DESAFIO!\! ¡Nadie puede derrotar a mi SALSA-K!<br>¡Es la mejor \c[13]ROCA MASCOTA\c[0] y te lo demostraré!
+#yes
+message_43:
+      text: \n<ANGEL>¡De acuerdo!\! ¡Vamos, SALSA-K!\! ¡Mostrémosle quién es el más fuerte aquí!
+#no
+message_44:
+      text: \n<ANGEL>Um... Ok\! ¡G\!A\!L\!L\!I\!N\!A!
+#player win
+message_45:
+      text: \n<ANGEL>\com[2]\{\sinv[1]¡¡SALSA-K!!\! ¡¡NOOO\{OOO\{OOO\{OOO!!
+
+message_46:
+      text: \n<ANGEL>Sniff...\| ¡Tonto!
+
+#player loses
+message_47:
+      text: \n<ANGEL>¡Qué te dije!\! ¡SALSA-K es el mejor!\! <br>¡Estás a años luz de vencernos!
+
+# =========================================================================================
+      #BUNNY
+# =========================================================================================
+
+#Intro
+message_50:
+      text: \n<RAI>Vaya, ¿también tienes una \c[13]ROCA MASCOTA\c[0]?\! Hace poco que comencé con las \c[13]ROCAS MASCOTA\c[0]...
+
+message_51:
+      text: \n<RAI>La mía aún está en su etapa inicial, ¡pero sé que se hará muy fuerte pronto!\! ¿Quieres LUCHAR?
+
+#yes
+message_52:
+      text: \n<RAI>¡Muy bien!\! ¡Adelante, CONEJITO!\! ¡Trabajemos juntos!
+#player win
+message_53:
+      text: \n<RAI>Jo tio...\! Tu \c[13]ROCA MASCOTA\c[0] es muy fuerte.\! Supongo que mi CONEJITO y yo aún tenemos mucho que aprender.
+#player loses
+message_54:
+      text: \n<RAI>¡Hey, ganamos!\! No me lo esperaba... ¡pero una victoria es una victoria!
+
+message_200:
+      text: \n<RAI>Te estare esperando cuando quieras luchar otra vez.
+
+# =========================================================================================
+      #PAPA CHIP
+# =========================================================================================
+
+#Intro
+message_55:
+      text: \n<DAPHNE>\sinv[1]Ah... Veo que también tienes una \c[13]ROCA MASCOTA\c[0].
+
+message_56:
+      text: \n<BOWEN>\sinv[1]¿Acaso tu...\! querrias...\! LUCHAR?
+#yes
+message_57:
+      text: \n<DAPHNE>Hmm...\! Muy confiado, ¿eh?\! No ganarás tan fácilmente...
+
+message_58:
+      text: \n<BOWEN>¡PAPA CHIP!\! ¡Demostrémosle tu poder!
+
+#player win
+message_59:
+      text: \n<BOWEN>¿Derrota?
+
+message_60:
+      text: \n<DAPHNE>Hmm...\! Sí...\! Parece que hemos perdido esta ronda...
+
+message_61:
+      text: \n<BOWEN>Que desfortunio...
+
+
+#player loses
+
+message_65:
+      text: \n<BOWEN>¿Victoria?
+
+message_66:
+      text: \n<DAPHNE>Hmm...\! Sí...\! Parece que hemos ganado...
+
+message_67:
+      text: \n<BOWEN>Excelente.
+
+# If defeated at least 4 pet rock challengers
+#Leave hobbeez
+
+message_71:
+      text: \n<SHOPKEEP>¡Oye \n[8]!\! ¡He escuchado que has estado LUCHANDO con otras \c[13]ROCAS MASCOTA\c[0] alrededor de la ciudad!
+
+message_72:
+      text: \n<SHOPKEEP>Si quieres un verdadero desafío, sé de unos chavales en \c[11]FARAWAY PLAZA\c[0] que son veteranos de las \c[13]ROCAS MASCOTA\c[0]...\! ¡Cuatro, para ser exactos!
+
+message_75:
+      text: \n<SHOPKEEP>No suelen desafíar novatos... ¡pero por tí, estoy seguro que harán una excepción!
+
+message_73:
+      text: \n<SHOPKEEP>Deberías intentar hablar con el equipo de las tiendas y los clientes frecuentes en esta área...\! ¡Ellos se asegurarán de provar tu fuerza hasta el máximo!
+
+# =========================================================================================
+      #OCOTAKO
+# =========================================================================================
+
+#Intro
+message_85:
+      text: \n<NIÑA LINDA>¡O-Oh!\! H-Hola...
+
+message_86:
+      text: \n<NIÑA LINDA>Hmmm... Ya veo...\! Estás llevando una \c[13]ROCA MASCOTA\c[0], ¡eso significa que quieres LUCHAR!
+
+message_87:
+      text: \n<NIÑA LINDA>...
+
+message_88:
+      text: \n<NIÑA LINDA>Te haré saber que nosotros, los veteranos, somos más duros que los jugadores casuales.\! ¿Aún quieres desafíarme?
+#yes
+message_89:
+      text: \n<NIÑA LINDA>¡D-De acuerdo!\! ¡Adelante, OCOTACO!\! ¡Demostrémosle lo que significa ser un veterano!
+
+#No
+message_93:
+      text: \n<NIÑA LINDA>Es entendible.\! Estaré aquí para cuándo estés listo.
+
+#player win
+message_90:
+      text: \n<NIÑA LINDA>H-Hemos...\! ¿perdido?\! Vaya...\! Estoy muy sorprendida...
+
+message_91:
+      text: \n<NIÑA LINDA>Supongo que el SHOPKEEP tenía razón al envíarte con nosotros\! Pareces tener mucho potencial.\! ¡Estoy segura que irás muy lejos!
+
+#player loses
+message_92:
+      text: \n<NIÑA LINDA>¡Buen intento!\! ¡Peleaste bien, pero he estado LUCHANDO al lado de OCOTACO por años!\! Solo sigue practicando... Mejorarás, ¡te lo prometo!
+
+
+# =========================================================================================
+      #LIL' G
+# =========================================================================================
+
+#Intro
+message_94:
+      text: \n<GINO>Oh oye, ¡eso que tienes es una \c[13]ROCA MASCOTA\c[0]!
+
+message_95:
+      text: \n<GINO>Si estás aquí...\! Entonces significa que conoces de los veteranos de \c[11]FARAWAY PLAZA\c[0].
+
+message_96:
+      text: \n<GINO>Y si el SHOPKEEP te envió, significa que debes ser bueno...\! Je, je...
+
+message_97:
+      text: \n<GINO>¡Pues, aquí estoy!\! ¿Sorprendido?\! ¡Mi título real es GINO, LUCHADOR DE JASH!\! ¿Te gustaría LUCHAR?
+
+#yes
+message_98:
+      text: \n<GINO>En ese caso...\! ¡Yo, GINO, uno de los cuatro veteranos de la \c[11]FARAWAY PLAZA\c[0], te enseñaré lo que es ser un verdadero profesional!\!<br>¡Acabemos con ellos, PEQUEÑO G!!
+
+#player win
+message_99:
+      text: \n<GINO>\com[2]\{¡PEQUEÑO G!\! ¡¡HÁBLAME!!
+
+message_100:
+      text: \n<GINO>...
+
+message_101:
+      text: \n<GINO>Oh espera...\! No puedes hacer eso, ¿verdad?
+
+message_102:
+      text: \n<GINO>Pues, estoy aturdido.\! ¡Aunque felicidades por tu victoria, desafiante!\! ¡Tú y tu \c[13]ROCA MASCOTA\c[0] habeis arrasado!
+
+
+message_103:
+      text: \n<GINO>¡Tal vez alguno de los otros veteranos te pueda dar más pelea!
+
+
+#player loses
+message_104:
+      text: \n<GINO>¡Sí! ¡Lo hicimos, PEQUEÑO G!\! Je... Bueno, no puedes ganarlas todas.\! Lo intentaste... ¡y eso es lo que importa!
+
+message_300:
+      text: \n<GINO>\com[2]¿¡P-P-P-P-Pero por qué!?
+
+# =========================================================================================
+      #P'terry
+# =========================================================================================
+
+#Intro
+message_105:
+      text: \n<CHICO DE FIX-IT>Je...\!¡Veo que estás alardeando de tu \c[13]ROCA MASCOTA\c[0]!\! No suelo sacar a mi \c[13]ROCA MASCOTA\c[0] en horas de trabajo...\! Pero debes ser muy bueno si el SHOPKEEP te envió.
+
+message_106:
+      text: \n<CHICO DE FIX-IT>¿Estás listo para un \sinv[1]verdadero\sinv[0] desafío?
+
+#yes
+message_107:
+      text: \n<CHICO DE FIX-IT>¡Como uno de los cuatro veteranos de \c[11]FARAWAY PLAZA\c[0], tengo una reputación que mantener!\! Si me estás pidiendo LUCHAR, ¡no me ganarás tan fácilmente!
+
+#player win
+message_108:
+      text: \n<CHICO DE FIX-IT>\com[2]¡Cómo! Debe haber un error...\! P'TERRY...\! ¿Cómo pudimos perder?\! \sinv[1]Ugh...\sinv[0]\! Cómo sea...\!<br>De vuelta al trabajo...
+#player loses
+message_109:
+      text: \n<CHICO DE FIX-IT>Buen intento, chaval.\! Eso fue divertido, ¡pero P'TERRY es el LUCHADOR superior!\! ¡Mejor suerte para la próxima!
+
+message_110:
+      text: \n<CHICO DE FIX-IT>¡Ajá! ¡Eso pensé!
+
+# =========================================================================================
+      #Cool S
+# =========================================================================================
+
+#Intro
+message_115:
+      text: \n<SHOPKEEP>Ahh... \n[8]...\! ¡Viniste!\! Escuché que derrotaste a los demas veteranos...
+
+message_132:
+      text: \n<SHOPKEEP>Así que...
+
+message_116:
+      text: \n<SHOPKEEP>¡Es hora de revelar mi identidad!\!<br>¡Soy el SHOPKEEP, el veterano más fuerte de la \c[11]PLAZA FARAWAY\c[0]!
+
+#yes
+message_117:
+      text: \n<SHOPKEEP>Es muy impresionante, \n[8]...\! Has logrado superar a los mejores de la ciudad...\! excepto a mí...
+
+message_118:
+      text: \n<SHOPKEEP>\n[8]...\! ¡Comprobare tu fuerza yo mismo!\! ¡Vas a luchar conmigo, aquí y ahora!
+
+message_133:
+      text: \n<SHOPKEEP>Je... Pensé que dirías eso...
+
+message_121:
+      text: \n<SHOPKEEP>\com[2]\sinv[1]\{\{¡¡VAMOS A LUCHAR!!
+
+#player win
+message_122:
+      text: \n<SHOPKEEP>Increíble...\! Eres realmente increíble, \n[8]...
+
+message_123:
+      text: \n<SHOPKEEP>Incluso podrías ser mejor que...\! No...\! <br>Olvida eso...\! Ya dije suficiente.
+
+message_124:
+      text: \n<SHOPKEEP>Como premio por tu victoria, toma esto.
+
+message_125:
+      text: \n<SHOPKEEP>También...\! Hay otro veterano de la \c[11]FARAWAY PLAZA\c[0] quién es incluso más fuerte que yo...
+
+message_126:
+      text: \n<SHOPKEEP>Algunos dicen que incluso podría ser el LUCHADOR más fuerte del mundo...\! pero...\! ella es elusiva y mantiene su identidad en secreto...
+
+message_127:
+      text: \n<SHOPKEEP>Aunque...\! estoy seguro de que si la encuentras, sería capaz de adivinar tu poder al igual que yo.
+
+message_128:
+      text: \n<SHOPKEEP>Si eliges buscarla, tal vez te arrepientas...\! pero no seré yo quién te detenga.
+
+message_129:
+      text: \n<SHOPKEEP>Solo ten cuidado...\! Es una fuerza imparable...\! Has sido advertido.
+
+#player loses
+
+message_130:
+      text: \n<SHOPKEEP>¡Una batalla espléndida, \n[8]!\! Tú y JASH habeis peleado con todas vuestras fuerzas, pero aún así, ¡yo sali victorioso!
+
+message_131:
+      text: \n<SHOPKEEP>Aún así, debo felicitarte.\! ¡Lo has hecho muy bien en llegar hasta aquí!\! ¡Creo que es hora de que JASH y tú os tomeis un descanso!
+
+
+# =========================================================================================
+      #One-Winged Jash
+# =========================================================================================
+
+#Intro
+message_135:
+      text: DAMA DE OTHERMART mira a tu \c[13]ROCA MASCOTA\c[0].
+
+message_136:
+      text: \n<DAMA DE OTHERMART>...
+
+message_160:
+      text: \n<DAMA DE OTHERMART>\com[2]\{\{¡JA! ¡JA! ¡JA! ¡JA! ¡JA! ¡JA! ¡JA!
+#player win
+message_137:
+      text: \n<DAMA DE OTHERMART>OK.\! TÚ GANAS.
+
+message_143:
+      text: \n<DAMA DE OTHERMART>TOMA ESTO.
+#player loses
+message_138:
+      text: \n<DAMA DE OTHERMART>...
+
+message_141:
+      text: \n<DAMA DE OTHERMART>BUEN TRABAJO.
+
+message_142:
+      text: ¡Conseguiste una GORRA de \c[13]\"YOU ROCK\"\c[0]!
+
+#additional pet rock dialogue

@@ -1,0 +1,335 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 3 - DAY
+#=========================================================================================
+
+#Location: Hobbeez looking at trading cards in the display case. (Pet Rock Fight)
+
+message_0:
+      text: \n<ANGEL>Mira todas esas cartas intercambiables raras y caras...\!<br>¡Quiero completar mi colección, pero solo tengo $5.00 dólares!\! Viejo, ser un niño apesta...
+
+message_1:
+      text: \n<ANGEL>\Com[2]Wow, ¿¡qué es esto!?\! ¡Hay unos $20.00 dólares en mi bolsillo trasero!\! ¡Este debe ser mi día de suerte!\! \SINV[2]Jajajaja...\SINV[0]\! Supongo que ahora puedo comprar al menos una carta súper rara...
+
+#If player completes quest: Bring Angel home
+
+message_2:
+      text: ANGEL está congelado.\!<br>Tardará un rato en recuperarse.
+
+#==============CHARLIE (CHARLENE)======================================================
+
+#Location: Hardware Store - Flower Quest
+
+message_10:
+      text: \n<CHARLIE>\}H-Hola...
+
+message_11:
+      text: \n<CHARLIE>\}T-Ten...\! Esto es para ti...
+
+message_12:
+      text: Conseguiste un \c[4]CLIP FLORAL\c[0].
+
+message_13:
+      text: \n<CHARLIE>\}Las flores son tan lindas...
+
+#==============KIM======================================================
+
+#Location: Park (Ding-Dong)
+
+message_20:
+      text: \kim\Com[2]¡Oigan, miren quienes están aquí! ¡Es AUBREY y los nerds!
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: \aub¡Hola, KIM! ¿Cómo va todo?
+
+message_22:
+      text: \kimOh, ya sabes...\! Bastante bien, bien...
+
+message_23:
+      text: \kimMi papá dijo que nos llevaría a una fiesta genial esta noche...\! debe ser cool.
+
+message_24:
+      text: \van\sinv[1]¡Ohhhhhhhhh, si! ¡Nos vamos de fiesta!
+
+
+#message_25:
+#      text: \kimUntil then... we were going to play our favorite game...\!<br>\{\COM[2]DING-DONG DITCH!
+
+#Ding Dong Ditch: Explanation
+
+#==============The Maverick===========================================
+
+#Location: Hobbeez
+
+message_30:
+      text: \n<MAVERICK>He estado intentando ganar este juego todo el día, pero me está ganando.\! Fiuf...\! ¿¡Por qué es tan difícil encontrar algo que yo, \Com[2]EL MAVERICK, en realidad soy bueno!?
+
+#==============VANCE===========================================
+#Location: Park (Ding-Dong)
+
+message_40:
+      text: \vanKIM habla mucho, pero tiene un gran corazón.\!<br>¿Y yo?\! Tengo músculos grandes.
+
+#==============ARTIST===========================================
+#Location: Artist's House (Bring back Angel)
+
+message_50:
+      text: \artAhh...\! Finalmente, paz y tranquilidad...
+
+#==============AUBREY'S MOM===========================================
+#Location:  Aubrey's House
+
+message_60:
+      text: \n<MAMÁ DE AUBREY>...
+
+#==============SHORT HAIR GIRL===========================================
+#Location:  FARAWAY PARK
+
+message_70:
+      text: \n<CHICA DE CABELLO CORTO>¡Le dije a mi hermana mayor sobre mi enamorado!\! Quería que se lo enseñara a ella, así que estamos aquí donde él suele venir con sus amigos...
+
+#==============FASHIONABLE MOM===========================================
+#Location:  FARAWAY PARK
+
+message_80:
+      text: \n<MAMÁ A LA MODA>Ah, me pregunto qué debería cocinar para mis hijas esta noche...
+
+message_81:
+      text: \n<MAMÁ A LA MODA>Aunque...\! No cocino muy seguido, así que tal vez debería optar por delívery.
+
+#==============INTIMIDATING GIRL===========================================
+#Location:  FARAWAY PARK
+
+message_90:
+      text: \n<CHICA INTIMIDANTE>Cuando BEBE me contó sobre su enamorado, tenía que verlo por mí misma.\! Hasta ahora, no apareció... pero BEBE me dijo que estamos buscando a alguien con una obvia peluca rubia.
+
+message_91:
+      text: \n<CHICA INTIMIDANTE>Fiuf...\! BEBE tiene un gusto muy malo en chicos...\!<br>¿Quién va a cuidar de ella cuando yo vuelva a la universidad?
+
+#INTIMIDATING GIRL: If Hero is the leader
+
+message_92:
+      text: \n<CHICA INTIMIDANTE>¡Oye! ¡HERO, eres tú! Jiji...\! Es tan raro verte aquí en lugar de en la universidad.
+
+message_93:
+      text: \n<CHICA INTIMIDANTE>Asumo que también estás visitando a tu familia...\! La familia está bien y todo, pero no puedo esperar a volver con mis amigos... Nunca ocurre nada interesante por aquí, ¿sabes?
+
+#==============BRENT===========================================
+#Location:  Brent's House
+
+message_100:
+      text: \n<CHICO QUE PARECE LISTO>Hola, tutores. Gracias por ayudarme con mi tarea...\!<br>Creo que ahora puedo hacerla yo solo...
+
+#If you snuck out Brent
+
+message_101:
+      text: \n<CHICO QUE PARECE LISTO>\}Psst...\! pero por lo que en realidad quería agradecerte es por dejarme escabullirme ayer...\! Jejeje...\! ¡Son los mejores tutores de la historia!
+
+#==============SCHOOL PRINCIPAL===========================================
+#Location:  Kim's House
+
+message_110:
+      text: \n<DIRECTORA>\}Como decía...\!puedes creer...\! y ella...\!pero entonces...\! mhmm...
+
+#==============OLD BEARDY===========================================
+#Location:  Graveyard
+
+message_120:
+      text: \n<VIEJO BARBUDO>Los espíritus han estado aullando todo el día...\!<br>Rezo por este vecindario.\!<br>Alguien estará afligido esta noche.
+
+#==============CHARLIE'S MOM===========================================
+#Location:  Charlie's House
+
+message_130:
+      text: \n<ABUELA CON MOÑO>¡Oh, veo que has hecho amigos!\!<br>¡Hola! ¡Bienvenidos!
+
+message_131:
+      text: \n<ABUELA CON MOÑO>Ustedes son tan amables al visitar una abuelita solitaria en un día tan bello.\! Estoy segura que hay maneras mucho mejores de pasar su tiempo.
+
+#==============CRIS'S DAD===========================================
+#Location:  Cris's House (where is the remote quest 3)
+
+message_140:
+      text: \n<TIPO AMERICANO>\Com[2]¡Oye! ¡Ya había sonado el silbato!\! \Com[2]¿¡Dóde diablos está el árbitro!?
+
+#==============CRIS'S MOM===========================================
+#Location:  Cris's House
+
+message_150:
+      text: \n<MAMÁ AMERICANA>El último pay que horneé olía un poco raro cuando lo saqué del horno...\! ¡Espero no estar perdiendo el toque!
+
+#==============Daphne and Bowen===========================================
+#Location:  The Mavericks House (Pet Rock Fight)
+
+message_160:
+      text: \n<UN GEMELO>Nuestro hermanito MIKHAEL está destinado a ser un maestro panadero...
+
+message_161:
+      text: \n<EL OTRO GEMELO>Pronto, aceptará su destino...\! No hay escape...
+
+message_162:
+      text: \n<UN GEMELO>\SINV[1]Tonto hermanito...\SINV[0]
+
+message_163:
+      text: \n<EL OTRO GEMELO>\SINV[1]Tonto hermanito...\SINV[0]
+
+#==============JESSE===========================================
+#Location:  Jesse's House
+
+message_170:
+      text: \n<CHICO CON AURICULARES>Fiuf...\! Cuando era más jóven, tenía dos grandes amigos llamados BRENT y JOY, pero luego se pusieron muy serios sobre los estudios, así que dejé de juntarme con ellos.
+
+message_171:
+      text: \n<CHICO CON AURICULARES>Me pregunto cómo estarán estos días...
+
+#==============JESSE'S DAD===========================================
+#Location:  FARAWAY PARK
+
+message_180:
+      text: \n<FRENTE ARRUGADA>No estoy muy seguro sobre esto, pero este montón de basura apareció de la noche a la mañana.\! Tengo un presentimiento de que esos RECICULTISTAS están detrás de esto...
+
+message_181:
+      text: \n<FRENTE ARRUGADA>Fiuf...\! Estaré aquí atrapado limpando para siempre.
+
+
+#==============JOY===========================================
+#Location:  Joy's House
+
+message_190:
+      text: \n<CHICA PEQUEÑA>Mi hermano mayor MICHAEL me dijo que se iría hoy de casa para convertirse en músico...
+
+message_191:
+      text: \n<CHICA PEQUEÑA>No debí hacerlo... pero se lo dije a Papá por accidente.\!<br>Espero que MICHAEL no se enoje conmigo...
+
+#==============JOY'S DAD===========================================
+#Location:  Joy's House (Michael's Lunch quest)
+
+message_200:
+      text: \n<CEJOTAS>Sniff...\! Oh...\! He sido tan duro con MICHAEL estos últimos años...
+
+message_201:
+      text: \n<CEJOTAS> Espero poder verlo otra vez uno de estos días\! ¡Tal vez incluso en la TV! ¡Jaja!
+
+#==============KAREN===========================================
+#Location:  Sean's House (Cooking help quest)
+
+message_210:
+      text: \n<SEÑORITA CON COLETAS>Gracias por toda su ayuda de nuevo.<br>\!¡Ustedes son gente tan genuinamente amables!
+
+message_221:
+      text: \n<CHICO A CUADROS>¡Nos vemos en la fiesta esta noche! ¡Los estaremos esperando!
+
+#==============KEL'S DAD===========================================
+#Location: FARAWAY PARK (Forgot Meat quest)
+#Finish Forgot Meat (Before Sunset)
+
+message_230:
+      text: \n<PAPÁ DE KEL>Deberían pasar por aquí más tarde luego del atardecer.\!<br>¡Definitivamente querrán probrar unas de mis deliciosas \c[3]HAMBURGUESAS\c[0]!
+
+message_231:
+      text: \n<PAPÁ DE KEL>Pero por ahora, vayan y disfruten su día.\!<br>¡El clima hoy es grandioso!
+
+#==============KEL'S MOM===========================================
+#Location:  FARAWAY PARK
+
+message_240:
+      text: \n<MAMÁ DE KEL>¡Qué tal, chicos! ¡Qué bueno ver que finalmente están pasando tiempo de calidad conmigo!
+
+message_241:
+      text: \n<MAMÁ DE KEL>Por favor, quédense un rato.\!<br>¡Estamos teniendo el mejor clima hoy!
+
+#==============KIM and VANCE'S DAD===========================================
+#Location:  HARDWARE STORE (fix pipe quest 3)
+
+message_250:
+      text: \n<TIPO BRUSCO>¡Hola! Saben, tengo un hijo y una hija de su edad.\! ¡Sus nombres son VANCE y KIM!
+
+message_251:
+      text: \n<TIPO BRUSCO>Su madre y yo hemos estado separados desde que eran jóvenes...
+
+message_252:
+      text: \n<TIPO BRUSCO>No los veo tan seguido cómo me gustaría, ¡así que me aseguro de malcriarlos con \c[3]CARAMELO\c[0] cuando los veo! Je je...
+
+message_254:
+      text: \n<TIPO BRUSCO>Son buenos chicos... ¡en serio!\! Me preocupan un poco ya que siempre se estánmetiendo en problemas, pero al menos se tienen el uno al otro.
+
+#==============KIM and VANCE'S MOM===========================================
+#Location:  Kim's House
+
+message_260:
+      text: \n<DAMA DE LENTES ROJOS>\}Fue como esa vez que nosotros...\! sí...\! y entonces...\! honestamente, creo que...\! sí, definitivamente...
+
+#==============Lucas(Dog)===========================================
+#Location:  Artist's House, running around Angel
+
+message_270:
+      text: \n<BUEN PERRO>\SINV[1]¡Aaaaau\{uuu\{uuu!\!\SINV[0]\QUAKE[1] \{¡Guau, guau, guau!\QUAKE[0]
+
+#==============Polly===========================================
+#Location:  Basil's House
+
+message_280:
+      text: \n<POLLY>BASIL ha estado mucho consigo mismo últimamente, así que seguramente se siente solo...
+
+message_281:
+      text: \n<POLLY>Que bueno saber que BASIL tiene amigos que se preocupan tanto por él.
+
+#==============Preacher===========================================
+#Location:  Church
+
+message_290:
+      text: \n<PREDICADOR>Ah, me temo que no tendremos un sermón hoy, pero siéntanse libres de usar este lugar para acomodar sus pensamientos.\! Todos son bienvenidos aquí.
+
+#==============Sally===========================================
+#Location:  FARAWAY PARK
+
+#Randomly selected
+message_300:
+      text: \n<SALLY>\SINV[1]Aguuuu... Uguuuguuuuguu...\SINV[0]
+
+message_301:
+      text: SALLY aprieta su cara de formas raras.
+
+message_302:
+      text: SALLY te tiró de la nariz.
+
+message_303:
+      text: SALLY se sentó en tu pie.
+
+message_304:
+      text: SALLY está rodando.
+
+#==============SARAH===========================================
+#Location: Sarah's House
+
+message_310:
+      text: \n<CHICA CON COLETA>\sinv[1]¡Yupi!\sinv[0]\! ¡Mamá dijo que iremos a \c[11]GINO'S PIZZA\c[0] esta noche!
+
+#==============SARAH'S DAD===========================================
+#Location: Sarah's House watching TV on the couch together
+
+message_320:
+      text: \n<TIPO TORPE>\SINV[1]Zzzzzzzzz...\! Zzz...\SINV[0]
+
+#==============SARAH'S MOM===========================================
+#Location: Sarah's House watching TV on the couch together
+
+message_330:
+      text: \n<SEÑORITA CON COLETA>Esta...\! sniff...\! es mi película favorita desde siempre...\! sniff...
+
+#==============SEAN===========================================
+#Location: Aubrey's Street in front of his house
+
+message_340:
+      text: \n<CHICO A CUADROS>¡Hola, chicos! Solo les recuerdo que tendremos nuestra fiesta de bienvenida de casa esta noche.\!<br>¡Todos en esta calle están invitados!
+
+message_341:
+      text: \n<CHICO A CUADROS>¡Espero verlos esta noche!<br>Tendremos mucha comida.
+
+#after cooking help Quest
+#refer to 210 and 221

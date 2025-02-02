@@ -1,0 +1,112 @@
+
+# =========================================================================================
+# STOLEN
+# ========================================================================================
+
+#SAVE FOR IMPLEMENTATION:
+
+
+#IF STOLEN QUEST WAS COMPLETED:
+
+#Location: Last Resort entrance
+message_80:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \her¡Oigan, son ustedes de nuevo!
+
+message_81:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kel¡Eres el que nos dio el \c[4]CHANTAJE\c[0] para ROSA!
+
+message_82:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub¿Qué quieres ahora...\! \Com[2]BROTE SOSPECHOSO?\! ¿Presumo que nada bueno?
+
+message_83:
+    text: \n<BROTE SOSPECHOSO>\}¡Ahh!\! ¡Me malinterpretas, niña!\!<br>¡Al fin y al cabo, soy más del tipo de personaje buen samaritano!
+
+message_84:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubNo te creo nada...
+
+message_85:
+    text: \n<BROTE SOSPECHOSO>\}Mira, te lo probaré.\! ¿Acaso un BROTE SOSPECHOSO te diría información vital que podría cambiar tu vida?\! ¡No lo creo!
+
+message_86:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 25
+    text: \kelHmm...\! De acuerdo, te escucharemos...
+
+message_87:
+    text: \n<BROTE SOSPECHOSO>\}¡Me alegro de tener su atención!\! Ahora...\! se dice que las ALMEJAS serán obsoletas pronto y reemplazadas por una moneda nueva y mejor llamada...\! ¡ELMEJAS!
+
+message_88:
+    text: \n<BROTE SOSPECHOSO>\}De acuerdo a mis fuentes confiables,\. ¡este cambio puede posiblemente ocurrir en cualquier momento e inutilizar por completo todas sus ALMEJAS!\! No quieres que pase eso, ¿verdad?
+
+message_89:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herBueno, ehh...
+
+message_90:
+    text: \n<BROTE SOSPECHOSO>\}¡Sí! Eso apestaría, ¿verdad?\! Pero aquí está el truco...
+
+message_91:
+    text: \n<BROTE SOSPECHOSO>\}Ya que yo sabía de esto, ¡estuve acumulando la nueva y valiosa moneda llamada ELMEJAS en secreto!
+
+message_92:
+    text: \n<BROTE SOSPECHOSO>\}¡Como el buen samaritano que soy, con gusto se las intercambiaré por todas sus ALMEJAS!
+
+message_93:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelWow, ¿¡de veras!?\! ¿Harías eso por nosotros?
+
+message_94:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub¡KEL! No lo escuches.\!<br>Esto es...\! más que sospechoso...\! Esto es...\! ilegal...
+
+message_95:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelPero AUBREY... ¡¿no lo oíste!?\!<br>¡Van a reemplazar la ALMEJAS por ELMEJAS!\!<br>¿¡Qué haremos si nos quedamos sin dinero!?
+
+message_96:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kel¿Tú que crees, OMORI?\!<br>¿Deberíamos cambiar nuestras ALMEJAS por ELMEJAS?
+
+#yes/no
+
+message_97:
+    text: \n<BROTE SOSPECHOSO>\}Excelente...\! No te arrepentirás.\!<br>Gracias por todas tus ALMEJAS...\!<br>Ahora...\! ten unas ELMEJAS a cambio...
+
+message_98:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub¡OMORI! ¿Por qué escuchaste a KEL?\!<br>Estoy segura que esto ni siquiera es dinero real...
+
+message_99:
+    text: \n<BROTE SOSPECHOSO>\}¿Por qué quisieran quedarse con sus ALMEJAS anticuadas?\!<br>¡Las ELMEJAS son el futuro!\! ¡Debes reconsiderar!
+
+message_100:
+    text: \n<BROTE SOSPECHOSO>\}¡Disfruta de tus ELMEJAS!\! <br>¡Ahora debo ir a ayudar a quiénes necesitan ELMEJAS!\! ¡Adiós!
+
+message_102:
+    text: Conseguiste \c[4]ELMEJAS\c[0]...\! la moneda del futuro...
+
+message_103:
+    text: ¡Encontraste tus ALMEJAS robadas!
+
+#FOUND him
+
+
+message_105:
+    text: \n<BROTE ALCALDE>\Com[2]¡Ahh! ¡Cuidado, niño!\! Pudiste haber arruinado una poción increíbemente delicada.
+
+message_106:
+    text: \n<BROTE ALCALDE>Si las medidas para este experimento no son 100% seguras...\! ¡la reacción química causaría una explosión con suficiente fuerza que destruiría la aldea entera!

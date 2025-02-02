@@ -1,0 +1,151 @@
+# =========================================================================================
+# Cooking Help
+# =========================================================================================
+
+message_0:
+      text: \n<KAREN>¡Oh, hola!\! ¡Te recuerdo! Eres el niño que eligió el papel tapiz para nuestra casa.\! ¡Veo que trajiste a tus amigos!
+
+message_1:
+      text: \n<KAREN>Si estás aquí por la fiesta, lo siento. Aún es un poco temprano...
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelOh vaya... ¡Perdon, culpa nuestra!\! ¡Volveremos más tarde!
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \her¿Hm?\! Sniff...\! ¿Eh?\! ¿oléis eso?\!<br>Huele como si algo se estuviera quemando...
+
+message_4:
+      text: \n<KAREN>\com[2]\{\quake[1]¡¡AAAAAAHHHHHHH!!\quake[0] ¡LO SIENTO, UN MOMENTO!
+
+#KAREN slams the door, then reopens it
+
+message_5:
+      text: \n<KAREN>...
+
+message_6:
+      text: \n<KAREN>Oye...\! Em...\! ¿Por casualidad alguno de vosotros cocina?\! Tal vez necesite algo de ayuda con la cena...
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel¿Un cocinero?\! ¡Pues hoy es tu día de suerte!<br>\!¡Mi hermano HERO es un excelente cocinero!\! ¡Definitivamente podrá cocinar algo ahora mismo! Je je...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \her¿E-Eh?\! Bueno... Supongo que puedo intentarlo.
+
+message_9:
+      text: \n<KAREN>¡Oh, mil gracias!\! ¡Por favor, pasad!
+
+#Talk to KAREN inside
+
+message_10:
+      text: \n<KAREN>Siento molestarlos con esto...\! Es mi primera vez cocinando para tantas personas, así que estoy algo nerviosa...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelNo se preocupe.\! ¡La ayudaremos! ¿Verdad, chicos?
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herOh... De acuerdo... \!¡Vamos, equipo!\!<br>¡Es hora de cocinar!
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \aub¿Eh? Espera... ¿Yo también?
+
+message_14:
+    faceset: MainCharacters_Faraway
+    faceindex: 38
+    text: \her¡Claro!\! Solíamos cocinar todos juntos cuando éramos niños, ¿recuerdas?
+
+message_15:
+    text: \n<KAREN>¡Muchas gracias! ¡Sois libres de usar cualquier ingrediente!\! Aunque, no tengo mucho...
+
+message_16:
+    faceset: MainCharacters_Faraway
+    faceindex: 30
+    text: \herNo te preocupes... ¡Sé que podremos hacer algo delicioso!\!<br>¡Empecemos!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\Com[2]\{\SINV[1]¡¡SÍ, CAPITÁN!!\SINV[0]
+
+# ===============================================
+#Cutscene: Hero helps KAREN Cook
+# ===============================================
+
+#SEAN walks inside.
+
+message_18:
+      text: \n<SEAN>Wow... ¿Qué es eso que huele tan bien?
+
+message_19:
+      text: \n<KAREN>¡Oh, hola SEAN!\! ¡Nuestros amigos me estaban ayudando a preparar la cena para la fiesta de esta noche!
+
+message_20:
+      text: \n<SEAN>Pues...\! ¡Parece que están haciendo un gran trabajo!\!<br>¡Ya terminé de preparar todo afuera así que déjame ayudar también!
+
+message_21:
+      text: \n<KAREN>\sinv[1]¡Yupi!\! ¡A cocinar todos juntos!
+
+#Cooking montage: Everyone standing near the oven
+
+message_22:
+      text: \n<KAREN>\sinv[1]Fiu...\sinv[0] ¡Listo!\! ¡Con vuestra ayuda, esta fiesta será un gran éxito!
+
+message_23:
+      text: \n<KAREN>Gracias a todos otra vez por su ayuda.<br>\!¡Sois muy amables!
+
+message_24:
+    faceset: MainCharacters_Faraway
+    faceindex: 29
+    text: \her¡Sin problema!\! Gracias por confiarnos con su cocina...<br>\!¡Realmente disfrutamos cocinar con vosotros!
+
+message_25:
+    faceset: MainCharacters_Faraway
+    faceindex: 14
+    text: \kel¡Sí, fue muy divertido!\! ¡No puedo esperar a comer todo esto en la fiesta esta noche!
+
+message_26:
+      text: \n<CHICO A CUADROS>¡Os estaremos esperando!
+
+message_27:
+      text: \n<KAREN>¡Cuídaos!
+
+
+message_100:
+      text: \n<KAREN>¡Hola a todos! ¡Entrad!\! ¡La fiesta va a empezar!
+
+message_101:
+      text: ¡Deliciosas \c[3]GALLETAS\c[0]!
+
+message_102:
+      text: ¡Un \c[3]PIE\c[0] viejo!
+
+message_103:
+      text: ¡Un \c[3]PIE\c[0] fresco!
+
+message_104:
+      text: Un buen pollo rostizado.
+
+message_105:
+      text: Ensalada...
+
+message_106:
+      text: \n<SEAN>¡Ey! ¿Estáis emocionados por la fiesta de esta noche?\! ¡Nos veremos alli!
+
+message_107:
+      text: Un plato de comida sin terminar.
+
+message_108:
+      text: ¡Una deliciosa \c[3]REBANADA DE PASTEL\c[0]!

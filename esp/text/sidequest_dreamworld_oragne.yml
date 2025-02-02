@@ -1,0 +1,141 @@
+
+# =========================================================================================
+# Long Lost Brother
+# ========================================================================================
+
+#Talk to NARANJA JOE:
+
+message_0:
+      text: NARANJA JOE está lanzando naranjas.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28 #needs appropriate faceset
+      text: \kelHey...\! uh...\! ¿qué estás haciendo?
+
+message_2:
+      text: \n<NARANJA JOE>Mi nombre es NARANJA JOE ¡y estoy lanzando NARANJAS!
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kel¡Whoa! ¡Eso es genial!
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28 #needs appropriate faceset
+      text: \kel¿Pero por qué?
+
+message_5:
+      text: \n<NARANJA JOE>Porque...\! Yo estoy...\! sniff...\!<br>Buscando a mi hermano gemelo perdido hace tiempo...\! NARAJNA JOE...
+
+message_6:
+      text: \n<NARANJA JOE>Fuimos separados al nacer, pero en mi corazón cítrico... <br>Sé que todavía está por ahí en algún lugar.
+
+message_7:
+      text: \n<NARANJA JOE>Cada naranja lleva inscrito un mensaje que explica quién soy y cómo encontrarme...
+
+message_8:
+      text: \n<NARANJA JOE>Espero que lanzando estas naranjas en todas las direcciones <br>una de ellas lo alcanzará y lo guiará hasta mí.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1 #needs appropriate faceset
+      text: \aubAwww...\! Eso es muy dulce.\!<br>Espero que al final encuentres a tu hermano...
+
+message_10:
+      text: \n<NARANJA JOE>¡Gracias, jovencita!\! Sé que lo haré.\! <br>¡Mi cuerpo está sano y lleno de esperanza y vigor!
+
+message_11:
+      text: \n<NARANJA JOE>Pero...\! por si acaso...\! Si llegas a ver a mi gemelo, <br>por favor, dale esta \c[4]CRESTA NARANJA\c[0].\! <br>Sé que me llevará a él de alguna manera.
+
+message_12:
+      text: Conseguiste una \c[4]CRESTA NARANJA\c[0].
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelNo temas, mi querido amigo NARANJA JOE.\! ¡Seguro que encontraremos a tu hermano!
+
+#Cutscene: Found at Last!
+
+message_14:
+      text: \whoEh?\! ¿Dónde estoy?\! ¿Quién es usted?
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19 #needs appropriate faceset
+      text: \kelEspera un segundo...\! Me resultas familiar.\!<br>Esa forma de cuerpo...\! Ese exterior cítrico...\! Es innegable.
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kelDebes ser el hermano gemelo de NARANJA JOE...\! NARAJNA JOE!
+
+message_17:
+      text: \n<NARAJNA JOE>Mi nombre...\! es NARAJNA JOE?\! Y...\! ¿Tengo un hermano gemelo?
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18 #needs appropriate faceset
+      text: \kelSí, ¡y te ha estado buscando todo este tiempo!\!<br>¡Toma, coge esto! ¡Nos dijo que te lo diéramos!
+
+message_19:
+      text: Le diste a NARAJNA JOE la \c[4]CRESTA NARANJA\c[0].
+
+message_20:
+      text: \n<NARAJNA JOE>Esta...\! ¡Esta cresta!\! ¿Podría ser?\! <br>Desde que era joven, he buscado por todas partes mi verdadero hogar...
+
+message_21:
+      text: \n<NARAJNA JOE>Lo único que he tenido a mi nombre ha sido este colgante con un escudo en forma de naranja grabado...
+
+message_22:
+      text: \n<NARAJNA JOE>El mismo que aparece en esta \c[4]CRESTA NARANJA\c[0]!
+
+message_23:
+      text: \n<NARAJNA JOE>Todo tiene mucho sentido ahora...\! <br>¡Ya sé quién soy!\! Debo ser...\!<br>NARAJNA JOE!
+
+#NARANJA JOE walks in.
+
+message_24:
+      text: \n<NARANJA JOE>\Com[2]Hermano!\! ¡No puedo creer lo que ven mis ojos!\! Realmente eres tú.
+
+message_25:
+      text: \n<NARAJNA JOE>Sí, hermano!\! Soy yo...\! NARAJNA JOE!
+
+message_26:
+      text: \n<NARANJA JOE>No hay ningún error.\! Puedo sentirlo en mi corazón cítrico.\!<br>¡Oh, cómo te he echado de menos, querido hermano!
+
+message_27:
+      text: \n<NARAJNA JOE>Sí!\! ¡Mi cuerpo está lleno de esperanza y vigor!\!<br>¡Cómo he esperado este día!\!<br>¡Nos encontramos por fin, querido hermano!
+
+message_28:
+      text: \n<NARANJA JOE>¡Abracémonos!
+
+#NARANJA JOE AND NARAJNA JOE hug?
+
+message_29:
+      text: \n<NARANJA JOE>Debo agradecerles, niños...\! He pensado en mi querido hermano durante todos los días de mi vida, ¡y ahora por fin está aquí!
+
+message_30:
+      text: \n<NARANJA JOE>Por favor, tomen esto como una muestra de mi agradecimiento.
+
+message_31:
+      text: Conseguiste \c[3]MERMELADA VITAL\c[0]!
+
+message_32:
+      text: \n<NARAJNA JOE>Sí!\! Gracias por reunirnos...\!<br>He esperado tanto tiempo para encontrar mi verdadero hogar.\! <br>Toma esto!\! Es un regalo mio!
+
+message_33:
+      text: Conseguiste otra \c[3]MERMELADA VITAL\c\c[0]!
+
+message_34:
+      text: \n<NARANJA JOE>¡Ven ahora, querido hermano! ¡Vamos a casa!
+
+message_35:
+      text: \n<NARAJNA JOE>¡Eres demasiado gentil, querido hermano!\!<br>Para celebrar este encuentro, ¡caminemos juntos!
+
+message_36:
+      text: \n<NARANJA JOE y NARAJNA JOE>\sinv[1]¡Esperanza y vigor!\! ¡Esperanza y vigor!\! ¡Esperanza y vigor!
+
+#NARANJA JOE AND NARAJNA JOE walk off

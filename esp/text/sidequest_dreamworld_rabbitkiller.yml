@@ -1,0 +1,61 @@
+
+# =========================================================================================
+# RABBIT KILLER
+# ========================================================================================
+
+message_1:
+      text: \n<HOJITA>¿Sabes que odio más que nada en el mundo?\!<br>\quake[1]Conejitos.\quake[0]\! Así es.\! \quake[1]Conejitos.\quake[0]
+
+message_2:
+      text: \n<HOJITA>Los odio tanto.\!<br>Si tuviera un solo deseo en el mundo, <br>sería destruir a todos los \quake[1]conejitos.\quake[0]
+
+#If you killed at least 1 bunny
+
+message_3:
+      text: \n<HOJITA>Oye, ¡veo que has derrotado a algunos \quake[1]conejitos!\quake[0]\!<br>Sí, así es.\! Puedo saber cuantos \quake[1]conejitos\quake[0] has derrotado con solo mirarte.
+
+message_4:
+      text: \n<HOJITA>Así de tanto odio a los \quake[1]conejitos.\quake[0]
+
+message_5:
+      text: \n<HOJITA>Oye, escúchame.\! Hagamos un trato.\!<br>Si derrotas al menos a 5 \quake[1]conejitos,\quake[0] vuelve a mí y dímelo...\! Te daré algo agradable.
+
+message_6:
+      text: \n<HOJITA>¡Ahora ve y destruye esos \quake[1]conejitos!\quake[0]
+
+#MEETING GOALS
+
+#Set variable for number of bunnies defeated and the next count
+
+message_7:
+      text: \n<HOJITA>\Com[2]¡Espléndido!\! Veo que has destruido más \quake[1]conejitos.\quake[0]\!<br>¡Ya van \v[615] \quake[0]conejitos destruidos\quake[0]!\!<br>Muchas gracias, mi amigo odia-conejitos.
+
+message_8:
+      text: \n<HOJITA>Ahora...\! si tan solo podrías derrotar \v[1001] \quake[1]conejitos\quake[0],<br>¡te daré otro premio!
+
+#DEFAULT TEXT:
+
+message_9:
+      text: \n<HOJITA>¡Hola, mi querido odia-conejitos!\!<br>Al mirarte a los ojos, puedo ver que has derrotado \v[615] \quake[1]conejitos\quake[0].
+
+message_10:
+      text: \n<HOJITA>Debes matar \v[1001] \quake[1]conejitos\quake[0] más para tu siguiente premio.\!<br>¡Ahora vé y mata a más \quake[1]conejitos!\quake[0]
+
+#PRIZES: COTTON BALL, BUNNY EARS, RABBIT FOOT, CONSUMABLES
+
+message_11:
+      text: Conseguiste una \c[13]BOLA DE ALGODÓN\c[0].
+
+message_12:
+      text: Conseguiste \c[13]OREJAS CONEJO\c[0].
+
+message_13:
+      text: Conseguiste una \c[13]PATA DE CONEJO\c[0].
+
+#After defeating 50 bunnies
+
+message_15:
+      text: \n<HOJITA>\Com[2]¡Espléndido!\! ¡No tengo nada más que pedirte, mi querido odia-conejitos!
+
+message_16:
+      text: \n<HOJITA>¡Ahora ve y destruye más \quake[1]conejitos!\quake[0]

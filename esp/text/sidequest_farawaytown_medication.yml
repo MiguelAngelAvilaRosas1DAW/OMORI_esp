@@ -1,0 +1,67 @@
+
+# =========================================================================================
+# Sidequest: Medication
+# =========================================================================================
+
+message_1:
+      text: \n<ABUELA CON MOÑO>Ajem...\! ajem...\! Perdonad las moléstias pero...\! ¿Me podéis ayudar?
+
+message_2:
+      text: \n<ABUELA CON MOÑO>Necesito recoger mi medicina semanal de la \c[11]FARMACIA\c[0], pero no me siento bien ahora mismo.\! Normalmente mando a mi hija CHARLENE, pero no está aquí ahora mismo.
+
+message_3:
+      text: \n<ABUELA CON MOÑO>¿Seríais tan amables de ir a recogerla por mí?
+
+#yes/no
+
+#if yes ---PRESCRIPTION es RECETA y ID CARD es DNI GRANNYS MEDICINE es MEDICINA ABUELITA --- VANDAGES es VENDAS - FIRST AID KIT es BOTIQUÍN
+
+message_6:
+      text: Conseguiste la \c[4]RECETA\c[0] y el \c[4]DNI\c[0].
+
+message_8:
+      text: \n<ABUELA CON MOÑO>Muchas gracias muchachos.\! Simplemente hablad con el hombre de la \c[11]FARMACIA\c[0].\! Él lo entenderá.
+
+#Talk to FARMACÉUTICO
+
+message_9:
+      text: \n<FARMACÉUTICO>Uhmmm...\! ¡Hola!\! ¿En qué puedo ayudaros?
+
+message_10:
+      text: Le diste la \c[4]RECETA\c[0] y el \c[4]DNI\c[0] al farmacéutico.
+
+message_11:
+      text: \n<FARMACÉUTICO>¡Ah, así que venís a recoger la medicina!
+
+message_12:
+      text: \n<FARMACÉUTICO>...\! ¡Ah, ya se para quién es, un momentito!
+
+message_13:
+      text: Conseguiste \c[4]MEDICINA ABUELITA\c[0].
+
+message_14:
+      text: Conseguiste \c[4]DNI\c[0].
+
+message_15:
+      text: \n<FARMACÉUTICO>¿Hoy la recogeis vosotros en vez de su hija?
+
+message_16:
+      text: \n<FARMACÉUTICO>No debería dar la medicación de esta manera...\! pero haré una excepción porque sé que ella no es capaz de venir a recogerla por si misma.
+
+message_17:
+      text: \n<FARMACÉUTICO>Gracias por ayudarla.\! ¡Buen día chicos!
+
+message_18:
+      text: \n<FARMACÉUTICO>Si alguna vez necesitais \c[5]VENDAS\c[0] o un \c[5]BOTIQUÍN\c[0], aquí estais cubiertos.
+
+message_20:
+      text: \n<ABUELA CON MOÑO>¡Oh, habeis vuelto!
+
+message_21:
+      text: Das la \c[4]MEDICINA\c[0] y el \c[4]DNI\c[0] a la ABUELA CON MOÑO.
+
+message_22:
+      text: \n<ABUELA CON MOÑO>Ejem...\! ejem...\!<br>Muchísimas gracias.\! ¡Habeis sido de gran ayuda!\!<br>Me llena de orgullo ver a jovenzuelos ayudando a viejetes en estos días.
+
+message_23:
+      text: \n<ABUELA CON MOÑO>Sois bienvenidos a mi casa siempre que queráis.

@@ -1,0 +1,58 @@
+
+# =========================================================================================
+# Sidequest: Old Hobo
+# =========================================================================================
+
+#Intro
+
+message_0:
+      text: \n<VIEJO VAGABUNDO>\SINV[2]Ojojojo...\! Hola...\! Cof...\! \QUAKE[1]¡A-jiek!\! ¡A-jiek!
+
+message_1:
+      text: \n<VIEJO VAGABUNDO>Ahh...\! Hermoso día, ¿no creen?
+
+message_2:
+      text: \n<VIEJO VAGABUNDO>Puede que no tenga nada de dinero, pero al menos la luz del sol es gratis.
+
+#Default
+
+message_3:
+      text: \n<VIEJO VAGABUNDO>\quake[1]Cof...\quake[0]\! Bueno, jóvenes...\!<br>¿Podríais ayudar a este pobre hombre en esto tiempos tan dificiles?
+#After reaching donation goal
+
+message_4:
+      text: \n<VIEJO VAGABUNDO>¡Ah, sois vosotros!\! ¡Tengo buenas noticias!\!<br>¡He ganado la loteria!
+
+message_5:
+      text: \n<VIEJO MILLONARIO>Habeis sido muy amables conmigo...\! Por favor tomad esto como un símbolo de apreciación.
+
+#Replace million dollar bill with actual reward for quest
+
+message_6:
+      text: VIEJO MILLONARIO te dio $\v[603].00!
+
+message_7:
+      text: \n<VIEJO MILLONARIO>¿Lo ves?\! ¡Te dije que os pagaría de vuelta!\!<br>\SINV[2]\QUAKE[1]¡A-jiek!\! ¡A-jiek!
+
+message_8:
+      text: \n<VIEJO MILLONARIO>¿Hm?\! ¿Qué porque sigo aquí si soy rico?
+
+message_9:
+      text: \n<VIEJO MILLONARIO>¡Estoy disfrutando el resplandor del sol, por supuesto!\!<br>\sinv[1]¡Puedo preocuparme de todo lo demás mañana!\sinv[0]
+
+message_20:
+      text: Le has donado \v[603].00$ al VIEJO MILLONARIO.
+
+message_21:
+      text: \n<VIEJO MILLONARIO>¡Gracias, chicos! ¡Me aseguraré de pagaros de vuelta de alguna manera!\!<br>\SINV[2]\QUAKE[1]¡A-jiek!\! ¡A-jiek!
+
+message_22:
+      text: ¡Conseguiste $\v[603].00!
+
+# =========================================================================================
+
+message_25:
+      text: \n<VIEJO VAGABUNDO>¿Ahh...\! Una noche preciosa, ¿no lo crees?
+
+message_26:
+      text: \n<VIEJO VAGABUNDO>¡Puede que no tenga dinero, pero al menos el resplandor de la luna es gratis!

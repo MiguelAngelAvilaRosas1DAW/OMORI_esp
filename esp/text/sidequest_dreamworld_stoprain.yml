@@ -1,0 +1,180 @@
+
+# =========================================================================================
+# STOP THE RAIN
+# ========================================================================================
+
+#Talk to Potatogirl
+
+message_1:
+      text: \n<NIÑO VEGETAL>\Com[2]¡Ahhhh!\! ¡Está lloviendo muy fuerte!\!<br>¡Nos está poniendo ligeramente incómodos!
+
+message_2:
+      text: \n<NIÑO VEGETAL>Hay una válvula mística por aquí la cual controla nuestra lluvia, pero el ELEGIDO puede girarla...
+
+message_3:
+      text: \n<NIÑO VEGETAL>Si nadie nos ayuda, ¡estaremos condenados a estar ligeramente incómodos para siempre!
+
+#EXTRA VEGGIE KID VILLAGERS:
+
+message_4:
+      text: \n<NIÑO VEGETAL>¡Estamos ligeramente incómodos!\! ¡Por favor deténlo!
+
+message_5:
+      text: \n<NIÑO VEGETAL>Estoy solo un poco molesto por la lluvia.
+
+message_6:
+      text: \n<NIÑO VEGETAL>Si tan solo la lluvia fuera un poco más suave...
+
+message_7:
+      text: \n<NIÑO VEGETAL>Está lloviendo un poco mucho, ¿no crees?
+
+message_8:
+      text: \n<NIÑO VEGETAL>Estoy incómodo.
+
+message_9:
+      text: \n<NIÑO VEGETAL>Esta lluvia es un poco intolerable.
+
+message_10:
+      text: \n<NIÑO VEGETAL>Estoy sintiendo muy poco malestar físico.
+
+message_11:
+      text: \n<NIÑO VEGETAL>En la escala de cómodo a incómodo,\. dónde 1 es muy cómodo y 10 es muy incómodo,\. soy un 6.
+
+message_12:
+      text: \n<NIÑO VEGETAL>¡Aj!
+
+message_13:
+      text: \n<NIÑO VEGETAL>¡Puaj!
+
+message_14:
+      text: \n<NIÑO VEGETAL>¡Guácala!
+
+message_15:
+      text: \n<NIÑO VEGETAL>¡Feo!
+
+message_16:
+      text: \n<NIÑO VEGETAL>¡Asco!
+
+message_17:
+      text: \n<NIÑO VEGETAL>¡Asqueroso!
+
+#EXAMINE VALVE AS OMORI
+
+message_18:
+      text: ¿Te gustaría girar la válvula ligeramente a la izquiera o a la derecha?
+
+#[RIGHT/LEFT]
+#[RIGHT]
+message_19:
+      text: DERECHA
+#RAIN BECOMES lighter
+#Song changes to Puddles
+
+message_20:
+      text: La lluvia es ligeramente más suave ahora.
+
+#[LEFT]
+message_21:
+      text: IZQUIERDA
+#[Screen turns black.]
+
+message_45:
+      text: La lluvia se intensificó e inundó \c[11]RAIN TOWN\c[0].\! Nunca se volvió a escuchar de <br>\c[11]RAIN TOWN\c[0] ni de sus habitantes.
+
+#[Party teleports to Oasis.]
+
+message_46:
+      text: ¡Eres el salvador de \c[11]RAIN TOWN\c[0]!
+
+#EXAMINE VALVE AS anyone else
+
+#[RIGHT/LEFT]
+message_22:
+      text: No se mueve.
+
+#Talk to Potatogirl after adjusting Valve
+message_23:
+      text: \n<NIÑO VEGETAL>¡La lluvia se ajustó!\! ¡Qué bien!\!<br>¡Gracias, ELEGIDO!\!<br>Recordaremos su amabilidad para siempre.
+
+#TOMATO KID walks up
+message_24:
+      text: \n<NIÑO VEGETAL>¿Qué sucede, niño?\! ¿Quieres ir con ellos?\! ¿Estás seguro?
+
+#VEGGIE KID (Tomato) turns to VEGGIE KID (Potato).
+
+message_25:
+      text: \n<NIÑO VEGETAL>Si eso es lo que deseas...
+
+message_26:
+      text: \n<NIÑO VEGETAL>ELEGIDO...\! Este niño desea unirse a tu búsqueda.\!<br>Ahora es suya.\! Cuídala por favor.
+
+message_27:
+      text: Conseguiste un \c[13]NIÑO VEGETAL\c[0].
+
+#Potato speaking:
+message_28:
+      text: \n<NIÑO VEGETAL>¡Vayan, héroes! ¡Su viaje los espera!
+
+#QUEST complete
+
+#After quest dialogue
+
+#talk to potatogirl
+message_29:
+      text: \n<NIÑO VEGETAL>¡Vayan, héroes! ¡Su viaje los espera!
+
+#extra veggie kid VILLAGERS
+
+message_30:
+      text: \n<NIÑO VEGETAL>¡La lluvia ahora tiene la intensidad perfecta!
+
+message_31:
+      text: \n<NIÑO VEGETAL>Ahh...\! tan...\! cómodo...
+
+message_32:
+      text: \n<NIÑO VEGETAL>Estoy satisfecho con la cantidad de lluvia.
+
+message_33:
+      text: \n<NIÑO VEGETAL>La lluvia es cómoda ahora que es más ligera...
+
+message_34:
+      text: \n<NIÑO VEGETAL>Está lloviendo la cantidad perfecta, ¿no crees?
+
+message_35:
+      text: \n<NIÑO VEGETAL>Estoy cómodo.
+
+message_36:
+      text: \n<NIÑO VEGETAL>¡Esta lluvia se siente bien!
+
+message_37:
+      text: \n<NIÑO VEGETAL>Me siento cómodo.
+
+message_38:
+      text: \n<NIÑO VEGETAL>En la escala de cómodo a incómodo,\. dónde 1 es muy cómodo y 10 es muy incómodo,\. soy un 1.
+
+message_39:
+      text: \n<NIÑO VEGETAL>¡Hurra!
+
+message_40:
+      text: \n<NIÑO VEGETAL>¡Se siente bien!
+
+message_41:
+      text: \n<NIÑO VEGETAL>¡Yupi!
+
+message_42:
+      text: \n<NIÑO VEGETAL>¡Sí!
+
+message_43:
+      text: \n<NIÑO VEGETAL>¡Ajá!
+
+message_44:
+      text: \n<NIÑO VEGETAL>¡Yay!
+
+message_50:
+      text: La superficie del agua es brillante.
+
+message_51:
+      text: ¿Quieres mirar intensamente?
+
+message_52:
+      text: La superficie del agua emite una energía malévola.
