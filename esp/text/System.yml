@@ -508,7 +508,7 @@ InputNames:
 plugins:
   mainMenu:
     commands:
-      - ['???', 'LIDERAR', 'PUÑALADA']
+      - ['???', 'LIDERAR', 'APUÑALAR']
       - EQUIPO
       - BOLSILLO
       - HABILIDADES
