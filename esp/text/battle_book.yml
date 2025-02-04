@@ -1,0 +1,394 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: Un libro de AUTOAYUDA sobre batallas, ¡escrito verdaderamente por el gran(HERO)!\! ¿Sobre qué te gustaría recibir ayuda?
+
+message_1:
+    text: ESTADÍSTICAS
+
+message_2:
+    text: EMOCIONES
+
+message_3:
+    text: SEGUIMIENTO
+
+message_100:
+    text: HABILIDADES
+
+message_101:
+    text: EQUIPO
+
+message_102:
+    text: JUGUETES
+
+message_103:
+    text: SUBIR DE NIVEL
+
+#-----
+#STATS
+
+message_4:
+    text: ¿Sobre qué ESTADÍSTICAS te gustaría saber más?
+
+message_5:
+    text: CORAZÓN
+
+message_6:
+    text: CORAZÓN muestra la cantidad de daño que puedes recibir antes de convertirte en una TOSTADA.\! ¡Los amigos que son TOSTADAS ya no pueden luchar en la batalla!
+
+message_7:
+    text: JUGO
+
+message_8:
+    text: Se necesita JUGO para usar \c[1]HABILIDADES\c[0], que tienen varios efectos.\! Diferentes \c[1]HABILIDADES\c[0] pueden requerir diferentes cantidades de JUGO.
+
+message_9:
+    text: ATAQUE
+
+message_10:
+    text: Un ATAQUE más alto aumenta el daño infligido a un enemigo, más o menos.
+
+message_11:
+    text: DEFENSA
+
+message_12:
+    text: Una DEFENSA más alta reduce la cantidad de daño recibido de un enemigo ... generalmente ...
+
+message_13:
+    text: VELOCIDAD
+
+message_14:
+    text: La VELOCIDAD determina el orden en el que amigos y enemigos realizan sus acciones.
+
+message_15:
+    text: SUERTE
+
+message_16:
+    text: ¡La SUERTE afecta la tasa de GOLPE CRÍTICO, la cuál es tu oportunidad de asestar un golpe más poderoso a un enemigo!
+
+message_17:
+    text: TASA DE ACIERTOS
+
+message_18:
+    text: TASA DE ACIERTOS afecta tu probabilidad de golpear a un enemigo.\! Cuanto menor sea tu tasa de aciertos, más probabilidades tendrás de que sufras ataques.
+
+message_19:
+    text: ENERGÍA
+
+message_20:
+    text: ENERGÍA es una estadística colectiva compartida entre todos tus amigos y es necesaria para realizar un movimiento de SEGUIMIENTO.\! Para leer más sobre ENERGÍA, consulta la sección de SEGUIMIENTO.
+
+
+#-----
+#EMOTIONS
+
+message_200:
+    text: ¿Sobre que EMOCIONES te gustaría saber más?
+
+message_21:
+    text: VISIÓN GENERAL
+
+message_22:
+    text: Las EMOCIONES pueden determinar qué tan efectivo es un ataque.\! FELIZ vence a ENOJADO...\! ENOJADO vence a TRISTE...\! ¡y TRISTE vence a FELIZ!<br>Las EMOCIONES también afectan a diferentes ESTADÍSTICAS tanto para amigos como para enemigos.\! Consulte la TABLA DE EMOCIONES en su BOLSILLO IMPORTANTE para una fácil visualización.
+
+message_300:
+    text: Además, las EMOCIONES de los enemigos derrotados pueden otorgar efectos de bonificación.\! Los enemigos FELICES tienen un objeto y una tasa de caída de ALMEJAS más altos, mientras que los enemigos ENOJADOS darán más EXP.<br>Lamentablemente, los enemigos TRISTES no tienen bonificaciones adicionales, pero suelen ser más fáciles de derrotar.
+
+message_23:
+    text: FELIZ
+
+message_24:
+    text: Un amigo/enemigo FELIZ tendrá más SUERTE y VELOCIDAD, pero una TASA DE ACIERTOS menor.
+
+message_25:
+    text: Cuando un amigo/enemigo está aún más FELIZ, se vuelve EXTÁTICO.
+
+message_26:
+    text: La SUERTE y VELOCIDAD de un amigo/enemigo EXTÁTICO aumentan aún más, pero la TASA DE ACIERTOS también disminuye en consecuencia.
+
+message_27:
+    text: TRISTE
+
+message_28:
+    text: Un amigo/enemigo TRISTE tendrá mayor DEFENSA, pero menor VELOCIDAD.\! Parte del daño que se le haría al CORAZÓN se le hace a JUGO en su lugar.
+
+message_29:
+    text: Cuando un amigo/enemigo está aún más TRISTE, se DEPRIME.
+
+message_30:
+    text: Un amigo/enemigo DEPRIMIDO tiene una DEFENSA aún más alta y una VELOCIDAD aún más baja.\! Parte del daño que se le haría al CORAZÓN se le hace a JUGO en su lugar.
+
+message_31:
+    text: ENOJADO
+
+message_32:
+    text: Un amigo/enemigo ENOJADO aumentará el ATAQUE, pero disminuirá la DEFENSA.
+
+message_33:
+    text: Cuando un amigo/enemigo está aún más ENOJADO, se ENFURECEN.
+
+
+message_34:
+    text: Un amigo/enemigo ENFURECIDO tiene un ATAQUE mucho más alto, pero su DEFENSA disminuye aún más.
+
+#==
+#FOLLOW UP
+
+message_201:
+    text: ¿Qué ocurre con los SEGUIMIENTOS sobre los que te gustaría saber más?
+
+message_35:
+    text: VISIÓN GENERAL
+
+message_36:
+    text: Un movimiento de SEGUIMIENTO es una acción adicional que un amigo puede realizar después de su ataque normal.
+
+message_37:
+    text: Para hacer un SEGUIMIENTO, ataca y luego presiona el botón correspondiente al movimiento de SEGUIMIENTO que quieras usar.
+
+message_38:
+    text: ENERGÍA
+
+message_39:
+    text: ENERGÍA es una estadística colectiva compartida entre amigos.
+
+message_40:
+    text: Hacer un SEGUIMIENTO cuesta 3 ENERGÍA, excepto LIBERAR ENERGÍA que cuesta 10.
+
+message_41:
+    text: Las batallas comienzan con 3 ENERGÍA y se gana 1 ENERGÍA cada vez que un enemigo inflige daño a un amigo.
+
+#OMORI FOLLOW UP
+
+message_42:
+    text: OMORI
+
+message_43:
+    text: ¿Sobre cuál de los SEGUIMIENTOS DE OMORI te gustaría saber más?
+
+message_44:
+    text: ATACAR DE NUEVO
+
+message_45:
+    text: ¡OMORI ataca una vez más!
+
+message_145:
+    text: ¡OMORI ataca una vez más, con sentimiento!
+
+message_245:
+    text: ¡OMORI ataca dos veces más, con sentimiento!
+
+message_46:
+    text: TROPEZAR
+
+message_47:
+    text: OMORI apunta a un ataque bajo y reduce la VELOCIDAD del enemigo.
+
+message_147:
+    text: OMORI apunta a un ataque bajo, reduciendo la VELOCIDAD del enemigo y haciéndolo sentir TRISTE.
+
+message_247:
+    text: OMORI apunta a un ataque bajo, reduciendo en gran medida la VELOCIDAD del enemigo objetivo y haciéndolo sentir TRISTE.
+
+message_48:
+    text: LIBERAR ENERGÍA
+
+message_49:
+    text: ¡Todos se unen para el ataque definitivo e infligen un gran daño a todos los enemigos!
+
+#AUBREY FOLLOW UP
+
+message_250:
+    text: AUBREY
+
+message_50:
+    text: ¿Sobre cuál de los SEGUIMIENTOS DE AUBREY te gustaría saber más?
+
+message_51:
+    text: MIRAR A OMORI
+
+message_52:
+    text: AUBREY intenta que OMORI la note, ¡así que ataca con fuerza al mismo enemigo!
+
+message_152:
+    text: AUBREY intenta que OMORI la note, ¡así que ataca con fuerza al mismo enemigo!
+
+message_252:
+    text: AUBREY intenta que OMORI se fije en ella, por lo que realiza un ataque más fuerte contra el mismo enemigo que ignora su DEFENSA.
+
+message_53:
+    text: MIRAR A KEl
+
+message_54:
+    text: KEL molesta a AUBREY y la hace ENOJAR.
+
+message_154:
+    text: KEL molesta a AUBREY, haciéndolos enojar a ambos y aumentando su ATAQUE.
+
+message_254:
+    text: KEL molesta a AUBREY, enfureciéndolos a ambos y elevando su ATAQUE.
+
+message_55:
+    text: MIRAR A HERO
+
+message_56:
+    text: HERO anima a AUBREY, haciéndola FELIZ y aumentando su DEFENSA.
+
+message_156:
+    text: HERO anima a AUBREY, haciéndola FELIZ, aumentando su DEFENSA y recuperando el 25% de su CORAZÓN.
+
+message_256:
+    text: HERO anima a AUBREY, haciéndola EXTÁTICA, aumentando su DEFENSA, recuperando el 75% de su CORAZÓN y recuperando el 50% de su JUGO.
+
+#KEL FOLLOW UP
+
+message_57:
+    text: KEL
+
+message_202:
+    text: ¿Sobre cuál de los SEGUIMIENTOS de KEL te gustaría saber más?
+
+message_58:
+    text: PASE A OMORI
+
+message_59:
+    text: KEL pasa el balón a OMORI, infligiendo 1 daño a OMORI y haciéndolo sentir TRISTE.
+
+message_159:
+    text: KEL pasa el balón a OMORI, infligiendo daño a un enemigo y haciendo FELIZ a OMORI.
+
+message_259:
+    text: KEL pasa el balón a OMORI, infligiendo gran daño a un enemigo y dejando a OMORI EXTÁTICO.
+
+message_60:
+    text: PASE A AUBREY
+
+message_61:
+    text: ¡KEL lanza la pelota a AUBREY, quien la saca del parque e inflige daño a un enemigo aleatorio!
+
+message_161:
+    text: ¡KEL lanza la pelota a AUBREY, quien la saca del parque e inflige un gran daño a un enemigo aleatorio!
+
+message_261:
+    text: ¡KEL lanza la pelota a AUBREY, quien la saca del parque e inflige un gran daño a un enemigo aleatorio!
+
+message_62:
+    text: PASE A HERO
+
+message_63:
+    text: ¡KEL pasa el balón a HERO, quien ayuda a KEL a acabar con todos los enemigos, infligiendo daño!
+
+message_163:
+    text: ¡KEL pasa el balón a HERO, quien ayuda a KEL a hacer una clavada sobre todos los enemigos, causando un gran daño!
+
+message_263:
+    text: ¡KEL pasa el balón a HÉROE, quien ayuda a KEL a encestar a todos los enemigos, causando un gran daño y reduciendo el ATAQUE de todos los enemigos!
+
+#HERO FOLLOW UP
+
+message_64:
+    text: HERO
+
+message_203:
+    text: ¿Sobre cuál de los SEGUIMIENTOS de HERO te gustaría saber más?
+
+message_65:
+    text: LLAMAR A OMORI
+
+message_66:
+    text: HERO llama a OMORI.\! OMORI ataca, luego HERO cura el 15% del CORAZÓN de OMORI con palabras de aliento.
+
+message_166:
+    text: HERO llama a OMORI.\! OMORI ataca, luego HERO cura el 25% del CORAZÓN de OMORI y el 10% del JUGO de OMORI con palabras de aliento.
+
+message_266:
+    text: HERO llama a OMORI.\! OMORI ataca, luego HERO cura el 40% del CORAZÓN de OMORI y el 20% del JUGO de OMORI con palabras de aliento.
+
+message_67:
+    text: LLAMA A AUBREY
+
+message_68:
+    text: HERO llama a AUBREY.\! AUBREY ataca, luego HERO cura el 15% del CORAZÓN de AUBREY con palabras de aliento.
+
+message_168:
+    text: HERO llama a AUBREY.\! AUBREY ataca, luego HERO cura el 25% del CORAZÓN de AUBREY y el 10% del JUGO de AUBREY con palabras de aliento.
+
+message_268:
+    text: HERO llama a AUBREY.\! AUBREY ataca, luego HERO cura el 40% del CORAZÓN de AUBREY y el 20% del JUGO de AUBREY con palabras de aliento.
+
+message_69:
+    text: LLAMA A KEL
+
+message_70:
+    text: HERO llama a KEL.\! KEL ataca, luego HERO cura el 15% del CORAZÓN de KEL con palabras de aliento.
+
+message_170:
+    text: HERO llama a KEL.\! KEL ataca, luego HERO cura el 25% del CORAZÓN de KEL y el 10% del JUGO de KEL con palabras de aliento.
+
+message_270:
+    text: HERO llama a KEL.\! KEL ataca, luego HERO cura el 40% del CORAZÓN de KEL y el 20% del JUGO de KEL con palabras de aliento.
+
+#-----
+#SKILLS
+
+message_204:
+    text: ¿Sobre qué \c[1]HABILIDADES\c[0] te gustaría saber más?
+
+message_71:
+    text: APRENDIENDO HABILIDADES
+
+message_72:
+    text: Las \c[1]HABILIDADES\c[0] se pueden aprender SUBIENDO DE NIVEL, completando misiones secundarias y encontrando ciertos elementos.\! Algunas \c[1]HABILIDADES\c[0] Como la \c[1]COCINA DE HERO\c[0] se puede usar fuera de la batalla.
+
+message_73:
+    text: INTERCAMBIO DE HABILIDADES
+
+message_74:
+    text: Cada amigo puede tener hasta 4 \c[1]HABILIDADES\c[0] equipadas a la vez.
+
+message_75:
+    text: Puedes seleccionar que \c[1]HABILIDADES\c[0] quieres que tenga cada amigo a través del MENÚ DEL JUGADOR.
+
+#---
+#EQUIPS
+
+message_205:
+    text: ¿Te gustaría saber mas acerca de EQUIPOS?
+
+message_76:
+    text: ARMAS
+
+message_77:
+    text: LAS ARMAS aumentan el ATAQUE del portador.\!<br>Tus amigos solo pueden equipar su propia ARMA.
+
+message_78:
+    text: AMULETOS
+
+message_79:
+    text: Los AMULETOS pueden ser equipados por cualquier persona.\!<br>La mayoría de los AMULETOS otorgan bonificaciones de estadísticas, pero algunos tienen efectos únicos.
+
+#----
+#TOYS
+
+message_80:
+    text: Los JUGUETES se utilizan durante la batalla para apoyar a tus amigos o infligir daño a los enemigos.\! No pueden ser utilizados fuera de la batalla.
+
+#----
+#LEVELING UP
+
+message_81:
+    text: OMORI y sus amigos No-TOSTADOS ganan EXP después de cada batalla.\! Una vez que se alcanza una cierta cantidad de EXP, ese amigo SUBIRÁ DE NIVEL.
+
+message_82:
+    text: ¡Cuando un amigo SUBE DE NIVEL, obtienen estadísticas y de vez en cuando aprenderán una nueva \c[1]HABILIDAD\c[0]!
+
+message_83:
+    text: Puedes ver la EXP requerida para alcanzar el siguiente NIVEL examinando el degradado púrpura-rosa debajo del nombre de cada amigo en el MENÚ DEL JUGADOR.
+
+
+#----
+
+message_1000:
+    text: NO IMPORTA

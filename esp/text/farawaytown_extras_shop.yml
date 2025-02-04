@@ -1,0 +1,428 @@
+
+# =========================================================================================
+# FARAWAY TOWN Shops
+# =========================================================================================
+
+            #Supermarket
+
+#Intro
+message_1:
+      text: \n<CHICA OTHERMART>¡HOLA!\! 你是要 YUMMY \c[3]PESCADO\c[0] ¿吗?\! ¡是!
+
+#Purchase
+message_2:
+      text: \n<CHICA OTHERMART>¡VALE!\! ¡谢谢, 孩子!
+
+message_3:
+      text: \n<CHICA OTHERMART>¡HOLA!\! 你是要 \c[3]PESCADO\c[0] ¿吗?\! ¡是!
+
+message_4:
+      text: Conseguiste \c[4]CARNE\c[0].
+
+message_5:
+      text: Conseguiste un \c[3]PESCADO\c[0].
+#Insufficient Funds
+message_6:
+      text: \n<CHICA OTHERMART>PERDÓN.\! NO TIENES DINERO.
+#item buying prompt
+message_100:
+      text: \n<CHICA OTHERMART>¿ESTÁ ESTE PRECIO BIEN? $<SHOPTOTAL>.00.\^
+#max item message
+message_101:
+      text: \n<CHICA OTHERMART>NO TENEMOS MÁS ESPACIO, ¡PERDÓN!\.\^
+#on item list buy ok
+message_102:
+      text: \n<CHICA OTHERMART>¿CUÁNTO DESEAS?\.\^
+#item selling ok
+message_103:
+      text: \n<CHICA OTHERMART>¿CUÁNTO DESEAS?\.\^
+#item selling prompt
+message_104:
+      text: \n<CHICA OTHERMART>¿ESTÁ ESTE PRECIO BIEN? $<SHOPTOTAL>.00.
+#item selling cancel prompt
+message_105:
+      text: \n<CHICA OTHERMART>BUEN TRABAJO.
+#item buying cancel
+message_106:
+      text: \n<CHICA OTHERMART>OK.
+
+
+            #Bakery
+
+#Intro
+message_7:
+      text: \n<SR. PANADERO>¡Bienvenido a nuestra panadería familiar! ¿Qué le gustaría?
+#Purchase
+message_8:
+      text: \n<SR. PANADERO>¡Excelente elección! ¡Envolveré eso para usted ahora mismo!
+#Insufficient Funds
+message_9:
+      text: \n<SR. PANADERO>¡No tienes suficiente dinero para nuestros deliciosos productos horneados!
+#item buying prompt
+message_80:
+      text: \n<SR. PANADERO>¡Vale! El total será $<SHOPTOTAL>.00.\.\^
+#max item message
+message_81:
+      text: \n<SR. PANADERO>Parece que eso es todo lo que puedes tener.\.\^
+#on item list buy ok
+message_82:
+      text: \n<SR. PANADERO>¿Cuántos te gustaría?\.\^
+#item selling ok
+message_83:
+      text: \n<SR. PANADERO>Oh, ¿Quieres vendernos algo?
+#item selling prompt
+message_84:
+      text: \n<SR. PANADERO>El total será $<SHOPTOTAL>.00.\.\^
+#item selling cancel prompt
+message_85:
+      text: \n<SR. PANADERO>Gracias. ¡Vuelve cuando quieras!
+#item buying cancel
+message_86:
+      text: \n<SR. PANADERO>¿Oh? ¿Cambiaste de opinión?
+
+message_10:
+      text: \n<SRA. PANADERA>¡Oh hola, niños!\! Tengo un chico justo de su edad.\!<br>Siempre está escapándose con sus amigos problemáticos, usando esa horrible peluca suya...
+
+message_11:
+      text: \n<SRA. PANADERA>¡Él debería intentar ser más responsable como sus hermanos mayores!
+
+message_12:
+      text: \n<SRA. PANADERA>¡Hemos estado dirigiendo esta panadería por cuatro generaciones, desde que mi mamá llegó hasta aquí desde el otro lado del mar!
+
+message_13:
+      text: \n<SRA. PANADERA>Espero que un día mis hijos sean capaces de seguir la tradición de manejar esta panadería...\! ¡Significaría todo para mí y mi esposo!
+
+            #Candy Shop
+
+#Intro
+message_14:
+      text: \n<SRTA. CANDICE>¡Hola-hola! ¡Soy yo!\! ¡La feliz y alegre SRTA. CANDICE!<br>¿Qué te gustaría hoy? ¡Sonrisa, sonrisa!
+#Purchase
+message_15:
+      text: \n<SRTA. CANDICE>¡Gracias! ¡Sonrisa, sonrisa!
+#Insufficient Funds
+message_16:
+      text: \n<SRTA. CANDICE>Oh, querido...\! ¡Parece que no tienes suficiente dinero!\!<br>¡Sonrisa, sonrisa!
+#item buying prompt
+message_70:
+      text: \n<SRTA. CANDICE>¡Seguro! El total será $<SHOPTOTAL>.00.<br>¡Sonrisa, sonrisa!\.\^
+#max item message
+message_71:
+      text: \n<SRTA. CANDICE>Perdón, ¡Supongo que no puedes llevar todo eso!\!<br>¡Sonrisa, sonrisa!\.\^
+#on item list buy ok
+message_72:
+      text: \n<SRTA. CANDICE>¡Dulce! ¿Cuántos te gustaría? ¡Sonrisa, sonrisa!\.\^
+#item selling ok
+message_73:
+      text: \n<SRTA. CANDICE>¿Qué es esto? ¿Me estás vendiendo a mí? ¡Sonrisa, sonrisa!\.\^
+#item selling prompt
+message_74:
+      text: \n<SRTA. CANDICE>¡Creo que pagaré esta cantidad! ¡Sonrisa, sonrisa!\.\^
+#item buyin cancel prompt
+message_75:
+      text: \n<SRTA. CANDICE>¡Muchas gracias! ¡Sonrisa, sonrisa!
+#item buying cancel
+message_76:
+      text: \n<SRTA. CANDICE>Oh, ¡Eso está bien! ¡Eso está bien!<br>¡Sonrisa, sonrisa!
+
+message_77:
+      text: \n<SRTA. CANDICE>¡Por favor vuelve otra vez!\! (Si no...)
+
+message_78:
+      text: \n<SRTA. CANDICE>¡Sonrisa, sonrisa!
+
+            #Pharmacy
+
+#Intro
+message_17:
+      text: \n<FARMACÉUTICO>Niños, ¿necesitan algo para cortes o raspaduras?
+
+#Default
+message_18:
+      text: \n<FARMACÉUTICO>Me pregunto cómo le está yendo a mi hijo BRENT en casa...\!<br>Espero que no se sienta muy solo sin mí.
+
+#item buying prompt
+message_90:
+      text: \n<FARMACÉUTICO>Claro, hijo. El total será $<SHOPTOTAL>.00.\.\^
+#max item message
+message_91:
+      text: \n<FARMACÉUTICO>¡No puedes llevar más de eso, hijo!\.\^
+#on item list buy ok
+message_92:
+      text: \n<FARMACÉUTICO>Absolutamente. ¿Cuántos te gustaría, hijo?\.\^
+#item selling ok
+message_93:
+      text: \n<FARMACÉUTICO>Oh, ¿Me estás pidiendo que compre algo?\.\^
+#item selling prompt
+message_94:
+      text: \n<FARMACÉUTICO>Claro, hijo. El total será $<SHOPTOTAL>.00.\.\^
+#item selling cancel prompt
+message_95:
+      text: \n<FARMACÉUTICO>Gracias. ¡Vuelve cuando quieras, hijo!
+#item buying cancel
+message_96:
+      text: \n<FARMACÉUTICO>¿Así que cambiaste de opinión?
+#item buying confirmation prompt
+message_97:
+      text: \n<FARMACÉUTICO>Aquí tienes, hijo... ¡Cuídate!
+#not enough money
+message_98:
+      text: \n<FARMACÉUTICO>No tienes suficiente dinero para esto, hijo.
+
+            #Hobbeez
+
+#  data.texts.itemBuyingPromptMessage = 'farawaytown_extras_shop.message_19'
+#  data.texts.itemBuyingConfirmationMessage = 'farawaytown_extras_shop.message_20'
+#   	data.texts.notEnoughMoneyMessage = 'farawaytown_extras_shop.message_21';
+#    data.texts.maxItemMessage = 'XX_GENERAL.message_50';
+#    data.texts.onItemListBuyOkMessage = 'XX_GENERAL.message_52';
+#    data.texts.onItemListSellOkMessage = 'XX_GENERAL.message_53';
+#    data.texts.itemSellingPromptMessage = 'XX_GENERAL.message_55'
+#    data.texts.itemSellingConfirmationMessage = 'XX_GENERAL.message_57'
+#    data.texts.itemBuyingCancelMessage = 'XX_GENERAL.message_58'
+#    data.texts.itemSellingCancelMessage = 'XX_GENERAL.message_59'
+
+
+#Intro
+message_19:
+      text: \n<VENDEDOR>¡Hey, campeones! ¡Decidme si encontrais algo que queréis!
+#Purchase
+message_20:
+      text: \n<VENDEDOR>Muchas gracias.\! Espero que disfruten sus productos con poco uso.
+#Insufficient Funds
+message_21:
+      text: \n<VENDEDOR>Whoa, parece que no tienen suficiente dinero ahí.\! Perdón, campeones.
+#item buying prompt
+message_40:
+      text: \n<VENDEDOR>¿Esto es genial para ti? Será $<SHOPTOTAL>.00.\.\^
+#max item message
+message_41:
+      text: \n<VENDEDOR>Estás llevando mucho de eso. ¡No quiero sobrecargarte!\.\^
+#on item list buy ok
+message_42:
+      text: \n<VENDEDOR>Claro, campeón. ¿Cuánto te gustaría?\.\^
+#item selling ok
+message_43:
+      text: \n<VENDEDOR>HOBBEEZ no es solo una tienda de pasatiempos... ¡También es una casa de empeño!\!<br>¡Compraré cualquier cosa que no quieres!\! ¿Qué quieres vender hoy?
+#item selling prompt
+message_44:
+      text: \n<VENDEDOR>¿$<SHOPTOTAL>.00 te parece bien?\.\^
+#item selling cancel prompt
+message_45:
+      text: \n<VENDEDOR>¡Gracias, campeón!
+#item buying cancel
+message_46:
+      text: \n<VENDEDOR>¿Así que cambiaste de opinión?
+
+message_700:
+      text: \n<VENDEDOR>¿Cuántos de estos quieres vender?\.\^
+
+
+            #GINO'S PIZZA
+
+#note: [Purchase Item] will be replaced with the item that the player bought, or make the statement more general
+#Intro
+message_22:
+      text: \n<PIZZERO>¡Hola y bienvenido a \c[11]GINO'S PIZZA\c[0]!\!<br>¿Qué puedo hacer por ti?
+#Purchase
+message_23:
+      text: \n<PIZZERO>¡Deliciosa elección! ¡Ya viene!
+#Exclamation mark on PIZZERO
+message_24:
+      text: \n<PIZZERO>Mmm... ?Tu pedido?...<br>\! O  sea, un ?Pedido? ¡ya sale!
+#Insufficient Funds
+message_25:
+      text: \n<PIZZERO>Perdón... ¡Te lo daría si pudiera!<br>¡Vuelve cuando tengas el dinero!
+#item buying prompt
+message_50:
+      text: \n<PIZZERO>¡De acuerdo! Saldrá... $<SHOPTOTAL>.00.\.\^
+#max item message
+message_51:
+      text: \n<PIZZERO>¿Estás seguro que puedes llevar todo eso?\!<br>No parece ser así...\.\^
+#on item list buy ok
+message_52:
+      text: \n<PIZZERO>¡De acuerdo! ¿Cuántos quieres?\.\^
+#item selling ok
+message_53:
+      text: \n<PIZZERO>Claro... ¿Cuántos vas a vender?\.\^
+#item selling prompt
+message_54:
+      text: \n<PIZZERO>Hmm... ¿Crees que esto será suficiente?
+#item selling cancel prompt
+message_55:
+      text: \n<PIZZERO>¡Muchas gracias!
+#item buying cancel
+message_56:
+      text: \n<PIZZERO>Ah... ¿Cambiaste de opinión?
+
+            #Hardware Store
+
+#Intro
+message_26:
+      text: \n<TIPO DE ARREGLA-TODO>Bienvenido a \c[11]ARREGLA-TODO\c[0]...<br>¡Donde puedes comprar cosas y \c[11]ARREGLARLO\c[0] tú mismo!\!<br>¿Qué le gustaría?
+#Purchase
+message_27:
+      text: \n<TIPO DE ARREGLA-TODO>¡Genial! Envolveré eso para ti enseguida.
+#Insufficient Funds
+message_28:
+      text: \n<TIPO DE ARREGLA-TODO>Lo siento, hombre. No tienes suficiente dinero para eso.
+#item buying prompt
+message_60:
+      text: \n<TIPO DE ARREGLA-TODO>¿Qué tal? El total será $<SHOPTOTAL>.00.\.\^
+#max item message
+message_61:
+      text: \n<TIPO DE ARREGLA-TODO>¡No tienes suficiente espacio para eso!\.\^
+#on item list buy ok
+message_62:
+      text: \n<TIPO DE ARREGLA-TODO>¿Cuántos te gustaría?\.\^
+#item selling ok
+message_63:
+      text: \n<TIPO DE ARREGLA-TODO>¿De cuántos quieres deshacerte?\.\^
+#item selling prompt
+message_64:
+      text: \n<TIPO DE ARREGLA-TODO>Va a salir... más o menos esto.\.\^
+#item selling cancel prompt
+message_65:
+      text: \n<TIPO DE ARREGLA-TODO>Buen trabajo.
+#item buying cancel
+message_66:
+      text: \n<TIPO DE ARREGLA-TODO>Bueno... Está bien, entonces.
+
+          #apple guy / orange guy
+
+#item buying prompt
+message_120:
+      text: \n<CHICO NARANJA>¡Excelente! ¿Qué tal?
+#max item message
+message_121:
+      text: \n<CHICO NARANJA>¡No puedes llevar tanto jugo!
+#on item list buy ok
+message_122:
+      text: \n<CHICO NARANJA>¿Cuántos te gustaría?
+#item selling ok
+message_123:
+      text: \n<CHICO NARANJA>¿Cuántos quieres vender?
+#item selling prompt
+message_124:
+      text: \n<CHICO NARANJA>Va a salir... $<SHOPTOTAL>.00.
+#item selling cancel prompt
+message_125:
+      text: \n<CHICO NARANJA>¡Gracias!
+#item buying cancel
+message_126:
+      text: \n<CHICO NARANJA>¿No? Pero es saludable...
+
+
+#item buying prompt
+message_130:
+      text: \n<CHICO MANZANA>¡Excelente! ¿Qué tal?
+#max item message
+message_131:
+      text: \n<CHICO MANZANA>¡No puedes llevar tanto jugo!
+#on item list buy ok
+message_132:
+      text: \n<CHICO MANZANA>¿Cuánto te gustaría?
+#item selling ok
+message_133:
+      text: \n<CHICO MANZANA>¿Cuántos quieres vender?
+#item selling prompt
+message_134:
+      text: \n<CHICO MANZANA>Va a salir... $<SHOPTOTAL>.00.
+#item selling cancel prompt
+message_135:
+      text: \n<CHICO MANZANA>¡Gracias!
+#item buying cancel
+message_136:
+      text: \n<CHICO MANZANA>¿No? Pero es saludable...
+
+
+            #Supermarket
+
+#Ponytail Cashier 1
+message_30:
+      text: \n<CAJERO DE OTHERMART>Hay muchos tipos de tamales en el mercado ahora.\! No necesito nada de eso. ¡Tamales enlatados son suficiente para mí!
+
+#Ribbon Cashier 2
+message_31:
+      text: \n<CAJERO DE OTHERMART>En mi opinión, la comida solo es un vehículo para la salsa.
+
+#Glasses Cashier 3
+message_32:
+      text: \n<CAJERO DE OTHERMART>Si te sientes estresado, ¿puedo sugerir beber un poco de té?\! ¡Té negro y la manzanilla son buenos, pero el té de burbujas es mi favorito!
+
+#Tall Cashier 4
+message_33:
+      text: \n<CAJERO DE OTHERMART>La comida no es mi cosa preferida, pero un empleo es un empleo.\! Auque me gustan los nuggets de pollo.
+
+#Cashier 5
+message_34:
+      text: \n<CAJERO DE OTHERMART>¡Me encantan las cebollas verdes!\!<br>¡Son deliciosas y nutritivas!
+
+
+# =========================================================================================
+# Vending Machines
+# =========================================================================================
+
+#Intro     start at 140
+message_140:
+      text: Una máquina expendedora.\!<br>Comprar una \c[3]SODA SABROSA\c[0] por $1.00?\$
+
+message_142:
+      text: No tienes suficiente dinero.
+
+message_144:
+      text: No tienes suficiente espacio para esa \c[3]SODA SABROSA\c[0].
+
+message_143:
+      text: ¡Una fría \c[3]SODA SABROSA\c[0] salió de la máquina expendedora!
+
+#Examine when Sold out
+message_141:
+      text: Una máquina expendedora.\! Todo está agotado.
+
+# =========================================================================================
+# FA Meat man
+# =========================================================================================
+
+
+#Butcher quotes for shop
+
+message_201:
+      text: \n<CARNICERO>¡Tengo un trabajo y es vender \c[4]CARNE\c[0]!
+
+#Full inventory
+message_202:
+      text: \n<CARNICERO>Ni siquiera yo podría cargar tanta \c[4]CARNE\c[0].
+
+#Insufficient Funds
+message_203:
+      text: \n<CARNICERO>Puedo cortar esta \c[4]CARNE\c[0], pero no puedo cortar mis precios.
+
+#Purchase
+message_204:
+      text: \n<CARNICERO>Vale, ahí tienes.\! Disfruta tu deliciosa \c[4]CARNE\c[0]!
+
+#on item list buy ok
+message_205:
+      text: \n<CARNICERO>¿Cuántas puedo conseguir para ti?\.\^
+
+#item buying prompt
+message_206:
+     text: \n<CARNICERO>¿Qué tal suena esto? El total será $<SHOPTOTAL>.00.\.\^
+
+
+#itemBuyingConfirmationMessage
+message_207:
+      text: \n<CARNICERO>Claro, bada-bing.
+
+
+#item buyin cancel prompt
+message_208:
+      text: \n<CARNICERO>¿Cambiaste de opinión?
+
+message_209:
+      text: \n<CARNICERO>Espero que nos veamos de nuevo.
+
+#BATINO
+message_300:
+      text: \n<EMPLEADO DE ARREGLA-TODO>MANDO me tiene haciendo todo.\! ¿Cómo se supone que llegue al estante más alto si se agotaron las escaleras?

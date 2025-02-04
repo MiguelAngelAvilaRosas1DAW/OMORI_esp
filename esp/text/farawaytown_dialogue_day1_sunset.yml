@@ -1,0 +1,296 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 1 - SUNSET
+#=========================================================================================
+
+
+#========================== BASIL================================
+
+#Location: Basil's House (Cutscene: Polly)
+#BASIL's eyes follow \n[8].
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \n<BASIL>O-Oh...\! Hola...\! \n[8]...
+
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \n<BASIL>Es genial verte otra vez...\! Jaja...
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: \n<BASIL>¿P-Por qué me estás mirando así?
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 36
+      text: \n<BASIL>E-Em...\! ¿\n[8]?\! ¿Está...\! todo bien?
+
+#========================== ANGEL================================
+
+#Location: Hobbeez looking at comics (Pet Rock Fight)
+
+message_10:
+      text: \n<ANGEL>\Com[2]¿¡Qué estás mirando!?\! ¡Solo para que lo sepas, soy un cliente regular! ¡Debo estudiar los últimos cómics antes de volver a la escuela!
+
+#========================== CHARLIE (CHARLENE)================================
+
+#Location: Hardware store looking at flowers
+
+message_20:
+      text: \n<CHARLIE>...
+
+#========================== THE MAVERICK================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_30:
+      text: \n<EL MAVERICK>\Com[2]¡Ah!\! ¡Pero si son KEL y \n[8]!
+
+message_31:
+      text: \n<EL MAVERICK>Podreis haberme humillado...\! ¡pero ha llegado el momento de que \Com[2]EL MAVERICK se redima!
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEm... ¿De qué hablas MIKHAEL?
+
+message_33:
+      text: \n<EL MAVERICK>Grr...\! Ahora veras...
+
+message_34:
+      text: \n<EL MAVERICK>\Com[2]\{¡KEL!\!\Com[2] ¡TE DESAFÍO A UNA CARRERA!\}
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kel...\! ¿Es enserio?
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelHaber MIKHAEL...\! No creo que sea justo para ti...
+
+message_37:
+      text: \n<EL MAVERICK>\Com[2]¡Ha!\! ¡Eso es lo que dices ahora!\!<br>¡Pero solo espera a ver los resultados de mi entrenamiento!
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelMIKHAEL, en serio.\!<br>Soy rápido.\! Muy, \SINV[1]MUY\SINV[0] rápido.
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel¡Hey, ya se!\! ¡Puedes utilizar tu scooter para que sea mas justo!
+
+message_40:
+      text: \n<EL MAVERICK>\{\Com[2]¡¡NO TE TENGO MIEDO!!\}
+
+message_41:
+      text: \n<EL MAVERICK>¡Mucho hablar pero poco correr es lo que veo yo!\!<br>\Com[2]¡Puedo superarte sin problemas!
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \kelUgh...\! Voy a tener que hacer esto, ¿verdad?
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelUn momento, \n[8].\! Será muy rápido.
+
+#PLAYER is at the finish line.
+#CAMERA pans to KEL and THE MAVERICK who are on the other side of the track.
+
+
+message_44:
+      text: \n<EL MAVERICK>\Com[2]\{\SINV[1]¡¡PREPARADOOOOOOOS!!\SINV[0]
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelListos...
+
+message_46:
+      text: \n<EL MAVERICK y KEL>\Com[2]\SINV[1]¡¡YA\{AA\{AAA\{AAA\{AAAAA!!\SINV[0]
+
+#KEL runs quickly, and the camera follows
+#After a few seconds,THE MAVERICK slowly walks into the screen from off CAMERA
+
+message_47:
+      text: \n<EL MAVERICK>Uff...\| Uff...\| Uff...\| Uff...\| Espera...\!<br>Quiero...\| Uff...\| la revancha...
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelLo siento MIKHAEL...\!<br>Se está haciendo tarde, ¿sabes?
+
+message_49:
+      text: \n<EL MAVERICK>Uff...\| Uff...\| Uff...
+
+#THE MAVERICK's wig falls off and he picks it up and puts it back on.
+
+message_50:
+      text: \n<EL MAVERICK>Por...\! favor...\| Uff...
+
+message_51:
+      text: \n<EL MAVERICK>Debo...\! defender...\! mi honor...\| Uff...
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelNosotros ya nos vamos...\! ¡Hasta luego, MIKHAEL!
+
+#cutscene ends
+
+message_53:
+      text: \n<EL MAVERICK>Uff...\| Uff...\| Uff...\|<br>Te odio, KEL...
+
+message_54:
+      text: \n<EL MAVERICK>No has visto lo último de...\! \Com[2]EL MAVERICK... Uff...
+
+#========================== SHORT HAIR GIRL================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_60:
+      text: \n<CHICA DE CABELLO CORTO>Creo que encontré el amor de mi vida hoy...\!<br>¡Espero que se de cuenta!
+
+#========================== FASHIONABLE MOM================================
+
+#Location: Candy Shop
+
+message_70:
+      text: \n<MAMÁ A LA MODA>¡El chocolate es el mejor amigo de una chica!\!<br>Aunque...\! los diamantes también están arriba en la lista...
+
+#========================== STRANGE MAN================================
+
+#Location: FARAWAY PARK
+
+message_80:
+      text: \n<HOMBRE EXTRAÑO>La suciedad del planeta...\! Me asquea...\!<br>Como desearía poder...\! limpiarla por completo.
+
+#========================== OLD BEARDY===============================
+
+#Location: Graveyard
+
+message_90:
+      text: \n<VIEJO BARBUDO>Hay mucho silencio aqui, ¿no crees?\! Ni siquiera puedes escuchar el bullicio de las calles...
+
+message_91:
+      text: \n<VIEJO BARBUDO>Jaja...\! Lo único que hay aquí son espíritus errantes...\!<br>¡Oh, y yo, por supuesto!
+
+message_92:
+      text: \n<VIEJO BARBUDO>¿Por qué me miras asi?\!<br>\{\Com[2]¡AÚN NO ESTOY MUERTO!
+
+message_93:
+      text: \n<VIEJO BARBUDO>\SINV[2]\Com[2]¡¡JA\{JAJ\{AJA\{JAJA\{JAJA!!\SINV[0]
+
+#========================== DAPHNE & BOWEN===============================
+
+#Location: Church
+
+message_100:
+      text: \n<UN GEMELO>\SINV[1]Nuestra familia viene a la \c[11]IGLESIA\c[0] una vez a la semana...\SINV[0]
+
+message_101:
+      text: \n<EL OTRO GEMELO>\SINV[1]A veces dos...\SINV[0]
+
+message_102:
+      text: \n<UN GEMELO>\SINV[1]A veces tres...\SINV[0]
+
+
+#========================== POLLY===============================
+
+#Location: Basil's House
+
+#After cutscene: Polly
+message_110:
+      text: \n<POLLY>La cena estará lista pronto.\!<br>¡Por favor sentios como en casa!
+
+#After cutscene: Awkward Dinner
+message_111:
+      text: \n<POLLY>Seguramente os preguntais quién soy, ¿no?\!<br>No soy nadie en particular... solo una enfermera que cuida de la abuela de BASIL.
+
+message_112:
+      text: \n<POLLY>Hace unos meses, los padres de BASIL me contrataron como la cuidadora de BASIL ya que viajan fuera del país frecuentemente.
+
+message_113:
+      text: \n<POLLY>Intento hacer todo lo que puedo por BASIL, pero...
+
+message_114:
+      text: \n<POLLY>Desde que comencé a quedarme aquí, no puedo dejar de pensar que BASIL intenta evitarme...
+
+message_115:
+      text: \n<POLLY>Me pregunto si estoy haciendo algo mal...
+
+#==========================Preacher===============================
+
+#Location: Church
+
+message_120:
+      text: \n<PREDICADOR>Hmm...\! Usualmente no acepto peleas en medio de un sermón...\! pero parecía algo muy importante...
+
+message_121:
+      text: \n<PREDICADOR>AUBREY ha estado viniendo aquí cada semana estos últimos años.<br>Pero nunca habla con nadie.
+
+message_122:
+      text: \n<PREDICADOR>Intenté acercarme a ella un par de veces...<br>pero siempre me llama...\! emm...\! cosas malas...
+
+message_123:
+      text: \n<PREDICADOR>Se le ve preocupada.\! Creo que álguien debería hablar con ella.
+
+#==========================Sarah===============================
+
+#Location: Sarah's House
+
+message_130:
+      text: \n<CHICA CON COLETA>Oh, ¡hola!\! Escuché algo de conmoción en la cocina.\!<br>¿El \c[4]ANILLO DE BODA\c[0] de mi papá se cayó por la tubería otra vez, verdad?<br>\!Siempre pasa...
+
+message_131:
+      text: \n<CHICA CON COLETA>Aunque, él no sabe que yo lo se...\! Jeje...
+
+message_132:
+      text: \n<CHICA CON COLETA>¡En fin, hola! ¡Soy SARAH!\! ¡Es un gusto conocerte!
+
+#Talk to SARAH again
+
+message_133:
+      text: \n<SARAH>Desde que mamá comenzó con su alboroto saludable, ya no tenemos nada de picar en la casa...
+
+message_134:
+      text: \n<SARAH>Supongo que las zanahorías y el apio saben bastante bien...\! Si están cubiertas de salsa ranchera...
+
+#==========================Sarah's Dad===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_140:
+      text: \n<TIPO TORPE>Hmm...\! Perdonad chicos, ¿habéis visto una gran bolsa de patatas fritas por aquí?\! Podría jurar que compré una bolsa enorme el otro día...
+
+#==========================Sarah's Mom===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_150:
+      text: \n<SARAH>Se supone que mi familia y yo debemos comenzar a comer saludable esta semana, pero el aroma de \c[11]GINO'S PIZZA\c[0] es tentador...
+
+message_151:
+      text: \n<SARAH>Um...\! Tal vez algo grasoso está bien de vez en cuando...
+
+#==========================The Maverick's Dad===============================
+
+#Location: Church
+
+message_160:
+      text: \n<DAMA BIEN VESTIDA>Oh, no...\! Sniff...\!<br>Parece que nuestro hijo pequeño no vino a la \c[11]IGLESIA\c[0] otra vez...
+
+message_161:
+      text: \n<DAMA BIEN VESTIDA>Oh...\! MIKHAEL...\! ¿Dónde estás?\!<br>Te echamos de menos...

@@ -1,0 +1,71 @@
+
+# =========================================================================================
+# Sidequest: Ring in the Sink
+# =========================================================================================
+
+#messages to be added here
+
+message_1:
+      text: \n<TIPO TORPE>\quake[1]\{¡¡GAAAA\{AAHHHHHH\{HHHHHH!!\}\quake[0]
+
+message_2:
+      text: \n<TIPO TORPE>Oh...\! ¡H-Hola!\! Um...\! ¿quién eres tú?\! ...
+
+message_3:
+      text: \n<TIPO TORPE>\Com[2]¡Espera! ¡E-Eso no importa!<br>\Com[2]¡Tengo una emergencia!
+
+message_4:
+      text: \n<TIPO TORPE>Así queeee... ehhh...\! ¿Podeis ayudarme?
+
+#yes/no
+
+# if yes
+message_5:
+      text: \n<TIPO TORPE>¡Gracias, chicos!\!<br>\Com[2]¿A qué esperais? ¡Entrad!
+#once player is inside
+
+message_6:
+      text: \n<TIPO TORPE>¡La cocina está por aquí!\! \Com[2]¡Rápido!
+#examine Sink
+
+message_7:
+      text: \n<TIPO TORPE>Pues...\! Estaba lavando los platos, cuando de repente...\! \Com[2]¡mi \c[4]ANILLO DE BODA\c[0] se resbaló de mi dedo y cayó en la tubería!
+
+message_8:
+      text: \n<TIPO TORPE>¿Que locura no?\! Y yo que pensaba que estas cosas solo pasaban en las peliculas...
+
+message_9:
+      text: \n<TIPO TORPE>Por suerte, mi esposa está fuera y no se ha enterado todavía.\! He estado tratando de sacarlo por casi una hora y mis dedos ya empiezan a doler...
+
+message_10:
+      text: \n<TIPO TORPE>No quiero decirselo a mi esposa o mi hija SARAH...\! ¡A saber que piensan de mi!
+
+message_11:
+      text: \n<TIPO TORPE>¿Podeis ayudarme por favor?
+#yes/no
+
+#if yes
+
+message_12:
+      text: Ves algo brillante en la tubería y consigues sacarlo.
+
+message_13:
+      text: ¡Es mi \c[4]ANILLO DE BODA\c[0]!
+
+message_14:
+      text: Le diste el \c[4]ANILLO DE BODA\c[0] al PAPÁ DE SARAH.
+
+message_15:
+      text: \n<TIPO TORPE>\Com[2]¡Gracias!\! \Com[2]¡ Oh, Gracias, gracias, gracias!\!<br>Nunca olvidaré esto... ¡te lo prometo!\! ¡Tú y tus amigos sereis siempre bienvenidos aquí!
+
+message_16:
+      text: \n<TIPO TORPE>Creo haber mencionado esto antes, pero tengo una hija de tu edad.\! Su nombre es SARAH...\!<br>Probablemente está en su habitación.
+
+message_17:
+      text: Ves algo brillante en la tubería.
+
+message_18:
+      text: \n<TIPO TORPE>¡E-Espera!\! ¡Por favor ayúdame a sacar mi \c[4]ANILLO DE BODA\c[0]!
+
+message_19:
+      text: \n<TIPO TORPE>¡Por favor!

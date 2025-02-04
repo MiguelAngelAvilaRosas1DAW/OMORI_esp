@@ -1,0 +1,92 @@
+
+# =========================================================================================
+# Sidequest: Fruit War (Brayden)
+# =========================================================================================
+
+#messages to be added here, reserved spaces 461 to 480
+
+message_1:
+      text: \n<HOMBRE NARANJAS>Uff...\| Uff...\| \Com[2]¡Bebed \c[3]JUGO DE NARANJA\c[0]!
+
+message_2:
+      text: \n<HOMBRE NARANJAS>¿Habeis oído la frase...<br>“El naranja es el color más feliz del mundo”?
+
+message_3:
+      text: \n<HOMBRE NARANJAS>... ¿No?\! Pues, ¡está bien!\!<br>¡Quiero que sepais que el mismo concepto aplica al \c[3]JUGO DE NARANJA\c[0]!
+
+message_4:
+      text: \n<HOMBRE NARANJAS>¡El \c[3]JUGO DE NARANJA\c[0] ayuda con la hidratación!\! ¡El \c[3]JUGO DE NARANJA\c[0] refuerza tu cuerpo emocionalmente, alenta una sensación general de alegría, bien estar, y felicidad!
+
+message_5:
+      text: \n<HOMBRE NARANJAS>¡Tiene vitamina C, la cual es esencial para una función saludable del sistema inmunitario!
+
+message_6:
+      text: \n<HOMBRE NARANJAS>¡También es un antioxidante que puede tener efectos benificiosos al proteger tus células de daños radicales!
+
+#If any APPLE JUICE is inventory:
+
+message_7:
+      text: \n<HOMBRE NARANJAS>¿Acaso lo que tienes ahí es \c[3]JUGO DE MANZANA\c[0]?\!<br>\Com[2]¡Eso es basura!\! ¡No bebas eso!
+
+#BRADYEN threw away your APPLE JUICE...
+
+message_8:
+      text: HOMBRE NARANJAS tiró a la basura todo tu \c[3]JUGO DE MANZANA\c[0]...
+
+message_9:
+      text: \n<HOMBRE NARANJAS>¡Ja! ¡Toma eso!
+
+message_10:
+      text: \n<HOMBRE NARANJAS>Así que... ¿Os gustaría comprar un poco de \c[3]JUGO DE NARANJA\c[0] por $2.00?\$
+
+#[Yes/No]
+
+message_100:
+      text: ¡Conseguiste \c[3]JUGO DE NARANJA\c[0]!
+
+message_11:
+      text: \n<HOMBRE NARANJAS>¡Sí! \Com[2]¡Bebed \c[3]JUGO DE NARANJA\c[0]!\! ¡Lo disfrutareis!
+
+message_12:
+      text: \n<HOMBRE NARANJAS>De acuerdo...\! Está bien...\!<br>Siempre y cuando no estéis comprando \c[3]JUGO DE MANZANA\c[0]...
+
+#buy more fruit from brayden than ADRIAN
+
+message_13:
+      text: \n<HOMBRE NARANJAS>Uff...\| Uff...\| ¡Ja!\! Como predije...\! ¡El \c[3]JUGO DE NARANJA\c[0] es una alternatica mucho mejor al \c[3]JUGO DE MANZANA\c[0]!\! ¡Mi hermano se dará cuenta de la tontería suya pronto!
+
+
+#Buy more Fruit from Adrian than Brayden:
+
+message_14:
+      text: \n<HOMBRE NARANJAS>Mi hermano no parará de complacerce sobre su negocio de \c[3]JUGO DE MANZANA\c[0]...
+
+message_15:
+      text: \n<HOMBRE NARANJAS>Uff...\| Sin importar qué...\| Uff...\| ¡Siempre creeré firmemente en el \c[3]JUGO DE NARANJA\c[0]!\! ¡Nadie podrá quitarme eso!
+
+#not enough money
+
+message_16:
+      text: \n<HOMBRE NARANJAS>Hmm...\! Parece que no tienes suficiente para una nutritiva taza de \c[3]JUGO DE NARANJA\c[0]...
+
+message_21:
+      text: \n<HOMBRE NARANJAS>Espera... ¿es eso una...\! \c[13]BANDANA ROJA\c[0]...\! lo que llevas puesto? ¡Me rehúso a servirte \c[3]JUGO DE NARANJA\c[0] hasta que te la quites!
+
+#After buying 5 Orange juices
+
+message_101:
+      text: \n<HOMBRE NARANJAS>\{\{\sinv[1]¡¡HUUU-RRRRAAAAA!!
+
+message_17:
+      text: \n<HOMBRE NARANJAS>¡Toma este regalo por ser tan buen cliente!\! ¡Es una \c[13]BANDANA NARANJA\c[0], del color de las naranjas!
+
+message_18:
+      text: \n<HOMBRE NARANJAS>¡Hmph! Si veo a cualquiera de tus amigos con una \c[13]BANDANA ROJA\c[0]...\! Te perdonaré por esto, ¡solo esta vez!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herJe je...\! Lamento eso...
+
+message_20:
+      text: ¡Conseguiste una \c[13]BANDANA NARANJA\c[0]!

@@ -1,0 +1,395 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 2 - DAY
+#=========================================================================================
+
+
+#==========================Aubrey===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aub...
+
+message_1:
+      text: AUBREY no levanta la mirada de su plato.
+
+
+#==========================Basil===============================
+
+#Location: FARAWAY PARK near the Secret Lake entrance.
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 32
+      text: \basO-Oye... KEL...\! Oye... \!\n[8]...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kel¿Qué tal, BASIL? ¡Que bueno verte de paseo afuera!\!<br>¿Te estás sintiendo mejor que ayer?
+
+message_12:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: \bas¿Eh?\! ¿A-Ayer?\! <br>¿A-A qué te refieres?
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelTe dolía mucho el estómago, ¿recuerdas?\!<br>Por eso tuviste que ir al baño...
+
+message_14:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: \basA-Ah...\! Oh, cierto...\!<br>Sí, ahora me siento mucho mejor.
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kel¿Quieres pasar el tiempo con nosotros hoy?\! \n[8] no se quedará mucho más tiempo, ¿sabes?...
+
+message_16:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: \bas...\! No lo sé...
+
+message_17:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \basT-Tal vez mañana...
+
+message_18:
+      faceset: MainCharacter_Basil
+      faceindex: 43
+      text: \basLo siento...
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelAwww... No te preocupes.\! No tienes que esforzarte tanto.<br>\!¡Siempre podemos ponernos al día más tarde!
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 34
+      text: \bas...\! Sí, tienes razón...\! D-De acuerdo...
+
+message_21:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \basNos vemos luego...
+
+#BASIL is gone after leaving this map.
+
+#==========================ANGEL===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_30:
+      text: \n<ANGEL>\Com[2]\SINV[1]¡¡AA\{AAAA\{AAAHH\{HHHHHHHH!!
+
+message_31:
+      text: \n<ANGEL>¡\n[8]\ y KEL! ¿¡Qué están haciendo aquí!?\!<br>¿¡No saben que es de mala educación molestar a alguien cuando están comiendo!?
+
+
+#==========================CHARLIE (CHARLENE)===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_40:
+      text: \n<CHARLIE>\}H-Hola...
+
+#==========================Kim===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_50:
+      text: \n<KIM>\sinv[1]Ewwwwwww...\sinv[0] ¡Un nerd!\!<br>Grr, grr... ¡Déjanos solos!<br>¡Hoy no tenemos nada que hacer con ustedes!
+
+#==========================The Maverick===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_60:
+      text: \n<EL MAVERICK>Ah...\! mi lengua...
+
+
+#==========================VANCE==============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_70:
+      text: \n<VANCE>Ñam...\! ñam...\! ñam...\! ñam...\! ñam...\! ñam...\! ñam...\! ñam...\! pizza...\! ñam...\! ñam...\! ñam...\! ñam...\! ñam...\! ñam...\! ñam...\! ñam...
+
+#==========================ARTIST==============================
+
+#Location: Artist's House (Lost Lucas)
+
+message_80:
+      text: \n<ARTISTA>Fiuf...\! LUCAS...\! No me preocupes así...
+
+
+#==========================SHORT HAIR GIRL==============================
+
+#Location: Gino's Pizza
+
+message_90:
+      text: \n<CHICA DE CABELLO CORTO>Dios mío...\! Mi enamorado está sentado ahí...\!<br>¿Qué hago? ¿Qué hago?\!<br>Respira, BEBE... ¡Debes estar calmada!
+
+#==========================FASHIONABLE MOM==============================
+
+#Location: Gino's Pizza
+
+message_100:
+      text: \n<MAMÁ A LA MODA>¡Mi hija mayor volverá a casa de la universidad esta noche!\!<br>Estoy segura de que tendrá muchos consejos de qué está de moda en estos días...
+
+message_101:
+      text: \n<MAMÁ A LA MODA>¡Ja-ja! ¡No puedo esperar a ponerme al día con ella!
+
+#==========================STRANGE MAN (Recycultist)==============================
+
+#Location: FARAWAY PARK in a Recycultist's Outfit
+
+message_110:
+      text: \n<RECICULTISTA>Hermanos y hermanas...<br>\!Todos debemos aceptar que somos \c[4]BASURA\c[0].
+
+message_111:
+      text: \n<RECICULTISTA>Y aún así... aunque seamos \c[4]BASURA\c[0]...\!<br>Mientras seamos biodegradables, aún podemos ser salvados.
+
+#==========================BRENT==============================
+
+#Location: Brent's House: Sneaking out Brent
+#After Sneaking Out Brent
+#Location: FARAWAY PARK running in circles
+
+#COPY AHHHHHHHHH!!!!
+
+message_120:
+      text: \n<CHICO QUE PARECE LISTO>\{\SINV[1]¡¡ESTO ES TAN DIVERTIDO!!\SINV[0]
+
+#==========================SCHOOL PRINCIPAL==============================
+
+#Location: Town Plaza Gossiping with Kim's Mom
+
+message_130:
+      text: \n<DIRECTORA ESCOLAR>\}Como estaba diciendo...\! puedes creer...\! y ella...\! pero entonces...\! mhmm...
+
+#==========================OLD BEARDY==============================
+
+#Location: Graveyard
+
+message_140:
+      text: \n<VIEJO BARBUDO>Algo se siente mal en el aire últimamente...\!<br>Los espíritus... Están aullando.
+
+message_141:
+      text: \n<VIEJO BARBUDO>Suena como si estuvieran preparando una fiesta de bienvenida...\!<br>Alguien se les unirá pronto.
+
+message_142:
+      text: \n<VIEJO BARBUDO>¿Eh? ¿Qué hay con esa mirada?<br>¿Crees que estoy loco o algo así?
+
+# ADD GWAHAHAHAHHAH
+
+message_143:
+      text: \n<VIEJO BARBUDO>¡No juzgues tan rápido!\!<br>¡Lo creerás también cuando veas lo que he visto!
+
+
+#==========================CHARLIE'S MOM==============================
+
+#Location: Charlie's House
+
+message_150:
+      text: \n<ABUELA CON MOÑO>¡Hola, de nuevo!\! Debo agradecerles de nuevo por ayudarme con mis medicinas ayer...\! Saben, ¡ustedes me recuerdan a dos de mis hijos cuando eran niños!
+
+message_151:
+      text: \n<ABUELA CON MOÑO>Esos dos siempre fueron tan distintos uno del otro, pero se llevaban bien.\! La gente siempre decía que se balanceaban entre ellos... Je... je...
+
+message_152:
+      text: \n<ABUELA CON MOÑO>Tal vez no lo parezca, ¡pero cumplo 64 este año!\! He tenido 7 hijos a través de mi vida, pero todos se han mudado excepto mi hijo mayor y mi hija menor.
+
+message_153:
+      text: \n<ABUELA CON MOÑO>Aunque, mi hijo mayor nunca deja su habitación, así que probablemente nunca se vaya...
+
+#==========================Cris's Dad==============================
+
+#Location: FARAWAY PARK
+
+message_160:
+      text: \n<CHICO AMERICANO>Fiu...\! Hacer\ hamburguesas es trabajo duro...\! Pero una vez que hunda mis dientes en esa suave y jugosa hamburguesa, \sinv[1]todo\sinv[0] valdrá la pena.
+
+message_161:
+      text: \n<CHICO AMERICANO>Mmm...\! Ya casi puedo saborearla...
+
+message_162:
+      text: \n<MAMÁ AMERICANA>\Com[2]¡Cariño, presta atención!\! ¡Las hamburguesas se están quemando!
+
+message_163:
+      text: \n<CHICO AMERICANO>¡Oh no!\! Gracias, cariño. ¡Eso estuvo cerca!
+
+#==========================Cris's Mom==============================
+
+#Location: FARAWAY PARK
+
+message_170:
+      text: \n<MAMÁ AMERICANA>¡Qué gran día para un pícnic!\!<br>Traje mis especialidades... Empanadas de pollo, pay de limón, y, por supuesto, ¡mi famoso pay de manzana!
+
+#==========================CURTSEY==============================
+
+#Location: Hobbeez
+
+message_180:
+      text: \n<CHICA LINDA>Trabajo en la \c[11]DULCERÍA\c[0], ¡pero me gusta venir aquí en mis descansos!\! Siempre hay algo nuevo para ver así que nunca me aburro.
+
+#==========================GINO==============================
+
+#Location: Gino's Pizza
+
+message_190:
+      text: \n<HOMBRE DE LENTES>...
+
+#=========================HECTOR (DOG)==============================
+
+#Location: Player's Street
+
+message_200:
+      text: \n<HECTOR>\Com[2]¡Guau! \{¡Guau! \{¡Guau!\}\} ¡Guau!\! \Com[2]\{¡Guau! \}¡Guau! \}¿Guau?<br>\!(¿Soy un buen chico?)
+
+#=========================JESSE'S DAD==============================
+
+#Location: FARAWAY PARK
+
+message_210:
+      text: \n<FRENTE ARRUGADA>¡Hola, amigos! Qué bueno verlos.\! ¡Estos RECICULTISTAS que han estado apareciendo han estado haciendo un gran cambio por aquí!
+
+message_211:
+      text: \n<FRENTE ARRUGADA>¡Esta es la primera vez que veo a tantos jóvenes tomando la iniciativa de levantar \c[4]BASURA\c[0]!\! Hace mi trabajo mucho más fácil... Ja ja...
+
+message_212:
+      text: \n<FRENTE ARRUGADA>Aunque algo sobre ellos se siente un poco extraño...
+
+#=========================JOY==============================
+
+#Location: Joy's House (Sneaking out Joy quest)
+
+
+message_220:
+      text: \n<CHICA PEQUEÑA>\SINV[1]¡Salto! \!\}Y-\{¡Salto! \!\}Y-\{¡Salto! \!\}Y-\{¡Salto!\SINV[0]
+
+#=========================JOY's DAD==============================
+
+#Location: Supermarket talking to OTHERMART LADY
+
+message_230:
+      text: \n<CEJOTAS>嗨妈，你今天好吗？
+
+message_231:
+      text: \n<SEÑORITA DE OTHERMART>有点忙，但还可以! JOY 好吗?
+
+message_232:
+      text: \n<CEJOTAS>她正在读书... 很努力!
+
+message_233:
+      text: No entiendes nada de lo que dicen.
+
+
+#=========================KAREN==============================
+
+#Location: Sean's House
+
+message_240:
+      text: \n<SEÑORITA CON COLETAS>Estamos en medio de elegir un nuevo papel tapiz...\!<br>Y luego de eso, debemos detenernos en el \c[11]OTHERMART\c[0] para tomar unos víveres para mañana...\! ¡Qué día ocupado!
+
+#=========================KEL'S DAD==============================
+
+#Location: Hardware Store Garden
+
+#Exclamation on Kel
+
+message_250:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelOh-oh...\! Oye...\! eh...\! \n[8]...\! ¡Vayamos a otro lado!
+
+message_251:
+      text: \n<PAPÁ DE KEL>\Com[2]¡KEL! ¡Hijo, eres tú?\! ¿Qué estás haciendo aquí?\!<br>¿No se supone que debes estar haciendo recados para tu mamá?
+
+message_252:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kel¡Oh, hola Papá! ¡No te ví! Ja ja...
+
+message_253:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelVamos, \n[8]... ¿No tenemos esa cosa tan importante que tenemos que hacer?\! Sí... ¡Debemos irnos!\! ¡No queremos estár tarde!
+
+message_254:
+      text: \n<PAPÁ DE KEL>Oh, de acuerdo entonces. ¡Te veo luego, campeón!
+
+#=========================KIM'S MOM==============================
+
+#Location: Town Plaza Gossiping with Kim's Mom
+
+message_260:
+      text: \n<DAMA DE LENTES ROJOS>\}Fue como cuando...\! sí...\! y entonces...\! honestamente, yo creo...\! sí, definitivamente...
+
+#=========================LUCAS (DOG)==============================
+
+#LOCATION: Player's Street (Lost Lucas quest)
+
+message_270:
+      text: \n<BUEN PERRO>\Com[2]\{¡GUAU! \}¡GUAU!\! \{¡GUAU! \{¡GUAU! \}¡GUAU! \}¡GUAU!
+
+
+#=========================POLLY==============================
+
+#LOCATION: Artist's House
+
+message_280:
+      text: \n<POLLY>Los girasoles son mis flores favoritas.
+
+message_281:
+      text: \n<POLLY>Fiuf...\! BASIL no ha cuidado de sus flores últimamente.\! Espero que se sienta mejor pronto.\! Sus flores lo necesitan...
+
+#=========================PREACHER==============================
+
+#LOCATION: Church
+
+message_290:
+      text: \n<PREDICADOR>He estado teniendo un sentimiento extraño todo el día desde el cementerio.
+
+#=========================SARAH==============================
+
+#LOCATION: Sarah's House
+
+message_300:
+      text: \n<CHICA CON COLETA>Mamá y Papá están peleando mucho últimamente...\!<br>Espero que estén bien.
+
+#=========================SARAH's DAD==============================
+
+#Location: Gino's Pizza
+
+message_310:
+      text: \n<TIPO TORPE>Mi esposa me ha dicho que me estoy poniendo más gordito y rellenito, ¡pero no puedo evitarlo cuando vivimos tan cerca de  \c[11]GINO'S PIZZA\c[0]!
+
+message_311:
+      text: \n<TIPO TORPE>Fiuf...\! Realmente no debería comer nada.\! Anoche, mi esposa olfateó pepperoni en mi aliento y se enojó mucho...
+
+
+#=========================SARAH's MOM==============================
+
+#Location: Sarah's House (Toilet seat quest)
+
+message_320:
+      text: \n<SEÑORITA CON COLETA>¡Mi esposo es un tarado!\! ¡Se supone que estamos en una dieta familiar, y anoche olfateé pepperoni en su aliento!
+
+#=========================SEAN==============================
+
+#Location: SEAN'S HOUSE
+
+message_330:
+      text: \n<CHICO A CUADROS>Uff...\! uff...\! Esto es trabajo duro, ¡pero todo valdrá la pena!

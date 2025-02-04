@@ -1,0 +1,79 @@
+
+
+# =========================================================================================
+# Sidequest: Anniversary Pizza
+# =========================================================================================
+
+#Talk to Sarahs mom in anniversary day
+
+message_1:
+      text: \n<SEÑORA CON COLETA>Hoy es el aniversario de mi esposo y yo, pero no lo ha mencionado en todo el día...\! Me pregunto si se le olvidó...
+
+message_2:
+      text: \n<SEÑORA CON COLETA>Um...\! Quizás he sido muy dura con él últimamente.\! Ha estado subiendo un poco de peso recientemente, y lo he regañado mucho por eso.
+
+message_3:
+      text: \n<SEÑORA CON COLETA>He estado intentando ponerlo a dieta, pero tengo miedo de que se lo tome personalmente...\! ¡Simplemente quiero que se cuide mejor!
+
+message_4:
+      text: \n<SEÑORA CON COLETA>¿Lo entiendes, no?
+
+# [yes / no]
+
+# [if yes]
+message_5:
+      text: \n<SEÑORA CON COLETA>Gracias...\! Sabes, ¡quizás hoy podemos hacer una excepción!\!<br>¡Estamos celebrando 15 años de nuestro matrimonio, después de todo!
+
+message_6:
+      text: \n<SEÑORA CON COLETA>Él siempre está hablando sobre \c[11]GINO'S PIZZA\c[0] y lo buena que es...\! Estoy pensando en comprar una \c[3]PIZZA ENTERA\c[0] para compartir en familia.\! ¿Qué piensas?
+
+#[yes / no]
+
+#if yes a 2nd time
+
+message_7:
+      text: \n<SEÑORA CON COLETA>\com[2]¡Sí! ¡Está bien comer comidas aceitosas de vez en cuando!\!<br>¡Con moderación!
+
+#SARAH'S MOM walks to PIZZA MAN at Ginos
+
+message_8:
+      text: \n<SEÑORA CON COLETA>¡Quiero una \c[3]PIZZA ENTERA\c[0], por favor!
+
+message_20:
+      text: \n<PIZZERO>¡Marchando!
+
+message_21:
+      text: \n<PIZZERO>¡Aquí tiene!\! ¡Disfrutela!
+
+message_25:
+      text: \n<SEÑORA CON COLETA>¡Muchas gracias!
+
+message_26:
+      text: \n<SEÑORA CON COLETA>¡Gracias por tu sugerencia!\! ¡Estoy segura de que mi esposo amará esto!
+
+# [if no choice is picked]
+
+message_9:
+      text: \n<SEÑORA CON COLETA>Oh, ya veo...
+
+# =========================================================================================
+#Talk to Sarah's Dad after annivery PIZZA
+# =========================================================================================
+
+message_10:
+      text: \n<CHICO TORPE>Uf... Parece que todo salió bien de alguna forma...
+
+message_11:
+      text: \n<CHICO TORPE>Snif... Mi esposa es tan considerada...\!<br>Tengo tanta suerte de tenerla.
+
+message_12:
+      text: \n<CHICO TORPE>Incluso me dio mi cosa favorita...\!<br>O sea...\! después de ella, por supuesto...
+
+message_13:
+      text: \n<CHICO TORPE>\Com[2]¡Es una \c[3]PIZZA\c[0] de \c[11]GINO'S PIZZA\c[0]!
+
+message_14:
+      text: \n<CHICO TORPE>¿Sabes?\! ¡Estoy muy feliz de como ha resultó este día!\! ¡Esto es para tí!
+
+message_15:
+      text: \n<CHICO TORPE>Gracias por la ayuda chicos.\!<br>Llamadme para lo que sea. ¡Os debo una!

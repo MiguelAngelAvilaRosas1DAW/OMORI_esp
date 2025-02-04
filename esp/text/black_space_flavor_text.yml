@@ -1,0 +1,766 @@
+
+# =========================================================================================
+# BASIL SHOE INTERIOR: 98
+# ========================================================================================
+
+#Door
+
+message_500:
+      text: ¿Estás seguro de que quieres ir?
+
+# =========================================================================================
+# BLACKSPACE ENTRANCE: 264
+# ========================================================================================
+
+#Laptop
+
+message_50:
+      text: La pantalla te devolvió la mirada.
+#Door
+
+message_501:
+      text: "Una puerta negra proyecta una tenue sombra.\\!<br>¿Que te gustaría hacer?"
+
+message_502:
+      text: "Es blanco puro por dentro."
+
+# =========================================================================================
+# MISC
+# ========================================================================================
+
+message_510:
+      text: Te sientes enfermo...
+
+message_511:
+      text: Ahora mismo no puedes salir.
+
+message_512:
+      text: Te sientes enfermo...\! Un viaje al baño debería ayudar.
+
+# =========================================================================================
+# BLACKLETTERS
+# ========================================================================================
+
+message_550:
+      text: Aquí hay un agujero.
+
+message_551:
+      text: Aquí hay un agujero.
+
+message_552:
+      text: Aquí hay un agujero.\! ¿Acercarte al agujero?
+
+message_553:
+      text: Sentiste una fría brisa.
+
+message_554:
+      text: Sentiste que alguien tomaba tu mano.
+
+message_555:
+      text: Aquí hay un agujero.\! ¿Mirar dentro del agujero?
+
+message_556:
+      text: No ves nada dentro.
+
+message_557:
+      text: Aquí hay un agujero.\! ¿Entrar en el agujero?
+
+message_558:
+      text: Se ha limpiado parte de este estante.\!<br>Aquí hay un agujero.\! ¿Mirar dentro del agujero?
+
+message_570:
+      text: Conseguiste una cinta etiquetada "ORIGEN".
+
+message_571:
+      text: Fotos de tus amigos.\! Todas las caras están garabateadas.
+
+# =========================================================================================
+# Black space
+# ========================================================================================
+
+# POND
+
+message_0:
+      text: Ves a un niño arrojando algo brillante a un cofre.
+
+message_1:
+      text: Ves a un niño llorando en la esquina de su habitación.
+
+message_2:
+      text: Ves a un niño rascándose los nudillos.
+
+message_3:
+      text: Ves a un niño mirando por la ventana.
+
+message_4:
+      text: Ves a dos niños y su perro jugando afuera.
+
+message_5:
+      text: Ves a un niño cerrando una puerta.
+
+message_6:
+      text: Ves a un niño mirando una pared.
+
+message_7:
+      text: Ves a un niño clavando un lápiz en su escritorio.
+
+message_8:
+      text: Ves a un niño enterrando algo en la hierba.
+
+message_9:
+      text: Ves a un niño sentado en una habitación oscura.\!<br>El niño miente y miente, una y otra vez.
+
+message_10:
+      text: Ves a un niño sentado en un piano.\!<br>El niño toca algunas notas y murmura algo para sí mismo.
+
+message_11:
+      text: Ves a un niño volteando sus sábanas.
+
+message_12:
+      text: Ves a un niño mirándose los dedos.\! <br>Gime de dolor.
+
+message_13:
+      text: Ves a un hombre cerrando la puerta de su coche y alejándose.
+
+message_14:
+      text: Ves a un hombre cortando desesperadamente un árbol en el patio trasero.
+
+
+# =========================================================================================
+# Black space
+# ========================================================================================
+
+# Cardboard Boxes
+
+message_20:
+      text: Gritas en la caja, pero nadie te escucha.
+
+message_21:
+      text: Escuchas a MAMÁ llorar suavemente.\!<br>\"\n[8]...\! Te protegeremos...\!<br>Todo va a estar bien...\"
+
+message_22:
+      text: Escuchas a MAMÁ llorar suavemente.\! <br>\"Dónde...\! ¿Dónde está tu violín?\"
+
+message_23:
+      text: Escuchas una voz murmurando desde el interior de la caja.
+
+message_24:
+      text: \fn<OMORI_GAME>Fue un accidente. Fue un accidente. Fue un accidente. <br>Fue un accidente. Fue un accidente. Fue un accidente. <br>Fue un accidente. Fue un accidente. \quake[1]Fue un accidente.\quake[0]
+
+message_25:
+      text: Encontraste un cuaderno.\! La misma oración está <br>escrita una y otra vez..
+
+message_26:
+      text: \fn<OMORI_GAME>\quake[1]Todo es mi culpa. Todo es mi culpa. Todo es mi culpa. <br>Todo es mi culpa. Todo es mi culpa. Todo es mi culpa. <br>Todo es mi culpa. Todo es mi culpa.\quake[0] Todo es mi culpa.
+
+# ========================================================================================
+
+message_35:
+      text: Miras dentro de la caja, pero no hay nada dentro.
+
+# =========================================================================================
+# Black Space Misc
+# ========================================================================================
+
+message_27:
+      text: Una serpiente sin piel.\! Ha sido cortada cuidadosamente y colocada en una línea perfectamente recta.
+
+message_28:
+      text: Tocas la campana...\! pero no emite ningún sonido.
+
+message_29:
+      text: Un pastel.\! ¿Quieres comertelo?
+
+message_30:
+      text: Mientras masticas, comienzas a escuchar el crujir de los huesos.
+
+message_31:
+      text: Masticas un poco más lento...\! y te das cuenta de que te faltan los molares.
+
+message_32:
+      text: Una orquídea garceta blanca.
+
+message_33:
+      text: ¿Quieres nadar?
+
+message_34:
+      text: ¿Quieres dejar de nadar?
+
+message_36:
+      text: \n<LITTLE ONE>\}Ayudame...
+
+message_37:
+      text: \n<LITTLE ONE>\}OMORI... Estoy triste...
+
+message_38:
+      text: Algo solía estar aquí.
+
+message_39:
+      text: Tienes miedo.
+
+#Behind the Waterfall: 285
+
+message_40:
+      text: Una polaroid en blanco.
+
+message_41:
+      text: Es una foto tuya.
+
+#Lil Basil Food
+
+message_42:
+      text: ¡Encontraste ☐☐☐!
+
+message_43:
+      text: ¡Tienes ☐☐ ☐☐!
+
+message_44:
+      text: Comiste algo.
+
+message_47:
+      text: ¡Tienes el INGREDIENTE "CLAVE"!
+
+#Desks
+
+message_45:
+      text: Hay un dibujo de un BROTE DE TIERRA grabado en este escritorio.
+
+#Doors
+
+message_46:
+      text: Esta puerta está bloqueada por un INGREDIENTE "CLAVE".
+
+message_48:
+      text: Abriste la puerta.
+
+# ========================================================================================
+
+message_100:
+      text: \basAhh...\! Finalmente has venido...\! Lo siento mucho.\! Puede que sea demasiado tarde para mí, pero intenta salvarme.\! ¿Me lo prometes \n[8]?
+
+# =========================================================================================
+# LOST FOREST 1: 266
+# ========================================================================================
+
+#Fast KEL
+
+message_101:
+      text: \n<KEL>¡HOLA, OMORI!\^
+
+#Deer skull
+
+message_102:
+      text: \n<CABEZA DE VENADO>¿Aún reconoces tu casa?
+
+#Beach
+
+message_103:
+      text: ¿Quieres nadar de regreso al continente?
+
+message_104:
+      text: Hace mucho calor.
+
+message_105:
+      text: \n<CANGREJO>¡No puedo esperar a ver mi bronceado!
+
+message_106:
+      text: El cangrejo se está muriendo.
+
+message_107:
+      text: Es una palmera.
+
+# =========================================================================================
+# LOST FOREST 2: 267
+# ========================================================================================
+
+message_110:
+      text: La veleta apunta al oeste.
+
+message_111:
+      text: La veleta apunta al norte.
+
+message_112:
+      text: La veleta apunta al este.
+
+# =========================================================================================
+# Looping Forest: 270
+# ========================================================================================
+
+message_120:
+      text: Te comiste el FILETE.
+
+message_121:
+      text: Un espejo flotante.\! Estás completamente solo.\!<br>¿Quieres jugar a al escondite?
+
+message_122:
+      text: 5...\| 4...\| 3...\| 2...\| 1!
+
+message_123:
+      text: ¡Te encontré!
+
+message_124:
+      text: ¿Quieres jugar otra vez?
+
+message_125:
+      text: Viste algo, pero decidiste que no era para ti.
+
+message_126:
+      text: Estás demasiado lleno para correr.
+
+# message_127:
+#       text: You don't know why you did that.
+
+message_127:
+      text: \n<dulcetete>Soy peffecto
+
+message_128:
+      text: \n<delcecito>o hoho
+
+message_129:
+      text: \n<dulzote>Ojos aki arriba
+
+# Mirror break
+
+message_115:
+      text: \n<OMORI DESTROZADO>5...\| 4...\| 3...\| 2...\| 1!
+
+# =========================================================================================
+# Cloud Walkway: 284
+# ========================================================================================
+
+message_130:
+      text: \n<OMOLI>\}Hambriento...
+
+message_131:
+      text: \n<OMOLI>\}Por favor, dinero...
+
+message_132:
+      text: ¿Dar VEINTE DÓLARES a OMOLI?
+
+message_133:
+      text: No tienes VEINTE DÓLARES.
+
+message_134:
+      text: \n<OMOLI>\}Grabcias...
+
+message_135:
+      text: \n<GRAN BOLSILLO>¡Voy a bailar!
+
+message_136:
+      text: ¿Quieres bailar?
+
+message_137:
+      text: No sabes bailar.
+
+message_138:
+      text: PLUTÓN no parece él mismo.\!<br>Decidiste que es mejor dejarlo en paz.
+
+message_139:
+      text: \n<LOOMY>¡Oh! Vaya, ¡si es mi viejo amigo!\! ¡Tengo la capacidad de moverme rápidamente de un lugar a otro viajando a través de los bateres!
+
+message_140:
+      text: \n<LOOMY>¡Liderame y te lo mostraré, OMORI!
+
+message_141:
+      text: No conoces a esta persona.
+
+message_142:
+      text: \n<LOOMY>¡LIDERAME, OMORI!
+
+message_143:
+      text: \n<LOOMY>¡Hey, LIDERAME!
+
+message_144:
+      text: Tienes ganas de ver a tus amigos.
+
+# =========================================================================================
+# Playground: 283
+# ========================================================================================
+
+message_145:
+      text: \n<CHICO PIÑATA>\sinv[1]\{\{¡¡WOOOOOOOOOOOOOOOOOOOO!!
+
+# =========================================================================================
+# Kel Pool: 395
+# ========================================================================================
+
+message_150:
+      text: ¡Tienes VEINTE DÓLARES!
+
+message_151:
+      text: Bienvenido al ESPACIO MONETARIO..\!<br>Solo KEL está permitido aquí.
+
+# =========================================================================================
+# Hideous Creature: 288
+# ========================================================================================
+
+message_155:
+      text: Hermano...\! Estoy tan contento de que estés aquí...
+
+# =========================================================================================
+# Hell: 274
+# ========================================================================================
+
+#Mannequin MARI repeating dialogue
+
+message_160:
+      text: Mira lo que has hecho.
+
+# =========================================================================================
+# Ladder Room: 275
+# ========================================================================================
+
+#Daddy longlegs
+
+message_165:
+      text: \n<DADDY LONGLEGS>Ah...\! has recorrido un largo camino hacia abajo.\!<br>Pero deberías regresar mientras puedas.
+
+# =========================================================================================
+# Player Room with Hell Mari: 296
+# ========================================================================================
+
+message_170:
+      text: \n<HERO>¡Oye, OMORI!\! ¿Tienes hambre?
+
+message_171:
+      text: \n<HERO>Estaba a punto de cocinar algo, pero me faltan algunos ingredientes importantes.\! ¿Por qué no buscas algunos y me los traes?
+
+message_172:
+      text: \n<HERO>¿Encontraste algo para cocinar?\!<br>¡Lo tendré listo en un minuto!
+
+message_173:
+      text: \n<HERO>Huh...\! Esto no resultó como pensé que sería, pero sería un desperdicio no dárselo, así que...
+
+message_174:
+      text: \n<HERO>¡Disfruta!
+
+# =========================================================================================
+# Aubrey School: 374
+# ========================================================================================
+
+message_180:
+      text: Hay un PELUCHE en el camino.
+
+message_181:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Aceptaste mi carta de amor...<br>Eso significa que vamos a tener una cita, ¿verdad??\aub
+
+message_182:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: ¡Te amo, OMORI! ¡Por favor, sal conmigo!\aub
+
+message_183:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: ¡Te seguiré por siempre!\aub
+
+message_184:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Dijiste que saldríamos ayer, así que te tomaré prestado el resto de esta tarde, ¿de acuerdo?\aub
+
+message_185:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Hehe... ¿Esperaste mucho?\! Es de mala educación hacer esperar a una dama, sabes ... ¡Vamos! ¡Vamos!\aub
+
+message_186:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Ese idiota de KEL escondió mi PELUCHE otra vez...\!<br>¿Me ayudas a encontrarlo OMORI?\aub
+
+message_187:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]¡Llegas tarde, OMORI!\! ¿Por qué has tardado tanto?\aub
+
+message_188:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: OMORI...\! Yo-\aub
+
+message_189:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Espera un momento... ¿Quiénes son todas esas chicas detrás de ti?\aub
+
+message_190:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: ¡Estoy en una cita con OMORI!\aub
+
+message_191:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]¡No, YO estoy en una cita con OMORI!\aub
+
+message_192:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Bueno, todas podemos salir con OMORI... ¿No?\aub
+
+message_193:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: ¿Huh? ¿Qué quieres?\aub
+
+message_194:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Entonces ... ha llegado a esto.\aub
+
+message_195:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: Huff...\! huff...\! huff...\aub
+
+message_196:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Huff...\! huff...\! huff...\aub
+
+message_197:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Eres...\! Eres bastante fuerte...\aub
+
+message_198:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: No eres tan mala...\! Como pensaba...\aub
+
+message_199:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]¡Pero es hora de que terminemos con esto!\aub
+
+message_200:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: ¡Ríndete!\aub
+
+message_201:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \com[2]¡Nunca!\aub
+
+message_202:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Esto...\! No parece ir a ninguna parte...\aub
+
+message_203:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: Ya no puedo pelear...\! Estoy tan cansada...\aub
+
+message_204:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Solo hay una forma en que podemos resolver esto...\aub
+
+message_205:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]¡OMORI!\aub
+
+message_206:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \com[2]¿¡Con cuál de nosotras vas a salir!?\aub
+
+message_207:
+      text: AUBREY IZQUIERDA
+
+message_208:
+      text: AUBREY DERECHA
+
+message_209:
+      text: ...\! Debes haberte quedado dormido...
+
+# =========================================================================================
+# Behind the Waterfall: 285
+# ========================================================================================
+
+message_210:
+      text: \n<SIN CARA>Incluso si escondes algo, siempre estará ahí.
+
+message_211:
+      text: \n<SIN CARA>Lo siento, pero no recuerdo quien eres.
+
+message_212:
+      text: Los SIN CARA están hablando en susurros entre ellos.
+
+message_213:
+      text: \n<SIN CARA>Te ves mas mayor OMORI...\!<br>Pero no más sabio.
+
+message_214:
+      text: \n<SIN CARA>Pensé que nos habías dejado por tus otros amigos.\!<br>Es bueno tenerte de vuelta.
+
+message_215:
+      text: \n<SIN CARA>Espero que te hayas divertido sin nosotros.
+
+message_216:
+      text: \n<SIN CARA>Vi a alguien esperándote.\!<br>Creo que deberías ir a verlo.
+
+message_217:
+      text: \n<SIN CARA>Cuidado con la barandilla.
+
+message_218:
+      text: \n<SIN CARA>¿Cuánto tiempo vas a tenernos aquí encerrados?
+
+message_219:
+      text: \n<SIN CARA>No te vayas, por favor.
+
+# =========================================================================================
+# Herosaurus: 397
+# ========================================================================================
+
+message_230:
+      text: \n<HEROSAURUS>¿Todavía me aceptas?
+
+# =========================================================================================
+# FEAR (Heights): 322
+# ========================================================================================
+
+message_300:
+      text:  Un misterioso resplandor rojo se irradia desde el exterior.\!<br>Te sientes extrañamente atraído.
+
+message_301:
+      text: La puerta está cerrada.
+
+# =========================================================================================
+# TOMBSTONES
+# ========================================================================================
+
+message_400:
+      text: OMOCAT
+
+message_401:
+      text: ARCHEIA
+
+message_402:
+        text: TDS
+
+message_403:
+        text: MELONKID
+
+message_404:
+        text: OCEAN
+
+message_405:
+        text: SLEEPYKUYA
+
+message_406:
+      text: YIN
+
+message_407:
+        text: EMS
+
+message_408:
+        text: MINCED
+
+message_409:
+        text: PEDRO
+
+message_410:
+        text: RAI
+
+message_411:
+      text: ROCHELLE
+
+message_412:
+        text: KIM
+
+# =========================================================================================
+# MARI IS HOME: 413
+# ========================================================================================
+
+message_310:
+      text: \.\.\.\.\.\.\.\.\.\.\.\.\!\.\.\.\.\.\.\.\.\.\.\.\.\.\.
+
+message_311:
+      text: \aubOye, OMORI...\! Creo que tu hermana nos está ignorando.\! Quizás deberías ir a hablar con ella.
+
+message_312:
+      text: \kel¡No podemos hacer un pícnic sin MARI!
+
+message_313:
+      text: \herMARI no ha estado en casa en mucho tiempo...\! Ella solo necesita algo de espacio para adaptarse.
+
+# =========================================================================================
+# DREAM: 504
+# ========================================================================================
+
+message_315:
+      text: \n<NIÑO VEGETAL>¡Mi ALMOHADA favorita volvió a desaparecer!\!<br>No puedo dormir sin ella...
+
+message_316:
+      text: \n<NIÑO VEGETAL>¿Ya la encontraste?
+
+message_317:
+      text: Encontraste una ALMOHADA.
+
+message_318:
+      text: \n<NIÑO VEGETAL>Esta no es mi ALMOHADA...\! ¡pero gracias de todos modos!
+
+message_319:
+      text: \n<OCULTADOR DE ALMOHADAS>¡Ellos me llaman OCULTADOR DE ALMOHADAS! Soy un maestro de ocultar almohadas.
+
+message_320:
+      text: \n<BROTE DE TIERRA>Oh, la encontraste.\! Olvida lo de OCULTADOR DE ALMOHADAS... Creo que escondere otra cosa.
+
+message_321:
+      text: \n<BROTE DE TIERRA>OMORI.
+
+
+message_575:
+      text: Una cinta de video etiquetada "OMORI".\! ¿Quieres recogerla?
+
+message_576:
+      text: Una cinta de video etiquetada "BASIL".\! ¿Quieres recogerla?
+
+
+#SPIDER WEB HALLUCINATION
+
+message_233:
+      text: Una telaraña gigante bloquea la entrada.
+
+
+#BASIL Stuff
+
+message_250:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \who\fn<OMORI_GAME>...
+
+#INCUBATION
+
+message_251:
+      text: MARI está aquí.
+
+message_252:
+      text: HERO está aquí.
+
+message_253:
+      text: BASIL está aquí.
+
+message_254:
+      text: AUBREY está aquí.
+
+message_255:
+      text: KEL está aquí.
+
+
+#---- FEAR spiders
+
+message_260:
+      text: Los susurros emanan del interior de la caja.
+
+message_261:
+      text: \}\n<???>\fn<OMORI_GAME>¿Aún reconoces tu casa?
+
+message_262:
+      text: \}\n<???>\fn<OMORI_GAME>MARI no ha estado en casa durante mucho tiempo...

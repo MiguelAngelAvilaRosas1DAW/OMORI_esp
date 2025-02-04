@@ -1,0 +1,73 @@
+
+# =========================================================================================
+# POOL NOODLE
+# ========================================================================================
+
+#Talk to Berly
+
+message_0:
+      text: \ber\{\SINV[1]\Com[2]¡¡BAHAHA\{HAHAHA\{AHAHA!!\SINV[0]
+
+message_1:
+      text: \berYa sabes...\! Últimamente me siento un poco inventiva.\! Tengo la necesidad de hacer algo grande...\! algo sorprendente...
+
+message_2:
+      text: \berQuiero hacer el \Com[2]más grande... \!\Com[2]más malo...\!<br>\Com[2]¡el arma más definitiva que existe!
+
+message_3:
+      text: \berMi único problema es que me falta inspiración.\! <br>Lo que busco es el material perfecto para hacer el arma definitiva...
+
+message_4:
+      text: \berAlgo flexible, pero resistente...\! y quizás...\! un poco de ánimo.
+
+message_5:
+      text: \berSi puedes encontrar algo así para mí, ¡definitivamente haré el arma definitiva para ti!
+
+#Talk to Berly with Pool NOODLE
+
+message_6:
+      text: \berAins...\! Eso...\! Eso de ahí...\! Esa forma...\! Esa textura...
+
+message_7:
+      text: \berYo...\! Me siento...\! \SINV[1]inspirada.\SINV[0]
+
+message_8:
+      text: \ber¡Este \c[13]FIDEO FLOTADOR\c[0] es exactamente lo que estoy buscando!
+
+message_9:
+      text: \ber¡Definitivamente puedo hacer el arma definitiva con esto!
+
+message_10:
+      text: ¿Quieres darle tu \c[13]FIDEO FLOTADOR\c[0] a BERLY?
+
+#yes/no
+
+#yes
+message_11:
+      text: \berUn momento...
+
+#Berly turns around for a while, then turns back.
+message_12:
+      text: \ber\{\Com[2]¡¡¡FELICIDADES!!!
+
+message_13:
+      text: Conseguiste el \c[13]FIDEO FLOTADOR\c[0].
+
+#ADD BAHAHAHA
+
+message_14:
+      text: \ber¡Sí!\! Contempla el \c[13]FIDEO FLOTADOR +\c[0] ¡en toda su majestuosidad!
+
+message_15:
+      text: \berEl poder del \c[13]FIDEO FLOTADOR +\c[0] no es algo con lo que se pueda jugar.\! Solo los más duros de duros pueden empuñarlo.\! Y aunque es increíblemente fuerte...\! sigue siendo muy bonito.
+
+message_16:
+      text: \berEl trabajo artesanal es lo que realmente lo hace destacar.
+
+message_17:
+      text: \ber¡Sip!\! ¡Esta vez sí que me he superado!\! <br>¡Puedes agradecérmelo después!
+
+#ADD BAHAHAHAHAHA!!
+
+message_18:
+      text: \ber\com[2]¿Pero por qué?\! ¿Qué voy a hacer ahora con toda mi inspiración?

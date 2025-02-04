@@ -1,0 +1,75 @@
+# =========================================================================================
+# Blackspace around dreamworld
+# =========================================================================================
+
+#otherworld
+
+#CAPT. SPACEBOY mentions the existence of a BLACK HOLE when he travels too far in the Universe.
+
+
+#PINWHEEL FOREST: NIÑO COMETA mentions that sometimes when his eye follows his kite, he catches a glimpse of a DARK VOID in the sky.
+
+message_5:
+      text: \n<NIÑO COMETA>No le he dicho a nadie sobre esto antes...\! pero a veces cuando miro mi cometa, veo un \c[11]OSCURO VACÍO\c[0] en el cielo por el rabillo del ojo.
+
+message_6:
+      text: \n<NIÑO COMETA>Solía ​​verlo muy rara vez, pero estos últimos días ha estado sucediendo con mucha más frecuencia.\! Me pregunto si significa algo...
+
+#SPROUT MOLE legend states that there used to be more SPROUT MOLES, but many of them were curious and dug too deep into the ground,
+#reaching a mystical realm we now call the  DEEP PIT. It seems that the location has been lost for centuries.
+#Some say that it mysteriously vanished without a trace.
+
+message_7:
+      text: \n<MAESTRO BROTE DE TIERRA>La leyenda de los BROTE DE TIERRA afirma que los de nuestra especie solían prosperar en todas las regiones del mundo, pero nuestros antepasados ​​eran curiosos y cavaron demasiado profundo en la tierra.
+
+message_8:
+      text: \n<MAESTRO BROTE DE TIERRA>Descubrieron un misterioso agujero que absorbió a miles de nuestra especie y nunca más se les volvió a ver.
+
+message_9:
+      text: \n<MAESTRO BROTE DE TIERRA>La ubicación del \c[11]FOSO PROFUNDO\c[0], como fue llamado, se ha perdido durante siglos, aunque algunos dicen que simplemente desapareció sin dejar rastro.
+
+#ORANGE OASIS: One of MINA's kids mentions the story of the SHADOWY CHASM, a place where all bad kids go.
+
+message_10:
+      text: \n<HIJO DE MINA>Mamá nos dice que no caminemos demasiado lejos de la cueva o de lo contrario seremos tragados por \c[11]EL ABISMO\c[0]...\! Ella dice que ahí es a donde van todos los niños malos.
+
+#Hitchhiker tells you of a place of no return called THE ABYSS.
+
+message_11:
+      text: \n<HITCHHIKER>Hola, niño. \SINV[1]Uhuhuhu...\SINV[0]\! ¿Tienes curiosidad?\!<br>Conozco un lugar... es posible que hayas oído hablar de él.
+
+message_12:
+      text: \n<HITCHHIKER>Tiene muchos nombres...\!<br>el OSCURO VACÍO...\! el FOSO PROFUNDO...
+
+message_13:
+      text: \n<HITCHHIKER>Aquí en el \c[11]POZO PROFUNDO\c[0], Lo llamamos \c[11]EL ABISMO\c[0].
+
+message_14:
+      text: \n<HITCHHIKER>Está pasando el final de la carretera.\! ¿Quieres que te lleve allí?
+
+#FORGOTTEN PIER: Inhabitants from the FORGOTTEN PIER are speaking from another realm which they call BLACK HOLE, DARK VOID, DEEP PIT,
+#SHADOWY CHASM, or ABYSS. They escape for a bit, but it will always pull them back.
+
+#Common SOMETHINGs are Dream World NPCs that have stayed in BLACK SPACE for a long time.
+
+#message_15:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>When I was young, my mother told me to beware of a place called the \c[11]SHADOWY CHASM\c[0], but I didn't listen...\!<br>Now I'm stuck here forever...
+
+#message_16:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>I can linger for a while, but...\!<br>\quake[1]it\quake[0] will always pull me back...
+
+#message_17:
+#      text: \n<LOST SOUL>\fn<OMORI_GAME>I used to have a friend...\! but the longer we stayed here, he started to...\! turn into something else...\! Oh, how I miss my friend...
+
+#HITCHHIKER AT ABYSS
+message_20:
+      text: \n<HITCHHIKER>Hemos llegado...
+
+message_21:
+      text: \n<HITCHHIKER>¿Querías volver al \c[11]POZO PROFUNDO\c[0]?
+
+message_22:
+      text: \n<GRAN GATO AMARILLO>Tranquilo pequeño.\! Todo va a estar bien.\! Descansa con tus amigos.
+
+message_23:
+      text: No hay vuelta atrás.

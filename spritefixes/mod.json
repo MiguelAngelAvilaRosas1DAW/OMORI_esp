@@ -1,0 +1,676 @@
+{
+  "id": "spritefixes",
+  "name": "Sprite Fixes",
+  "description": "Fixes minor issues with the party's overworld sprites.",
+  "version": "1.5.2",
+  "manifestVersion": 1,
+  "_flags": [
+    "do_olid"
+  ],
+  "image_deltas": [
+    {
+      "patch": "img/characters/!TAG_AUBREY_HAMMER_MASKED.png",
+      "with": "olid/e3641d315071d0515387e1c166ddf10a84734760e55329b993654f68a879f56a.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$BS_Raft.png",
+      "with": "olid/ad84ef5729de91f87d516620065c30c5dde852f13d60184be86bef9a19dee01b.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$Basil_Climb.png",
+      "with": "olid/475f2f9cdb9b2b0a95dadf3d51851433d335244cd6487348fc90d97a6bc477c3.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_AUBREY_FLOUR_RUN%(8).png",
+      "with": "olid/5b9ddf67cbed9f2bc98c5aae6a551921e2a15c5983eac1902f642688f2017421.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_AUBREY_MASKED_RUN%(8).png",
+      "with": "olid/355cfa31926f34c2bed5441a9bab05f97964f688a742ada3bb923a08c6d374ca.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_AUBREY_RUN%(8).png",
+      "with": "olid/3aa5cd79cb927a05261b584acdfd85ad5927cc0d6c0dbcc570f3a8477d075ea0.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_BASIL_RUN%(8).png",
+      "with": "olid/ffcc2147f620abe9ae175f41e675a5b6761a6608c6c6176981c6c31e26fc14e3.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_BASIL_SLEEP.png",
+      "with": "olid/5f025e165069f43ea4e0a459962c2dc475aa0f2c0ed55dd583459aabeda3bc8e.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_HERO_FLOUR_RUN%(8).png",
+      "with": "olid/6b8b8f4720d43fd33d44f0dc61515dccb99035cf9124e525da68ca7b6d26aa98.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_HERO_MASKED_RUN%(8).png",
+      "with": "olid/22877b5547fa0a592a05397770a60858d2d904466b73baa4838b6f415fabf5e4.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_HERO_RUN%(8).png",
+      "with": "olid/a47c42eb31f3d81eb44cbb55a4bd3078184490edae25b064a54caa1bca1a533e.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_HERO_charm_masked.png",
+      "with": "olid/16d3d13a075a1e8b51d5c9f302fb780237edfb53fd192eb295aa826592311278.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_KEL_MASKED_RUN%(8).png",
+      "with": "olid/eef6a5c18f4c70acc393aea47884ac2ad0375a2e23763fbb5cda4891a9b59627.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_Mari_Hero_Hug.png",
+      "with": "olid/61f28d8aecf5fb1c5c34d0fca631949ec7e55a7d4867d57c49aa1585c747e6f7.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_Mari_Omori_Hug.png",
+      "with": "olid/adaf2151308899b9b7bde7d473113e3c3463dd74f874a220d437521acddfc325.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_Mari_Omori_Hug_Mirror.png",
+      "with": "olid/be02ea938d23d703196f5b50af112dcdea2eaf773d8af5f252342d81a2500620.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_OMORI_DIG_RUN%(8).png",
+      "with": "olid/d12458ef36ee00eed282b6e1716f2fb23b6d3e4b689c6325ba8b1347e2a15e99.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_OMORI_FLOUR_RUN%(8).png",
+      "with": "olid/e59c0856a6bb122b63c7b73ea73dc382adba6cec58187ed061d3b913105012ae.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_OMORI_F_RUN%(8).png",
+      "with": "olid/3dfb9341dd938f92cdd551c40e067b34e6905d50ff66e81e2d3deb15fddc0993.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_OMORI_MASKED_RUN%(8).png",
+      "with": "olid/4382365e4433767d544c3e3ccf6d77a076a6c2eca2ae1e7c03b7b855decf3d60.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_OMORI_RUN%(8).png",
+      "with": "olid/230d71b302d812287e5f95e90dcd85156c81f39edfc249d7c83fd8708b00b853.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$DW_SleepingChars.png",
+      "with": "olid/9867e804e40a64f35fe6ec86107cf77324d701f94f1642ebc3b0515baefb172d.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_AUBREY_RUN%(8).png",
+      "with": "olid/25fc5df5c250f6e3381801dfe8a9d6fdc89e443bbeefd1e11d00e15ee94a9ece.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_BASIL_RUN%(8).png",
+      "with": "olid/93b5719a2438ef9359b2316576f4458c7234ba9c938dd1f7153640c3ef157add.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_HERO_NIGHT_RUN%(8).png",
+      "with": "olid/a90769c83447f1f7bc6ab5a4f265df5ea5981ec1e2c3ea9bb41371497b89dc15.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_HERO_RUN%(8).png",
+      "with": "olid/0d99fa06e3d773cb9bba2dac687b2e45e25f4ec81f0392465b8ff434f4d41630.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_KEL_NIGHT_RUN%(8).png",
+      "with": "olid/079e5ec9f4c705f91fc891e173089cd31e8748a9e29db1674e26229c3648a77b.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_KEL_RUN%(8).png",
+      "with": "olid/b12e5854c44d3649a515902ce036902acbfedd0adb63db88779cfbff820c2f6e.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_MEMORY_SECRETLAKE_SLEEP.png",
+      "with": "olid/fb348a2e5711782e78c8f738600310173e5e1c98588d18cf8164f09182957d5c.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_OMORIPIZZA_RUN%(8).png",
+      "with": "olid/88012f9ba6d410aa57f1ae4b36ae79a4c3c5fa09e5d5f75018059388d628925b.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_OMORI_NIGHT_RUN%(8).png",
+      "with": "olid/c4ebfade1f9b015199999ef97ce15d6fbe330fb455ab8199de7400b74c8a4443.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_OMORI_RUN%(8).png",
+      "with": "olid/a92f00a16c0f9ea8fd1fd4b5890629baf87abbf79c17502d51a6a06d94aadc3c.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_Omori_Basil_Hug.png",
+      "with": "olid/10b273d6db6f6f94469deadabb33eb5d01d1e3b045d56a382d08e9c924795a25.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_swings.png",
+      "with": "olid/cbdc87ac447e7b2447924b4f88c28ee2b33a4bd5c795ae790ace2474ab1acb0d.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_swings2.png",
+      "with": "olid/117e871d11d64c0e3893ec88ff71cafc9a5276ee1040d21085ff4cf2e226e2a3.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$FA_swings_2.png",
+      "with": "olid/93c624e7c7be795e482dd2fcaab06956fc9c36cd9996c19a27bd1acc0db55a4b.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/$SHADOW_MEMORY_SECRETLAKE_SLEEP.png",
+      "with": "olid/b3beb931a0685cb6796091dfa8b8266596cd3b0465a14fa62943bb72f9747f18.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/BS_BASIL.png",
+      "with": "olid/e4adb5b73813ee9df9d9b3ebd36b9b76a0236999c7a2b7ce1b6569758b7f7bca.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/BS_mannequins.png",
+      "with": "olid/f31e79d9d7baeb0e1b204c7a75f3ba5300723d709d2f6938aa3a29f8cea03d16.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/BS_mannequins_2.png",
+      "with": "olid/0707630cb7a0d42e6b32fd363b87bd4156ebbefd7e173fc26e9aa4ef7648374e.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/BS_raft_sprites.png",
+      "with": "olid/fa7c2c80ca4a5b097cb6c5d4d9124097bf5136117c49733457ea52331a5f418f.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_AUBREY_FLOUR.png",
+      "with": "olid/7759ad1e11c8a3320614688f197fb4818ea21c252deacdbb89a87d577a43aeb2.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_AUBREY_FLOUR_RUN8.png",
+      "with": "olid/6ea97be74fbcccb0ed143f35595d701a59929b1b0e1811281240a36dc2962844.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_BASIL.png",
+      "with": "olid/27f4c1f8ae43e360475500ff7b33f75529e985d6c6971b32e3526c3f9d4e581e.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_BREAKTIME_2.png",
+      "with": "olid/1fcb0781b5e2241dbde15dba39e5e72cde36c5ccde70130fcc9082cca73ee35f.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_BREAKTIME_4.png",
+      "with": "olid/a8c79008128aa7ab994cb481b59a0ae0d2b48b2b8750c2d6b870e23024c0998a.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_Climb.png",
+      "with": "olid/3c45076f2c5736a3ae40b66b974f7a9fc509d133820a914d092292ad709964bc.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_HERO.png",
+      "with": "olid/12fd8aefe504e73dfe5314b1b12df639d3536ee882540a311abc9ef961e95a75.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_HERO_FLOUR.png",
+      "with": "olid/efab08f60f31d6e50e882e0dfed50c40fe939a596b6289627e16b815d364620a.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_HERO_FLOUR_RUN8.png",
+      "with": "olid/b0cfa7bf2453504141aeebb0b264de06d71532ff1b3f26eea2eb3abb0083e272.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_KEL.png",
+      "with": "olid/fd0e5e2e138c16a0b167f20e5b55ceebb38284e5fc38f35bfebaf16ea6f10062.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_KEL_FLOUR.png",
+      "with": "olid/01838ac7b3b9ef7ef3f8979c254f30379e691d7e6570a5ab975e4740ed6c3477.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_KEL_THROW.png",
+      "with": "olid/d40dc5ce3c4cc8cda5cdf248d780cbcf000d793a04c5a04e686ef9c2e29b9248.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_MARI.png",
+      "with": "olid/e7ba2ffa9e5e956c18f3087fd149e98ce832875019cc6b9576aead3621da84c2.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_MaskedChars.png",
+      "with": "olid/e1ff1fc92312217b676d93c991fc8b22f68b5d0aa59366304cdbbb5f66475889.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_MaskedKelThrow.png",
+      "with": "olid/fa92996bdbd918120af13e6f542550cd76bf4b3c8ae3225df1db828cb84bac33.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_NPC_18.png",
+      "with": "olid/e80bfb4ae796ebe309290808d4730acc3d23ab2d176e368ea75b92fb69b77926.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_OBJECTS.png",
+      "with": "olid/bbedf89a9cd5981307450c0606806ee6a4e9234711f2db690770304094c82ceb.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_OBJECTS_2.png",
+      "with": "olid/37f30bb11c1bfec7026f4d200f8076959fa776a67df78fb637ca6e1ea1f799a3.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_OMORI.png",
+      "with": "olid/9dc2a4ebfa72f787a719ee37e03a890b261367c2b8b35063b8daef6751313ccb.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_OMORI_2.png",
+      "with": "olid/3008e69f410fdcdaeef55fd878afeba91f7bf879fa17c438535d9d1d93f3ddb8.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_OMORI_FLOUR_RUN8.png",
+      "with": "olid/070c941c65c7039be6a48362f38e2b45c7c5df62ada308d3373621e36f6e107a.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_OMORI_MASKED_TAG.png",
+      "with": "olid/fc6ce89c92577abc77cf9e7ffc1cfe180719560e06529958403c75e774d9ae1c.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_OMORI_TAG.png",
+      "with": "olid/f203ccf2c817965dc0015caa2358f3ec9b9c84173bc2652eda34157e30396dbc.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_PARTY_EXTRAS.png",
+      "with": "olid/8f235346f92008637a59ce259382635833d96e74cc97904c2801cd2835c3a9c2.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_PARTY_FALL.png",
+      "with": "olid/b16eb06ef24ab312b9bbdabb2c9213dd2f0b6c344c16ede1b62928312c039a42.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_PYREFLY_MINECART.png",
+      "with": "olid/9a3840dfb6db65831d12e8fda747fd84456683bfaa19cdac2c1742f67c429c72.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/DW_Raft.png",
+      "with": "olid/3109222df3284e2b22ec190661a49ef71cf42256d4204d9b4557f7c1f5d29653.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_AUBREY.png",
+      "with": "olid/1bb9d26e06bafe1416fdac008b258cb5ae2f78231012fe55c6710c420a7bcc57.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_AUBREY_Bat.png",
+      "with": "olid/90bcb71685b321f1ca834763208409e2b74bd29bf7794b4eabd77562a460919e.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_BASIL.png",
+      "with": "olid/ee4d6749c38ac6eec51787ea9c1c1e79a6dbadcd6da0db62f69dc70571eba557.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_BASIL_Room.png",
+      "with": "olid/a30d020dc0fd5312445ff2f5c9be55ff4517e4d6920811ffba7afa121deda2db.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_BREAKTIME.png",
+      "with": "olid/da736c9f144c052fa73e0e584a427dd15493666293f108d77ee3516851343338.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_BREAKTIME_2.png",
+      "with": "olid/bc31dcc135586e91e6dc1578699986cae2aacc1c6a4f3dd8569ceb7552488a3a.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_BREAKTIME_3.png",
+      "with": "olid/2776efa46acb8358d6dcdcec5e112fc7c88c38341d73f77a1e6dca739f3ce5eb.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_Climb.png",
+      "with": "olid/39ebd66ce6a06899ec7bbaa95f198a4aad4befa92d27a24f49610e6f4762c312.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_Cooking.png",
+      "with": "olid/ff4dfa63a34471a3e524ed1f0ebcf9a2a29dad96d10bc2160d09ca1ead54b0c8.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_HERO.png",
+      "with": "olid/9e43192b35537d7259a113b21deeeecc2ffd9aa5c70c5852e6a05c9338f40b4a.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_HERO_2.png",
+      "with": "olid/d7c9ba66d2f500ef473352806da336b268d10cf6e07046683eaab0f0d21690fc.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_KEL.png",
+      "with": "olid/c0a10a558bc099b1fb03ac7b3f13c308a8325e93fb00ad7f331f5672d39a9452.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_KEL_2.png",
+      "with": "olid/1ffb8bfdc564a52712f98516fdf456e115e0bfbe13604d8938133da04c97003f.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_KEL_Night.png",
+      "with": "olid/0fd15a7ef73cec102a3463d92b335c4345c48f709ffcb4e264d9dca978e520ff.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_KEL_THROW.png",
+      "with": "olid/c5f91589ee4d45fdf18905fbea5738b1ba5cd0a0949b04676b153e5dbbbe1e66.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_KEL_dig.png",
+      "with": "olid/b0f1c10cca4943f1e6743ef582c24378d0eb0d89034df9b572afc42d359f818b.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_Kel_rl_hi5_oh.png",
+      "with": "olid/187225a90e44759fd79fb6834302b79f91df515fe3ddedbf06067afd56e15184.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_MAIN_SITTING.png",
+      "with": "olid/fc48b7176a6fa3a13461ab6067e0e9a032f81c90cf65a9568e3524d7650171e6.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_MEMORY_BIRTHDAY.png",
+      "with": "olid/d547d3910ff9ed720ef1247aa4190c90b1db330e6e9d11286f48460174edea66.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_MEMORY_CHRISTMAS.png",
+      "with": "olid/587166e8c6374cb5e8d3d164c28b2343a3cef8e64235d8a57af977b7dafe3498.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_MEMORY_RAIN.png",
+      "with": "olid/42782b36945a318e1949765ddd4270a3d55c90d5a436ad8757977ca0f421e9fc.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_MEMORY_SECRETLAKE.png",
+      "with": "olid/b6d30ae8f70ea1edc24720d2d7105f87a051c80e1af9c3afd5d8fc107c070673.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_MEMORY_TREEHOUSE.png",
+      "with": "olid/a8783fd6091919d7e08de9dc25927fc4ec01de9876a835095c194a4411470bff.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_MEMORY_WATERMELON.png",
+      "with": "olid/0d7437aaf97ed29396f22f13a234ad6717d902521f42af1493a99dff5209baa5.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_OMORI.png",
+      "with": "olid/aeac9aa9f54ecd43bff20ea786eeb2e8b5371534c80ba3408f75f81d2b72cce2.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_OMORIPIZZA_RUN.png",
+      "with": "olid/8ae24ee64e26e6cc2925b21e7ac40fdace7f469d5f83f0d430da295490907842.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_OMORI_2.png",
+      "with": "olid/489a14e7d6a77d53d100bf702858151beac6f607832e49564b768668606ab666.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_OMORI_3.png",
+      "with": "olid/407fe7cc3100a7fa618934ab5903acd2e23277021ef298322b284938d80f5f78.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_OMORI_STAB.png",
+      "with": "olid/da5cf7d4ab6e6c891d9374b21696e371d2a90b46cb2a7bdd6375382f9cf507f2.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_OMORI_TAG.png",
+      "with": "olid/e07cd025d514c764042eb32c6bb4fbfbb28a085f3dc0106486d18a5f6bcbbaab.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_Omori_RL_Picnic.png",
+      "with": "olid/5f95f51d7b888eebb9032ed6cdaaf99b3d1463ecff79311b0ad500b97d339145.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_Omori_rl_dishes.png",
+      "with": "olid/49cbd9a14ade27a7892494562fac8a234a4750e058256fd0a75cd8663801770c.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_SCOOTERS.png",
+      "with": "olid/6802e35e3019108e85594bc57622e05e8b0db692edafd75e47c2e09df750f8cc.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_TV.png",
+      "with": "olid/2f94ca6ad3282978b6c735d3b9253cd0708af7b30b608084a44237ee39b1e864.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_hero_rl_charm.png",
+      "with": "olid/993d4b2751a87f5f6cb712d0ed23587993a809c84b52028dbe09462134a38e4e.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_hero_rl_helpup.png",
+      "with": "olid/7dcebfb51a5bd0562e14613006aed66bd59ef3b7f94eafeade87b0855d442c56.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_hero_rl_sleepover.png",
+      "with": "olid/f9dd1cea328cc9066c113c71c3c54e968bd9a7ab250ef89b90456449b949f9f1.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_hooligans_riding.png",
+      "with": "olid/7db15b474035c32765c070b756fd5d0cc9aab6ff3dd15bc80a87604911f96de7.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_kel_rl_hi5_yeah.png",
+      "with": "olid/511c980a1884d00dca5699df890724beef18feb95731cd44268fab7e328a7652.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/FA_kel_rl_sleepover.png",
+      "with": "olid/299f453442e7a189709e1839b1d06ab39c188e1dbcab38ed0bf80e3d61963b00.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/HOSPITAL_PARTY.png",
+      "with": "olid/6430cd8fa8046efe794d61229b42d7d90fc029cac8190894b6095a071294722e.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/OMORI_PLAYER_STAB.png",
+      "with": "olid/167b945efa2eaeb15967b80189450adef97fb33c4575750346f37afb934e674c.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/WS_Omori_Lightbulb.png",
+      "with": "olid/1f94288bcfca63176f40ca414b57b18bd06c04d626d7c2dc3758a7984fdd4392.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/[SF]Cuddle_1.png",
+      "with": "olid/826091814cbb21e14ea245a015b67928468a628e0c0032c44a6261ee31e290c9.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/[SF]Cuddle_2.png",
+      "with": "olid/c0c33a7fbe383327e80df21c342c281f26590354b3169cc0051530ec3d5c5138.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/ghosties.png",
+      "with": "olid/2d21c18d6ab11852367f716c7eed1c429d8e2942ecb914f7fa1723bbe2a3610c.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/objects_bs_minecart.png",
+      "with": "olid/db29f6592d09ce1f7287a1e06b271d4f5414f1e2265d3cab2b1542f8b1fdd2bf.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/characters/objects_pf_minecart.png",
+      "with": "olid/883f978283efb3846ea09e021789a28b77b29cc42506dbbdcf4ff6c062f23e2d.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/DW_PLUTO_Outskirts.png",
+      "with": "olid/dca008cb8a0e4bcc76f9676f345f92d1f527069d680c6dbd2e24de0a72f11946.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/DW_PLUTO_Outskirts_2.png",
+      "with": "olid/1ad531a27bf3d71b99a3f6cfe66e31c9a06940c8f25f8abe4f76082df410ea64.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/FA_Living_Room_1_Player.png",
+      "with": "olid/be92cb8854f2fb100c9f61972c58b0cca3b1da65b71cc7c332629e4e37555b83.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/bs_dark_road_path.png",
+      "with": "olid/0be04fbdab2609901613461572f485cde597f856c8377b6383ab6ae5f664a507.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/happy_chair.png",
+      "with": "olid/59bc7a16ae08384173130e8f2e3a266cfcc488068927f6e75ffc6c7b7b76c6f0.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pictures_dw_extra.png",
+      "with": "olid/aa5d175187be738b6e312aefb8415c3f0a6b794138bec61e6178ede931ea0b07.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pluto_crack_1_1.png",
+      "with": "olid/b2865253b2f884f7fb40823822bb7fff181808ccc7e79824eabe9509ec11a0b2.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pluto_crack_1_2.png",
+      "with": "olid/f71937f784c45c62419b6b2d1d2c08dfae25749666923982cfab5ded64c5938a.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pluto_crack_2_1.png",
+      "with": "olid/f1953a390656169d1ab21339fc80490c73b876fc7309ca8ab1ae2bbb26fee72f.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pluto_crack_2_2.png",
+      "with": "olid/50d47488bac8309798e4c5f98889cd29cb20802b835ef1df96cbb3192ff11cda.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pluto_crack_3_1.png",
+      "with": "olid/c6ebeb4d99a4680bccdad7ae58bf84c32486b3909631526f3858dcf688353787.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pluto_crack_3_2.png",
+      "with": "olid/ec02f5686aef1300e2226c840afe90c84f066cfb6ec57981696f3c9e244698d3.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pluto_crack_4.png",
+      "with": "olid/ad8dd245d19efcb634cd8f7a70118be0934cf84a93e5f1b273df6266e9b4c741.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/pictures/pluto_party_2.png",
+      "with": "olid/6e1421c3ccca62713c443468bf26035de647c090d649c53d0c28f7be011faed3.olid",
+      "dir": false
+    },
+    {
+      "patch": "img/tilesets/DW_LastResort.png",
+      "with": "olid/8fef6076b9a45ca3bd27cf7749cd4adb9abbd2fa5fdc245ff3521b55bff95816.olid",
+      "dir": false
+    }
+  ],
+  "files": {
+    "plugins": [],
+    "assets": [],
+    "files": [],
+    "maps": [],
+    "text": [],
+    "data": []
+  },
+  "$schema": "https://rph.space/oneloader.manifestv1.schema.json"
+}

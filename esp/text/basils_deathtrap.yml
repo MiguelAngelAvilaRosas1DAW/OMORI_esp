@@ -1,0 +1,524 @@
+# =========================================================================================
+# Cutscene: BASIL's DEATHTRAP DIALOGUE
+# =========================================================================================
+
+#Talk to Basil
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \bas¡OMORI!
+
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \bas...
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basEres...\! ¡eres tú de verdad!\!<br>Gracias a dios que estás aquí... ¡Qué alivio!
+
+message_3:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basHe intentado encontrar una salida, pero...\! este sitio es enorme.\!<br>Sigo perdiéndome una y otra vez... y después de un tiempo...<br>Me rendí...
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basLo siento mucho...\! Quizás debería haberlo intentado un poco más...
+
+message_5:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basEn el tiempo que estuve aquí he estado mirando nuestro \c[4]ÁLBUM DE FOTOS\c[0] para hacerme compañía...
+
+message_6:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basCuando tenía miedo, miraba todos estos recuerdos juntos para calmarme...
+
+message_7:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \bas¡Sabría que vendrías a salvarme, OMORI!<br> ¡Al fin y al cabo, eres mi mejor amigo!
+
+message_8:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \bas¡Estoy seguro de que saldremos de aquí ahora que has llegado!\!
+
+message_9:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basEste lugar parece un pelín peligroso, aunque... Confío en ti...
+
+message_10:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \bas¡Guia el camino, OMORI!
+
+# =========================================================================================
+# Cutscene: GOOD/BAD ROUTE: Lost Forest Progression
+# =========================================================================================
+
+message_20:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basHey, OMORI...\! Me preguntaba si...\!<br>¿Sabes cómo he llegado aquí?
+
+message_21:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basHe intentado recordar, pero mi memoria sigue borrosa...\!<br>Creo que...\! Estuve mirando una foto...\!<br>Una foto de \quake[1]\fn<OMORI_GAME> un violín roto... #?
+
+message_22:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basY sí...\! hmm...\! ¿Quizás estuve imaginándomelo?\! No lo sé...
+
+message_23:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basAhh...\! Había algo más también, pero...
+
+message_24:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basHmm...\! era...\! probablemente no sea nada.\!<br>¡Démonos prisa y salgamos de aquí!
+
+# =========================================================================================
+# Cutscene: Upon entering/respawning with BASIL at the Stump Arena
+# =========================================================================================
+
+message_29:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHey, OMORI...
+
+message_30:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basNo me sentía seguro estando ahí fuera por lo que me escondí, me alegra mucho que me encontrases.
+
+message_31:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \bas¿Cómo están todos?\!<br>Espero que no se hayan preocupado mucho por mí...\!<br>¡No puedo esperar a verles otra vez!
+
+# =========================================================================================
+# Cutscene: Upon entering Forest Stump.
+# =========================================================================================
+
+message_40:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basH-Hey...\! OMORI...\! Estuve pensando y...\! Tengo que contarte algo...\!<br>¿Me escucharías por un momento?
+
+message_41:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas¿OMORI...?
+
+# =========================================================================================
+# Cutscene: Upon entering Hallway Stump.
+# =========================================================================================
+
+message_50:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \bas¿Estás bien, OMORI?\! Estás un poco raro...
+
+message_51:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \bas¿Ha pasado algo mientras no estaba?
+
+# =========================================================================================
+# Cutscene: Upon entering Spider Stump.
+# =========================================================================================
+
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basHey...\! Siento mucho sacar este tema, pero...\!<Br>Hay algo que me preocupa...
+
+message_61:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basEs...\! umm...\! sobre MARI...\!<br>Quizás sepas de lo que estoy hablando.
+
+message_62:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basAck!\! Hay tantos bichos aquí...\! No me gusta este sitio...
+
+message_63:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas¡Ow!\! Me hacen daño...\! ¡Están mordiéndome!\! ¡Ack! ¡No puedo quitarmelos de encima!
+
+message_64:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas¡Hay demasiados! ¡Están comiéndome vivo! ¡OMORI! ¡¡AYUDA!!
+
+# =========================================================================================
+# Cutscene: Watermelon Stump
+# =========================================================================================
+
+message_70:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHey, OMORI...\! Estás...\! ¿Estás perdido?<br>Es-Está... No pasa nada si lo estás ¡No te juzgaré, lo prometo!
+
+# =========================================================================================
+# Cutscene: Upon entering Dark Hand Stump.
+# =========================================================================================
+
+message_80:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basE-Espera...\! Estoy...\! Lo siento, OMORI.\!<br>No me encuentro bien
+
+message_81:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basAlgo va mal...\!<br>Hay algo que debo decirte...\!<br>Por favor...\! OMORI...\! ¿vas a escucharme?
+
+# =========================================================================================
+# Cutscene: Upon entering Raft Stump.
+# =========================================================================================
+
+message_90:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basOMORI...\|\^ No me gusta este lugar para nada...\|\^<br>Este sitio no es seguro.\|\^
+
+message_91:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basBueno...\|\^ al menos nos tenemos el uno al otro.\|\^ Jeje...\|\^
+
+message_92:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basEn realidad...\|\^ Hay algo que me sigue preocupando...\|\^<br>¿Te importaría escucharme por un momento?\|\^
+
+# =========================================================================================
+# Cutscene: Upon entering Elevator Stump.
+# =========================================================================================
+
+message_100:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \bas¿Un ascensor?\! ¡Me pregunto hacia donde nos llevará.\! ¡Quizás nos lleve de vuelta a casa!
+
+message_101:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basEn-En realidad...\! mientras estamos aquí.\!<br>¿Puedo contarte algo?\! ¿OMORI?
+
+# DING SFX
+
+message_102:
+      text: ¿Dónde quieres ir? #?
+
+message_103:
+      text: OTHERWORLD
+
+message_104:
+      text: VAST FOREST
+
+message_105:
+      text: VILLA BROTE DE TIERRA
+
+message_106:
+      text: POZO PROFUNDO
+
+message_111:
+      text: ESPACIO NEGRO
+
+# Aftermath
+
+message_107:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basEspera, OMORI.\! Creo... Creo que estoy atascado.
+
+message_108:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basPor favor... ayudame...
+
+#
+
+message_109:
+      text: \basHnnn...\| Gggg...\| Huahhh...\| O... MORI...
+
+# =========================================================================================
+# Cutscene: Upon entering Mercy Stump.
+# =========================================================================================
+
+message_110:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basH-Hey, OMORI...\! Este lugar no parece muy seguro...\!<br>Quizás deberíamos encontrar otra salida...
+
+# =========================================================================================
+# Cutscene: Upon entering Friends Stump.
+# =========================================================================================
+
+message_120:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basHey, OMORI...\!<br>Tengo que contarte algo...\!<br>Sigo viendo una imagen en mi cabeza...
+
+message_121:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basEstamos tu y yo...\! y...\!<br>Estamos cogidos de las manos...
+
+message_122:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas...\! MARI...\! MARI tambien está ahí,\! pero...
+
+#HERO walks in the screen
+
+#Basil exclamation mark icon
+
+message_123:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \bas¡HERO! ¡Eres tú!\! ¿Qué estás haciendo aquí?
+
+message_124:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \bas¡Mira, OMORI! ¡HERO está aquí!\! ¡Vamos a seguirle!
+
+#FOLLOW HERO
+
+message_125:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \bas¡KEL!\! ¡AUBREY!\! ¡Me alegra veros otra vez!
+
+message_126:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \bas¿Qué tal estáis?\! ¿Me hechábais de menos? jeje...
+
+#Aubrey and KEL do their tag poses.
+
+message_127:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basEs-Espera...\! Qué...\! ¿Qué estáis haciendo?
+
+message_128:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \basOMORI...\! Ayu-
+
+#Screen goes black.
+
+# =========================================================================================
+# Cutscene: Upon entering RED SPACE
+# =========================================================================================
+
+message_134:
+      text: Dedo.
+
+#Stump exit
+
+message_130:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basH-Hey, OMORI...\! Estás un poco distante...\!<br>¿Hice algo malo?
+
+message_131:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\{\Com[2]AHHH! \Com[2]¡¿QUÉ PASA!?
+
+message_132:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]\{¡¡OMORI!!\! ¡¡¡AYUDA!!!
+
+#Talk to Basil
+
+#Repeat message_132
+
+message_133:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]\{¡¡¡¡POR FAVOR!!!!
+
+#OMORI CUTS BASIL
+
+
+# =========================================================================================
+# Cutscene: Upon entering Black Space Entrance.
+# =========================================================================================
+
+message_140:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHey, ¿es esa la salida?\! Hemos llegado rápido.. jeje...\!
+
+message_141:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basMe alegra tanto que seas mi amigo, OMORI.\!<br>Siempre sabes como lidiar con todo...\!<br>Te admiro mucho.
+
+message_142:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basH-Hey, OMORI...\! En realidad...\! Disculpa...\!<br>Antes de marcharnos, hay algo...\! umm...
+
+message_143:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basHay algo que necesito contarte...
+
+message_144:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basEs...\! Es sobre MARI...
+
+#Spotlight on Exit disappears
+
+message_145:
+      faceset: MainCharacter_Basil
+      faceindex: 3
+      text: \bas\Com[2]¿H-Huh?\! ¡¿QUÉ OCURRE!?\! \Com[2]¡La salida se ha ido!
+
+message_146:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \basOh no...\! OMORI...\!<br>¿Qué hacemos?
+
+#When OMORI talks to BASIL, he CUTS him instead.
+
+message_147:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \bas¡O-OMORI... !
+
+message_148:
+      faceset: MainCharacter_Basil
+      faceindex: 4
+      text: \bas¡O-OMORI, ayúdame!
+
+# =========================================================================================
+# NEUTRAL ROUTE: Upon entering Black Space Entrance.
+# =========================================================================================
+
+message_150:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \bas¡Hey! ¡Es la salida!\! ¡Lo hemos conseguido, OMORI!
+
+message_151:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \bas¡Vamonos de aquí! ¡Nos están esperando!
+
+#INSIDE THE TREEHOUSE
+
+message_160:
+      text: gato
+
+message_161:
+      text: tostada
+
+message_162:
+      text: juguete
+
+message_163:
+      text: juego   
+
+message_164:
+      text: televisión
+
+message_165:
+      text: libro
+
+#---
+
+message_166:
+      text: calendario #?
+
+message_167:
+      text: tostada?
+
+message_168:
+      text: diversión
+
+message_169:
+      text: cartas
+
+message_170:
+      text: pesado #?
+
+message_171:
+      text: cocina #?
+
+#---
+
+message_172:
+      text: verano
+
+message_173:
+      text: amistad
+
+message_174:
+      text: abandono #?
+
+message_175:
+      text: galletas
+
+message_176:
+      text: kel
+
+message_177:
+      text: liblo #?
+
+#---
+
+message_180:
+      text: \n<MARI?>¡Expande tu mente, OMORI!
+
+message_181:
+      text: \n<MARI?>¡Expaaaaaaande!
+
+message_182:
+      text: \n<MARI?>¡Expaaaande tu mente!
+
+message_183:
+      text: \n<MARI?>¡Expande, OMORI!
+
+message_184:
+      text: \n<MARI?>\fn<OMORI_GAME>Expande...
+
+message_185:
+      text: \n<MARI?>\}\}\fn<OMORI_GAME>Expande...
+
+message_186:
+      text: \n<CHICAZÚL>No me hables.
+
+message_187:
+      text: \n<NUBEAZUL>¡Sigue a la nube!
+
+message_188:
+      text: Del revés.
+
+message_189:
+      text: \n<ESQUELE>¡Baila, canijo! #?
+
+message_190:
+      text: Te has echado una buena siesta.

@@ -1,0 +1,312 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 2 - SUNSET
+#=========================================================================================
+
+
+#=========================BASIL==============================
+
+#Location: BASIL'S ROOM IN BED
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 12
+      text: \n<BASIL>\}Oh, \n[8]...\! No hay...\! forma de escapar de esto...\! ¿verdad?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelEl pobre BASIL ha pasado por tanto en estos últimos días...
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herBASIL... Debes estar cansado.\! Por favor descansa un poco... <br>Volveremos por ti mañana.
+
+#=========================ANGEL==============================
+
+#Location: Angel's Bedroom
+
+#ADD FWAAAAA
+message_10:
+      text: \n<ANGEL>\Com[2]\sinv[1]\{\{¡¡AHHHHH!! ¡¡INTRUSOS!!
+
+message_11:
+      text: \n<ANGEL>Oh... Son solo ustedes.
+
+message_15:
+      text: \n<ANGEL>¡Oigan, esperen un momento!\! \SINV[2]Jajaja...\!\SINV[0]<br>¡Ahora es el mejor momento para desafiarlos a una revancha!\!<br>\Com[2]¡Listos o no, aquí voy!
+
+#[Battle: Angel]
+
+#player win
+message_12:
+      text: \n<ANGEL>Hmph...\! lo que no sabían es que estaba usando esta pelea para estudiar sus fortalezas y debilidades...\! ¡La próxima vez que luchemos, la victoria no será tan fácil!
+
+#player lose
+message_13:
+      text: \n<ANGEL>Hmph...\! puedo notar que estaban teniendo clemencia conmigo, ¿saben?...\!<br>Seré un niño, ¡pero no soy estúpido!
+
+#=========================CHARLIE==============================
+
+#Location: Charlie's Bedroom
+
+#Charlie explanation mark
+
+message_20:
+      text: \n<CHARLENE>\}...\! Hola...\! Mi nombre es...\! CHARLENE...
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kel\com[2]¿CHARLENE?\! ¡Todo este tiempo pensé que tu nombre era CHARLIE!
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel¡Hola, CHARLENE!\! ¡Soy KEL... y estos son \n[8] y HERO!
+
+message_23:
+      text: \n<CHARLENE>\}...\! Hola...\! a todos...\! Jeje...
+
+
+#=========================KIM==============================
+
+#Location: Kim's Bedroom (Mom's House) staring at the photo of AUBREY and KIM next to her bed.
+
+message_30:
+      text: \n<KIM>\}AUBREY...\! ¿Por qué no me dices qué es lo que pasa?
+
+message_31:
+      text: \n<KIM>\Com[2]¡Ah!\! Tsk... tsk...\!<br>Ugh... Solo son ustedes...\! ¿¡Qué los hace creer que pueden entrar a las habitaciones de la gente de esa manera!?
+
+message_32:
+      text: \n<KIM>Deben haberse hecho amigos de mi mamá, ¿eh?\!<br>Deja entrar a cualquiera que la escuche hablar...
+
+#====================THE MAVERICK==============================
+
+#Location: The Maverick's Bedroom
+
+message_40:
+      text: \n<EL MAVERICK>Estoy sintiendo una presencia malévola viniendo desde adentro de mi casa...\! Tal vez lo estoy sobreanalizando......\! Pero nunca puedo estar demasiado seguro...
+
+message_41:
+      text: \n<EL MAVERICK>Fiuf...\! Mi hermano y hermana son una verdadera molestia, ¿no crees?\! ¡Todos aquí piensan lo mismo!
+
+message_42:
+      text: \n<EL MAVERICK>Ah... Así que has conquistado al gran mal.\!<br>¿Qué te ha costado?\! Puedo ver el dolor en tus ojos.
+
+
+#====================VANCE==============================
+
+#Location: Vance's Bedroom (Mom's House)
+
+message_50:
+      text: \n<VANCE>Ñam...\! Ñam...\! Ñam...
+
+message_51:
+      text: \n<VANCE>Oh, hola.\! ¿Qué hay?
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kel¿Huh? Estás muy calmado...\! ¿No nos vas a desafíar a una pelea o algo así?
+
+message_53:
+      text: \n<VANCE>Hmm...\! No, no tengo nada realmente contra ustedes.\!<br>KIM y yo solo hacemos lo mismo juntos.
+
+message_54:
+      text: \n<VANCE>Soy solo un año mayor que ella, pero nadie me cree por mi barba...
+
+message_55:
+      text: \n<VANCE>Habla mucho, pero tiene un grán corazón.\!<br>¿Y yo?\! Tengo músculos grandes.
+
+#====================ARTIST==============================
+
+#Location: Artist's house
+
+message_60:
+      text: \n<ARTISTA>Estoy boceteando mi siguiente pintura, pero no estoy segura de dónde comenzar...\! ¡Es tan difícil tener buenas ideas! Debería dejar de ser artista y convertirme en cuidadora de zoológico o algo así.
+
+#====================SHORT HAIR GIRL==============================
+
+#Location: SHORT HAIR GIRL's House
+
+message_70:
+      text: \n<CHICA DE CABELLO CORTO>Estoy pensando en escribirle una carta a mi enamorado para decirle lo que siento...
+
+#====================FASHIONABLE MOM==============================
+
+#Location: SHORT HAIR GIRL's House (Pick up furniture quest)
+
+message_80:
+      text: \n<MAMÁ A LA MODA>Mi CAFETERA está allí en la cocina.<br>\!Con cuidado...\! ¡Es muy fuerte!
+
+#====================INTIMIDATING GIRL==============================
+
+#Location: SHORT HAIR GIRL's House
+
+message_90:
+      text: \n<CHICA INTIMIDANTE>Acabo de volver hoy de la universidad.\!<br>¡Ya extraño la ciudad! Aquí es muy callado.
+
+#====================SCHOOL PRINCIPAL==============================
+
+#Location: Hardware Store looking at flowers
+
+message_100:
+      text: \n<DIRECTORA>A veces vengo aquí a ver las flores.\!<br>Estoy pensando conseguir unas para la casa, pero escuché que algunas plantas atraen hormigas...
+
+message_101:
+      text: \n<DIRECTORA>Las hormigas son mis archienemigos...\!<br>¡Lo último que quiero son hormigas caminando por mi casa!
+
+#====================OLD BEARDY==============================
+
+#Location: Graveyard (Lost dentures quest)
+
+message_110:
+      text: \n<VIEJO BARBUDO>\QUAKE[1]¡Afuda!\! ¡¡Vis vienves fo esvan!!\! ¿Fueven enconvrarlos?\QUAKE[0]
+
+#After finding teeth:
+
+message_112:
+      text: \n<VIEJO BARBUDO>Gracias, amigos.\!<br>¡A veces a estos fantasmas les gustan hacerme bromas!
+
+message_113:
+      text: \n<VIEJO BARBUDO>No queréis lastimarme...\!<br>Mis viejos ojos ya no son lo que eran...
+
+#====================CRIS'S MOM==============================
+
+#Location: Supermarket
+
+message_120:
+      text: \n<MAMÁ AMERICANA>\SINV[1]¡La-la-la!\! ¡La-li-la!\! ¡Lu-li-la!\! ¡La-li-la!\SINV[0]
+
+#====================CURTSEY==============================
+
+#Location: Pharmacy
+
+message_130:
+      text: \n<CHICA LINDA>La SEÑORITA CANDICE me dijo que comprara unos analgésicos para su dolor de cabeza.\! Aparentemente muchos niños de aquí les gusta robar \c[3]CARAMELO\c[0]...
+
+message_131:
+      text: \n<CHICA LINDA>Deben ser muy valientes.\! La SEÑORITA CANDICE es muy aterradora cuando está enojada...
+
+#====================KAREN==============================
+
+#Location: Supermarket
+
+message_140:
+      text: \n<CHICA CON COLETAS>Hmmm... nunca antes cociné para una fiesta entera...\!<br>Tal vez estoy siendo demasiado ambiciosa...
+
+message_141:
+      text: \n<CHICA CON COLETAS>¿Debería conseguir algo de mejor calidad o con mayor cantidad?\! ¿Cómo se cuál debo elegir?
+
+message_142:
+      text: \n<CHICA CON COLETAS>¿La cebolla roja y la cebolla de verdeo son lo mismo?
+
+message_143:
+      text: \n<CHICA CON COLETAS>Fiuf...\! Tal vez solo debimos haber pedido delívery.
+
+message_144:
+      text: \n<CHICO A CUADROS>Oye, no tienes que estresarte tanto por eso, KAREN. ¡Yo creo en tí!\! Además...si nadie come tu comida...<br>¡ten por seguro que yo lo haré!
+
+message_145:
+      text: \n<CHICA CON COLETAS>Oh, SEAN... Eres tan dulce.<br>¿Qué hice para merecer a alguien cómo tú?
+
+#====================KEL'S DAD==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room watching TV
+
+message_150:
+      text: \n<PAPÁ DE KEL>Le ofrecí a tu mamá ayudarla a cocinar la cena para esta noche, pero ya sabes cómo es en la cocina...
+
+#After Cutscene: Kel's Mom
+#Location: Kel's Dining Room
+
+message_151:
+      text: \n<PAPÁ DE KEL>¡Asegúrate de decirle lo bien que sabe su comida!
+
+#After Cutscene: Convincing Kel's Mom:
+#Location: Kel's Living Room
+
+message_152:
+      text: \n<PAPÁ DE KEL>No te preocupes demasiado por tu madre, HERO.<br>¡Solo te extrañó, eso es todo!\!<br>Se sentirá mejor una vez que se calme...
+
+message_153:
+      text: \n<PAPÁ DE KEL>¡Ustedes vayan a hacer sus cosas, chicos!<br>Me aseguraré de que ella esté bien.
+
+#KEL'S DAD leaves to KEL'S PARENT'S ROOM.
+#Examine KEL'S PARENT'S ROOM.
+
+message_154:
+      text: La puerta está cerrada.
+
+#====================KEL'S MOM==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room
+
+message_160:
+      text: \n<MAMÁ DE KEL>Está bien, pueden ir...\! ¡Solo asegúrense de volver para la cena!
+
+message_161:
+      text: \n<MAMÁ DE KEL>
+
+#====================Kim and Vance's Mom==============================
+
+#Location: Kim's House
+
+
+message_171:
+      text: \n<DAMA DE LENTES ROJOS>¡Se suponía que mi hijo e hija ya tendrían que estar en casa! ¿¡Qué es tan importante que se olvidarían de pasar tiempo con su madre!?
+
+
+
+#====================Polly==============================
+
+#Location: Basil's House
+message_180:
+      text: \n<POLLY>Noté que a BASIL le gusta mucho ir al parque, pero no estaba ahí cuando fui a revisar...
+
+message_181:
+      text: \n<POLLY>Su abuela no está muy bien...\!<br>Estaba intentando calmarlo, pero en lo que hablaba, comenzó a sacurdirse y huyó...\! Fiuf...\! Espero que esté bien...
+
+#====================SARAH==============================
+
+#Location: Sarah's House
+
+message_190:
+      text: \n<CHICA CON COLETAS>Mamá y Papá aún no han vuelto.\!<br>Se está haciendo tarde... ¿Dónde podrían estar?
+
+#talk again
+
+message_191:
+      text: \n<CHICA CON COLETAS>Estoy intentando comer más saludable, pero se nos acabó la salsa ranchera...\!<br>¿Cómo voy a comer mis zanahórias y apio ahora?
+
+message_192:
+      text: \n<CHICA CON COLETAS>El amor es asqueroso...
+
+#====================SARAH'S DAD==============================
+
+#Location: Candy Shop (Anniversary chocolate quest)
+
+message_200:
+      text: \n<TIPO TORPE>\sinv[1]¡Eres tan hermosa que podría besarte ahora mismo!\sinv[0]
+
+#====================SARAH'S MOM=============================
+
+#Location: Gino's Pizza (Anniversary Pizza quest)
+
+message_210:
+      text: \n<SEÑORITA COLETA>¡Oh, dios mío! Me haces sonrojar...\!<br>¡Recordaré este aniversario por siempre!
+
+#====================SEAN=============================
+
+#Location: Supermarket
+#ref 140 - 145

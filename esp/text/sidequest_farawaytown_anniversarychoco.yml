@@ -1,0 +1,166 @@
+# =========================================================================================
+# Sidequest: anniversary CHOCOLATE
+# =========================================================================================
+
+#TRIGGER: Talk to CHICO TORPE
+
+message_0:
+      text: \n<CHICO TORPE>Jo, tio... Ahora sí que estoy en problemas...
+
+message_1:
+      text: \n<CHICO TORPE>Olvidé que hoy era el aniversario de mi esposa y yo...\! y aquí estoy buscando algo... Jaja...
+
+message_2:
+      text: \n<CHICO TORPE>Sé que últimamente me he estado portando como un tonto...\! ¡Así que quiero que este regalo la impresione!
+
+message_3:
+      text: \n<CHICO TORPE>Excepto...\! Que como siempre...\! No tengo ni idea de lo que estoy haciendo...\!<br>Creo que necesito algo de ayuda.
+
+message_4:
+      text: \n<CHICO TORPE>Asi qué...\! ¿Podriais hacerme un favor y ayudarme a elegir un regalo para mi esposa?\! ¡Gracias de antemano!
+
+#Examine CHOCOLATE / CARAMEL APPLES / CANDY:
+
+# [YES]
+
+message_5:
+      text: \n<CHICO TORPE>¡Sí!\! ¡\c[3]CHOCOLATE\c[0]!\! ¡Ella amará el \c[3]CHOCOLATE\c[0]!
+
+message_6:
+      text: \n<CHICO TORPE>¡Sí!\! ¡\c[3]MANZANAS CARAMELIZADAS\c[0]!\! ¡Ella amará las \c[3]MANZANAS CARAMELIZADAS\c[0]!
+
+message_7:
+      text: \n<CHICO TORPE>¡Sí!\! ¡\c[3]DULCES\c[0]!\! ¡Ella amará los \c[3]DULCES\c[0]!
+
+message_28:
+      text: \n<CHICO TORPE>¿Crees que eso la impresionará?
+
+message_29:
+      text: \n<CHICO TORPE>Gracias por la ayuda...\!<br>Eso estuvo cerca.
+
+message_30:
+      text: \n<CHICO TORPE>\sinv[1]\{\{¡¡GENIAL!!\sinv[0]
+
+# [No]
+
+message_8:
+      text: \n<CHICO TORPE>Quizás no...\! Esta es una decisión muy importante...\! ¡Realmente tenemos que pensarlo bien!
+
+#Cutscene: Sarah's Dad Buys CHOCOLATE
+
+message_9:
+      text: \n<CHICO TORPE>¡Hola, señora!\!<br>Me gustaría comprar algo de \c[3]CHOCOLATE\c[0], ¡por favor!\!<br>¡Es para mi esposa!\! ¡Hoy es nuestro aniversario!
+
+message_10:
+      text: \n<CHICO TORPE>¡Hola, señora!\!<br>Me gustaría comprar unas \c[3]MANZANAS CARAMELIZADAS\c[0], ¡por favor!\!<br>¡Es para mi esposa!\! ¡Hoy es nuestro aniversario!
+
+message_11:
+      text: \n<CHICO TORPE>Hola, Se'ño!\!<br>Me gustaría comprar unos \c[3]DULCES\c[0], ¡por favor!\!<br>¡Es para mi esposa!\! ¡Hoy es nuestro anivesario!
+
+message_12:
+      text: \n<SEÑORITA CANDICE>¡Por supuesto!\! ¡Sonrisita, sonrisita!\!<br>¡Gracias y por favor venga otra vez!\! ¡Sonrisita, sonrisita!
+
+message_13:
+      text: \n<CHICO TORPE>¡Gracias por la ayuda, chicos!\!<br>Seguiré por mi camino ahora...\! ¡Deseadme suerte!
+
+message_14:
+      text: \n<SEÑORA CON COLETA>Hey, sois vosotros dos.\! Gracias por convencerme a comprar una \c[3]PIZZA\c[0] para mi marido.\! Se le ve muy feliz...\! ¡y eso me hace feliz!
+
+message_15:
+      text: \n<SEÑORA CON COLETA>Respecto al regalo que me dio...
+
+message_16:
+      text: \n<SEÑORA CON COLETA>Probablemente se le olvidó, pero nos conocimos en la <br>\c[11]TIENDA DE DULCES\c[0] cuando éramos adolescentes.
+
+message_17:
+      text: \n<SEÑORA CON COLETA>Me compró \c[3]CHOCOLATE\c[0] en ese entonces, también...\! <br>Jeje...\! Dijo que fue porque era la chica más bonita que había visto.
+
+message_18:
+      text: \n<SEÑORA CON COLETA>Me compró \c[3]MANZANAS CARAMELIZADAS\c[0] en ese entonces, también...\! <br>Jeje...\! Dijo que fue porque era la chica más bonita que había visto.
+
+message_19:
+      text: \n<SEÑORA CON COLETA>Me compró \c[3]DULCES\c[0] en ese entonces, también...\! <br>Jeje...\! Dijo que fue porque era la chica más bonita que había visto.
+
+message_20:
+      text: \n<SEÑORA CON COLETA>Fue un gesto muy simple, pero su sinceridad fue realmente lo que me atrajo a él.
+
+message_21:
+      text: \n<SEÑORA CON COLETA>Él siempre ha sido un poco distante, pero puedo darme cuenta de que realmente se precoupa por mí...\! Supongo que por eso está bien si algunas veces no estamos de acuerdo.\! ¡El matrimonio se trata de compromiso!
+
+message_22:
+      text: \n<SEÑORA CON COLETA>De todas formas, gracias por ayudarme hoy.\!<br>Tomad esto por las molestias.
+
+message_23:
+      text: ¡Conseguiste un \c[3]TROZO DE PIZZA\c[0]!
+
+message_25:
+      text: ¿Debería el CHICO TORPE comprar \c[3]CHOCOLATE\c[0]?
+
+message_26:
+      text: ¿Debería el CHICO TORPE comprar \c[3]DULCES\c[0]?
+
+message_27:
+      text: ¿Debería el CHICO TORPE comprar \c[3]MANZANAS CARAMELIZADAS\c[0]?
+
+message_60:
+      text: \n<SRTA. CANDICE>¿Eligiendo entre \c[3]DULCES\c[0], \c[3]MANZANAS CARAMELIZADAS\c[0], y \c[3]CHOCOLATE\c[0]?\! ¡Esa es una decisión difícil!\! ¡Sonrisita, sonrisita!
+
+message_300:
+      text: Elegiste el \c[3]CHOCOLATE\c[0].
+
+message_301:
+      text: Elegiste los \c[3]DULCES\c[0].
+
+message_302:
+      text: Elegiste las \c[3]MANZANAS CARAMELIZADAS\c[0].
+
+# =========================================================================================
+#Cutscene: Old Love (Triggers when both anniversary Pizza and anniversary CHOCOLATE are complete)
+# =========================================================================================
+
+message_40:
+      text: \n<CHICO TORPE>Mi amor...\! Es nuestro aniversario hoy, así que te compré...\!<br>¡\c[3]CHOCOLATE\c[0]!
+
+message_41:
+      text: \n<CHICO TORPE>Mi amor...\! Es nuestro aniversario hoy, así que te compré...\!<br>¡\c[3]MANZANAS CARAMELIZADAS\c[0]!
+
+message_42:
+      text: \n<CHICO TORPE>Mi amor...\! Es nuestro anivesario hoy, así que te compré...\!<br>¡\c[3]DULCES\c[0]!
+
+message_43:
+      text: \n<SEÑORA CON COLETA>¡Oh! ¡Lo recordaste!\!<br>Gracias, cariño...\! Es muy considerado de tu parte...
+
+message_44:
+      text: \n<CHICO TORPE>Lo...\! ¿¡Lo es!?\! ¡Jaja!\! Quiero decir...\! ¡Lo es!\! ¡Me alegra que lo pienses!
+
+message_45:
+      text: \n<SEÑORA CON COLETA>De hecho, tengo un regalo para ti también...\!<br>¡Es una pizza de \c[11]GINO'S PIZZA\c[0]!
+
+message_46:
+      text: \n<CHICO TORPE>¿¡Una \c[3]PIZZA ENTERA\c[0]!?\! ¡Mi amor! ¡No tenías que hacerlo!\!<br>¡Este es el mejor regalo que he recibido en mi vida!
+
+message_47:
+      text: \n<SEÑORA CON COLETA>Yo...\! pensé que te gustaría...\!<br>He sido dura contigo últimamente...
+
+message_48:
+      text: \n<SEÑORA CON COLETA>Así que... ¡Pensé que tu comida favorita te animaría!
+
+message_49:
+      text: \n<CHICO TORPE>No... ¡No te preocupes, mi amor!\!<br>¡Sé que solo quieres lo que es mejor para mí!
+
+message_50:
+      text: \n<CHICO TORPE>Lo siento por ser tan difícil...
+
+message_51:
+      text: \n<SEÑORA CON COLETA>¡No seas bobo, cariño! ¡Te quiero por como eres!\!<br>¡Comamos pizza hoy y mañana!\!<br>¿Qué tal suena?
+
+message_52:
+      text: \n<CHICO TORPE>¡Oh, mi amor! ¿Lo dices en serio?\!<br>\sinv[1]¡Te ves tan hermosa que podría besarte!\sinv[0]
+
+message_53:
+      text: \n<SEÑORA CON COLETA>\sinv[1]¡Oh, cariño! Me haces sonrojar...\sinv[0]
+
+#[Camera pans to SARAH at the living room entrance]
+
+message_54:
+      text: \n<NIÑA CON COLETA>Ugh...\! Esto es asqueroso.\!<br>Me voy a mi cuarto...

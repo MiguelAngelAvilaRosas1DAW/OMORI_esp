@@ -1,0 +1,26 @@
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Slot Machines Text
+
+message_0:
+      text: \fs[46]APUESTA HASTA 3 LÍNEAS! GIRA! GIRA! GIRA!
+
+message_1:
+      text: \fs[46]¡¡GUAU!! ¡¡INCREÍBLE SUERTE!!\!\fs[24]<br>¿Quieres jugar de nuevo?
+
+message_2:
+      text: Gastaste algunas ALMEJAS.\! Qué mal...<br>\!¿Quieres jugar de nuevo?
+
+message_4:
+      text: No puedes llevar más ALMEJAS.
+
+message_5:
+      text: APOSTAR
+
+message_6:
+      text: GIRAR
+
+message_7:
+      text: SALIR

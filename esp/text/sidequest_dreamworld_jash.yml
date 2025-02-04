@@ -1,0 +1,20 @@
+# =========================================================================================
+# Sidequest: JASH
+# =========================================================================================
+
+#After purchasing any 1 item from ALL JASH (Sproutmole village, Ghost party, Frozen lake, Last Resort, Train station)
+
+message_0:
+      text: \n<JASH>¡Hey chico! Espera.\!<br>Antes de que te vayas quería agradecerte por ser un patrón fiel de JASH!
+
+message_1:
+      text: \n<JASH>¡Ha estado asombroso hacer negocios contigo!\!<br>Toma esta \c[13]ETIQUETA DE REBAJAS\c[0], completamente gratis.
+
+message_2:
+      text: \n<JASH>No recibirás descuentos con esa cosa, <br>pero seguro que le encuentras algún uso útil.
+
+message_3:
+      text: \n<LEMON JASH>¡Espera, señor o señora, no puedes cruzar!\!<br>¡Necesitas un \c[4]PASE DE TREN\c[0] para abordar!
+
+message_4:
+      text: \n<LEMON JASH>Hey chico. ¿Tienes algún \c[4]PASE DE TREN\c[0]?\!<br>...\! Ya veo...\! Vale, puedes pasar!

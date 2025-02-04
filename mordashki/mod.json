@@ -1,0 +1,10 @@
+{
+  "id": "mordashki",
+  "name": "Mordashki",
+  "description": "By Sergey Alekseevich Fyodorov, a.k.a. Petrushka (Устрица#1725)",
+  "version": "Pack 2",
+  "files": {
+    "assets": ["img/faces/"],
+    "text": ["languages/"]
+  }
+}
